@@ -2,7 +2,8 @@ import re
 import os
 from pathlib import Path
 
-def separa_paragrafos(caminho_arquivo):
+# ============================= Funções ================================
+def separar_arquivo_pdf_em_linhas(caminho_arquivo):
   print('separa em paragrafos...')
 
   paragrafos = []
@@ -15,7 +16,7 @@ def separa_paragrafos(caminho_arquivo):
       paragrafos.append(linha)
   return paragrafos
 
-def encontra_paragrafos_selecionados(paragrafos):
+def selecionar_paragrafos_cadastro_de_clientes(paragrafos):
   print('selecionar paragrafo ...')
 
   lista_de_paragrafos = []
@@ -43,10 +44,9 @@ def encontra_paragrafos_selecionados(paragrafos):
        adicionar = False
        frase = ''
     # ==============================================================
-
-
   return lista_de_paragrafos
 
+# ======================== Iniciar programa ===========================
 nova_pasta = Path() / 'cadastro'
 # criar pasta nova_pasat.
 nova_pasta.mkdir(exist_ok=True) # exist_ok=True para não da erro se existir pasta
@@ -57,6 +57,8 @@ PASTA_NOVA = PASTA_RAIZ / 'pdf_em_txt'
 
 caminho_arquivo = 'arquivo_texto.txt'
 
+# =========================== Gerar arquivo TXT ===========================
+
 for num , arquivo_txt in enumerate(os.listdir(PASTA_NOVA)):
     if arquivo_txt.endswith(".txt"):
         with open(os.path.join(PASTA_NOVA, arquivo_txt), "r") as f:
@@ -65,9 +67,9 @@ for num , arquivo_txt in enumerate(os.listdir(PASTA_NOVA)):
 
             print('Aguarde processamento...')
 
-            paginas = separa_paragrafos(ACESSO_ARQUIVOS)
+            arquivo_pdf_em_linhas_txt = separar_arquivo_pdf_em_linhas(ACESSO_ARQUIVOS)
 
-            paragrafos_selecionados = encontra_paragrafos_selecionados(paginas)
+            paragrafos_selecionados = selecionar_paragrafos_cadastro_de_clientes(arquivo_pdf_em_linhas_txt)
 
             for n, i in enumerate(paragrafos_selecionados):
                 print(f'{n + 1} = {i}\n\n')
@@ -76,4 +78,7 @@ for num , arquivo_txt in enumerate(os.listdir(PASTA_NOVA)):
                 # arquivo.writelines(paragrafos_selecionados)
                 for n,p in enumerate(paragrafos_selecionados):
                     arquivo.write(f'{n + 1} = {p}\n\n')
-print('FIM')
+    print('Processo finalizado...')
+
+print('FIM...')
+

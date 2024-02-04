@@ -12,7 +12,7 @@ PASTA_RAIZ = Path(__file__).parent
 PASTA_ORIGINAIS = PASTA_RAIZ / 'pdfs_originais'
 PASTA_NOVA = PASTA_RAIZ / 'pdf_em_txt'
 
-for num , arquivo_pdf in enumerate(os.listdir(PASTA_ORIGINAIS)):
+for num , arquivo_pdf in enumerate(os.listdir(PASTA_ORIGINAIS), start=1):
     if arquivo_pdf.endswith(".pdf"):
         with open(os.path.join(PASTA_ORIGINAIS, arquivo_pdf), "r") as f:
 
@@ -28,4 +28,7 @@ for num , arquivo_pdf in enumerate(os.listdir(PASTA_ORIGINAIS)):
                 out.write(text) # escrever o texto da página
                 out.write(bytes((12,))) # escrever delimitador de página (feed de formulário 0x0C)
             out.close()
-            print('FIM')
+            print('Processo finalizado...')
+
+
+('FIM')

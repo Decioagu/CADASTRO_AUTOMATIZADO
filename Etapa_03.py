@@ -1,12 +1,26 @@
 import re
-import os
 from pathlib import Path
 import csv
 
-# ======================== Funções principais ===========================
+# ======================== Função inicial ===========================
+
+def separar_em_paragrafo(caminho_arquivo):
+    paragrafos = []
+
+    with open(caminho_arquivo, 'r', encoding='utf8') as arquivo: # with (abre e fecha)
+        texto = arquivo.read()
+
+    for linha in texto.split("\n"):
+        if linha:
+            paragrafos.append(linha)
+    return paragrafos
+
+# ======================== Funções de filtro ===========================
 def filtrar_portaria():
-    _filtrar_portaria_ = str(*portaria)
+    pre_filtro_portaria = re.findall(r'\bPor\s?-?ta\s?-?ria.*', str(*portaria), flags=re.I)
+    _filtrar_portaria_ = str(*pre_filtro_portaria)
     _filtrar_resolucao_ = str(*resolucao)
+    print(_filtrar_portaria_)
 
     portaria.clear()
     resolucao.clear()
@@ -28,9 +42,9 @@ def filtrar_matricula():
     matricula.append(str(*_filtrar_matricula_2))
 
 def filtrar_profissao():
-    _filtrar_profissao_1 = re.findall(r'.+ matr', str(*profissao), flags=re.I)
+    _filtrar_profissao_1 = re.findall(r'.+ ma-?tr', str(*profissao), flags=re.I)
 
-    _filtrar_profissao_2 = re.sub(r'matr', '', str(*_filtrar_profissao_1), flags=re.I)
+    _filtrar_profissao_2 = re.sub(r'ma-?tr', '', str(*_filtrar_profissao_1), flags=re.I)
 
     profissao_string = _filtrar_profissao_2
 
@@ -66,18 +80,7 @@ def filtrar_nome():
 
         nome.append(variavel_auxiliar)
 
-def separar_em_paragrafo(caminho_arquivo):
-    paragrafos = []
-
-    with open(caminho_arquivo, 'r', encoding='utf8') as arquivo: # with (abre e fecha)
-        texto = arquivo.read()
-
-    for linha in texto.split("\n"):
-        if linha:
-            paragrafos.append(linha)
-    return paragrafos
-
-# ======================== Funções auxiliar ==========================
+# ======================== Funções auxiliares ==========================
 def eliminar_virgula_no_texto_portaria(texto_string):
     eliminar_virgula_texto_string = ''
 
@@ -109,7 +112,7 @@ def unir_lista_em_um_texto(valor):
         lista = variavel_auxiliar.strip()
         return lista
 
-# ======================== Iniciar ===========================
+# ======================== Iniciar programa ===========================
 
 # caminho do arquivo
 PASTA_RAIZ = Path(__file__).parent
@@ -117,65 +120,88 @@ PASTA_NOVA = PASTA_RAIZ / 'cadastro' / 'cadastro_texto.txt'
 
 print(PASTA_NOVA)
 minha_lista = separar_em_paragrafo(PASTA_NOVA)
+lista_de_clientes = []
 
+# ================== Logica de seleção de palavras =====================
 for texto in minha_lista:
     # =============================== nome =====================================
     nome = re.findall(r'\bprov.+[\w]+', texto)
     filtrar_nome()
-    print(nome)
+    nome_string = str(*nome)
+    print( nome_string)
+
     # ============================= inatividade ===============================
-    inatividade = re.findall(r'inat.*-?e',texto, flags=re.I)
+    inatividade = re.findall(r'ina-?t.*-?e',texto, flags=re.I)
     if inatividade:
         inatividade = ['inativo']
-        print(inatividade)
+        inatividade_string = str(*inatividade)
+        print(inatividade_string)
     else:
         inatividade = ['NÃO inativo']
-        print(inatividade)
+        inatividade_string = str(*inatividade)
+        print(inatividade_string)
+
     # =============================== profissão ================================
     profissao = re.findall(r',.?[0-9A-ZÀ-ú,-].+',texto)
     filtrar_profissao()
-    print(profissao)
+    profissao_string = str(*profissao)
+    print(profissao_string)
 
     # ============================== matricula =================================
-    matricula = re.findall(r'matr.+Apo', texto, flags=re.I)
+    matricula = re.findall(r'ma-?tr.+Apo', texto, flags=re.I)
     filtrar_matricula()
-    print(matricula)
+    matricula_string =  str(*matricula)
+    print(matricula_string)
 
     # ============================= aposentando ================================
     aposentado = re.findall(r'\bapo.*do\b',texto, flags=re.I)
     aposentada = re.findall(r'\bapo.*da\b',texto, flags=re.I)
     if aposentada:
-        aposentado = ['SIM aposentada']
-        print(aposentado)
+        aposentado_string = 'SIM aposentado(a)'
+        print(aposentado_string)
     elif aposentado:
-        aposentado = ['SIM aposentado']
-        print(aposentado)
+        aposentado_string = 'SIM aposentado(a)'
+        print(aposentado_string)
     else:
-        aposentado = ['NÃO aposentado(a)']
-        print(aposentado)
+        aposentado_string = 'NÃO aposentado(a)'
+        print(aposentado_string)
 
     # ============================== portaria =================================
-    portaria = re.findall(r'\bPor.*ria\b.*',texto, flags=re.I)
-    resolucao = re.findall(r'\bres.*ão\b.*\d{4}\b\s?,',texto, flags=re.I)
+    portaria = re.findall(r'\bapo.*\bPor\s?-?ta\s?-?ria.*',texto, flags=re.I)
+    resolucao = re.findall(r'\bre\s?-?so\s?-?lu\s?-?ção.*\d{4}\b\s?,',texto, flags=re.I)
     filtrar_portaria()
-    print(portaria) # Portaria
+    portaria_string = str(*portaria)
+    print(portaria_string) # Portaria
 
     # =============================== processo ================================
     processo = re.findall(r'\bpro\s?-?ce\s?-?s\s?-?so\b.*',texto, flags=re.I)
-    print(processo)
-    # =========================================================================
+    processo_string = str(*processo)
+    print(processo_string)
+    # =========================== lista de clientes ===========================
+    cliente = [ nome_string, inatividade_string, profissao_string, matricula_string,
+                        aposentado_string, portaria_string, processo_string]
+
+    lista_de_clientes.append(cliente)
     print('\n===========================================================\n')
 
 
-    with open('meu_cadastro.txt', 'a', encoding='utf8') as arquivo: # with (abre e fecha)
-        arquivo.write('\n===========================================================\n') # escrever no arquivo
-        arquivo.write(f'Nome: {str(nome)}\n') # escrever no arquivo
-        arquivo.write(f'Situação atual: {str(inatividade)}\n') # escrever no arquivo
-        arquivo.write(f'Profissão: {str(profissao)}\n' ) # escrever no arquivo
-        arquivo.write(f'Matricula: {str(matricula)}\n') # escrever no arquivo
-        arquivo.write(f'Aposentadoria: {str(aposentado)}\n') # escrever no arquivo
-        arquivo.write(f'Portaria ou Resolução: {str(portaria)}\n') # escrever no arquivo
-        arquivo.write(f'Nome e data do processo: {str(processo)}\n') # escrever no arquivo
+# =========================== Gerar arquivo CSV ===========================
+# caminho do arquivo
+PASTA_RAIZ = Path(__file__).parent
+CAMINHO_CSV = PASTA_RAIZ / 'cadastro' / 'cadastro.csv'
+
+lista_com_todos_os_clientes = list(lista_de_clientes)
+
+with open(CAMINHO_CSV, 'a', newline='') as arquivo:
+    nome_colunas = ['NOME', 'SITUAÇÃO ATUAL', 'PROFISSÃO', 'MATRICULA', 'APOSENTADORIA',
+                    'PORTARIA OU RESOLUÇÃO', 'NÚMERO DO PROCESSO'] # chave para coluna
+    escritor = csv.writer(arquivo) # modo de gravação
+
+    writer = csv.DictWriter(arquivo, fieldnames=nome_colunas) # modo de gravação
+    writer.writeheader() # método para escrever a linha de cabeçalho de um arquivo CSV (fieldnames=)
+
+    escritor.writerows(lista_com_todos_os_clientes) # escrever todas as linhas de dados
+
 
 
 
