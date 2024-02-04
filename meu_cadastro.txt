@@ -1,0 +1,1980 @@
+
+===========================================================
+Nome: ['IVANA CRISTINA MORAES DA SILVA']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR I - ARTES PLÁSTICAS - CLASSE C - NÍVEL 6']
+Matricula: ['15/176.525-4']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 401 de 27/10/2023']
+Nome e data do processo: ['processo nº 07/10/000.519/2023.']
+
+===========================================================
+Nome: ['RUTH SHEYLA ROCHA MENDES GUIMARÃES TEIXEIRA']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE A - NÍVEL 6']
+Matricula: ['15/148.033-4']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 383 de 11/10/2023']
+Nome e data do processo: ['processo nº 07/02/000.705/2023.']
+
+===========================================================
+Nome: ['SHIRLEY DE OLIVEIRA MOURA']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE B - NÍVEL 6']
+Matricula: ['15/207.346-8']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 423 de 01/11/2023']
+Nome e data do processo: ['processo nº 07/04/001.003/2021.']
+
+===========================================================
+Nome: ['ANGELA CRISTINA ALVES DOS SANTOS PEREIRA']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE C - NÍVEL 5']
+Matricula: ['15/217.903-4']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 375 de 10/10/2023']
+Nome e data do processo: ['processo nº 07/10/003.514/2022.']
+
+===========================================================
+Nome: ['SIMONE ALVES SERODIO RIBEIRO']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR DE ENSINO FUNDAMENTAL - EDUCAÇÃO FÍSICA - CLASSE C - NÍVEL 7']
+Matricula: ['15/165.576-0']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 304 de 22/09/2023']
+Nome e data do processo: ['processo nº 07/03/003.079/2019.']
+
+===========================================================
+Nome: ['KATHIA MARIA CAETETU DUARTE']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE C - NÍVEL 7']
+Matricula: ['15/105.014-5']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 339 de 29/09/2023']
+Nome e data do processo: ['processo nº 07/02/000.568/2023.']
+
+===========================================================
+Nome: ['KATIA BATALHA GONÇALVES HENRIQUES']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE C NÍVEL 7']
+Matricula: ['15/104.619-2']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/SUBEX/CGRH “P” Nº 331 de 31/03/2023']
+Nome e data do processo: ['processo nº 07/04/002.964/2022 e TORNO SEM EFEITO a apostila lavrada em 11/05/2023.']
+
+===========================================================
+Nome: ['LUCIANA MARIANO ROCHA']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE C - NÍVEL 7']
+Matricula: ['15/171.341-1']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 285 de 15/09/2023']
+Nome e data do processo: ['processo nº 07/08/000.272/2023.']
+
+===========================================================
+Nome: ['MARIA ALICE COELHO VASCONCELLOS']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE A - NÍVEL 7']
+Matricula: ['15/153.638-2']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 393 de 20/10/2023']
+Nome e data do processo: ['processo nº 07/05/000.214/2023.']
+
+===========================================================
+Nome: ['FANI RUSSEK TERUSZKIM']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE C - NÍVEL 7']
+Matricula: ['15/150.136-0']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Por-taria E/CTRH/CARH “P” Nº 377 de 10/10/2023']
+Nome e data do processo: ['processo nº 07/02/000.181/2023.']
+
+===========================================================
+Nome: ['MARILENE MATTOS DE SOUZA']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE C - NÍVEL 7']
+Matricula: ['15/165.201-5']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 369 de 06/10/2023']
+Nome e data do processo: ['processo nº 07/09/000.252/2023']
+
+===========================================================
+Nome: ['GISELLE GOMES DE SOUZA']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE B - NÍVEL 5']
+Matricula: ['15/215.539-8']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 392 de 20/10/2023']
+Nome e data do processo: ['processo nº 07/06/000.453/2023.']
+
+===========================================================
+Nome: ['ALESSANDRA CARNEIRO DA SILVA']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR I - EDUCAÇÃO FÍSICA - CLASSE C - NÍVEL 5']
+Matricula: ['15/234.528-8']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 406 de 30/10/2023']
+Nome e data do processo: ['processo nº 07/08/000.327/2023.']
+
+===========================================================
+Nome: ['WANIA MALAFAIA DOS SANTOS AFFONSO']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE C NÍVEL 4']
+Matricula: ['15/127.953-8']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/SUBG/CGRH/CARH “P” Nº 1238 de 03/12/2020']
+Nome e data do processo: ['processo nº 07/005.083/2018.']
+
+===========================================================
+Nome: ['Katya Martins Borchers Azevedo']
+Situação atual: ['inativo']
+Profissão: ['Agente de Adminis-tração Categoria Especial B']
+Matricula: ['15/219.409-0']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA “P” CVL/SUBG/CTRH Nº 33 de 29/12/2023']
+Nome e data do processo: ['processo nº 01/000.044/2023.']
+
+===========================================================
+Nome: ['JOSÉ RODRIGUES PEREIRA JUNIOR']
+Situação atual: ['inativo']
+Profissão: ['Engenheiro Civil Categoria Especial “A”']
+Matricula: ['15/098.069-8']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria “P” Nº 25 de 27/10/2023']
+Nome e data do processo: ['processo nº IFR-PRO-2023/01310.']
+
+===========================================================
+Nome: ['WANTUIL ESTEVÃO MACHADO']
+Situação atual: ['inativo']
+Profissão: ['Operador de Máquinas Pesadas Classe Especial']
+Matricula: ['15/120.069-0']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria “P” Nº 24 de 27/10/2023']
+Nome e data do processo: ['processo nº IFR-PRO-2023/01279.']
+
+===========================================================
+Nome: ['SILVANA MARIA DE OLIVEIRA MELO']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR DE ENSINO FUNDAMENTAL - MATEMÁTICA - CLASSE C - NÍVEL 6']
+Matricula: ['15/173.960-6']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 514 de 30/11/2023']
+Nome e data do processo: ['pro-cesso nº SME-PRO-2023/40449.']
+
+===========================================================
+Nome: ['ALITA SOARES DA COSTA']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE C - NÍVEL 7']
+Matricula: ['15/153.587-1']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 520 de 30/11/2023']
+Nome e data do processo: ['processo nº SME-PRO-2023/39795.']
+
+===========================================================
+Nome: ['SUELI POLESSA PAULA']
+Situação atual: ['inativo']
+Profissão: ['MERENDEIRA - CATEGORIA ESPECIAL']
+Matricula: ['15/227.715-0']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 515 de 30/11/2023']
+Nome e data do processo: ['processo nº SME-PRO-2023/38663.']
+
+===========================================================
+Nome: ['ELAINE DO VALLE']
+Situação atual: ['inativo']
+Profissão: ['PRO-FESSOR II - CLASSE C - NÍVEL 7']
+Matricula: ['15/150.125-3']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 505 de 30/11/2023']
+Nome e data do processo: ['processo nº SME-PRO-2023/37708.']
+
+===========================================================
+Nome: ['ROSA CRISTINA SOARES DE SOUZA ABRAHÃO MOREIRA DA SILVA']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE C - NÍVEL 7']
+Matricula: ['15/135.903-3']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 513 de 30/11/2023']
+Nome e data do processo: ['processo nº SME-PRO-2023/37272.']
+
+===========================================================
+Nome: ['WASHINGTON MOUSINHO LINS DOS SANTOS']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR I - EDUCAÇÃO FÍSICA - CLASSE D - NÍVEL 7']
+Matricula: ['15/166.386-3']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 503 de 30/11/2023']
+Nome e data do processo: ['processo nº SME-PRO-2023/35027.']
+
+===========================================================
+Nome: ['WALDIR VALENTIM']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR DE ENSINO FUNDAMENTAL - EDUCAÇÃO FÍSICA - CLASSE C - NÍVEL 7']
+Matricula: ['15/162.361-0']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 503 de 30/11/2023']
+Nome e data do processo: ['processo nº SME-PRO-2023/37029.']
+
+===========================================================
+Nome: ['IVANA BANDEIRA DA COSTA']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE C - NÍVEL 7']
+Matricula: ['15/148.252-0']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 507 de 30/11/2023']
+Nome e data do processo: ['processo nº SME-PRO-2023/36757.']
+
+===========================================================
+Nome: ['TELMA MARIA CAMPOS SILVA']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR DE ENSINO FUNDAMENTAL - LÍNGUA PORTUGUESA - CLASSE C - NÍVEL 7']
+Matricula: ['15/166.596-7']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTUGUESA - CLASSE C - NÍVEL 7']
+Nome e data do processo: ['pro-cesso nº SME-PRO-2023/31704.']
+
+===========================================================
+Nome: ['LUCI ANA SARPI XAVIER DE ASSIS OLIVEIRA']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE C - NÍVEL 5']
+Matricula: ['15/218.192-3']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 587 de 18/12/2023']
+Nome e data do processo: ['processo nº SME-PRO-2023/42658.']
+
+===========================================================
+Nome: ['JANDIARA BONZOUMET TEIXEIRA DE MELO']
+Situação atual: ['inativo']
+Profissão: ['MERENDEIRA - CATEGORIA ESPECIAL']
+Matricula: ['15/227.694-7']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 426 de 01/11/2023']
+Nome e data do processo: ['processo nº SME-PRO-2023/32910.']
+
+===========================================================
+Nome: ['AMELIA NATALIA PIMENTEL FELIX']
+Situação atual: ['inativo']
+Profissão: ['PSICÓLOGO - CATEGORIA ESPECIAL “A”']
+Matricula: ['15/245.581-4']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/SUBEX/CGRH “P” Nº 539 de 17/05/2023']
+Nome e data do processo: ['processo nº 07/000.452/2023 e TORNO SEM EFEITO a apostila lavrada em 03/08/2023.']
+
+===========================================================
+Nome: ['MARCIA MARIA GAPO DA COSTA CARDOSO']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE A - NÍVEL 5']
+Matricula: ['15/232.055-4']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 391 de 19/10/2023']
+Nome e data do processo: ['processo nº 07/08/000.102/2023.']
+
+===========================================================
+Nome: ['ROSANGELA RABIÇA GONÇALVES RODRIGUES NETTO']
+Situação atual: ['inativo']
+Profissão: ['AGENTE DE DOCUMENTAÇÃO MÉDICA CATEGORIA ESPECIAL “A”']
+Matricula: ['15/229.485-8']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.285 de 31 de OU-TUBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS-PRO-2023/17559.']
+
+===========================================================
+Nome: ['EDNA WENCESLAU SCHMIEDEK']
+Situação atual: ['inativo']
+Profissão: ['ENFERMEIRO CATEGORIA ESPECIAL “A”']
+Matricula: ['15/145.496-6']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.307 de 31 de OUTUBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS-PRO-2023/17656.']
+
+===========================================================
+Nome: ['ANA PAULA SILVA CUNHA']
+Situação atual: ['inativo']
+Profissão: ['ENFERMEIRO CATEGORIA ESPECIAL “A”']
+Matricula: ['15/169.024-7']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.283 de 31 de OUTUBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS-PRO-2023/17759.']
+
+===========================================================
+Nome: ['DENISIO ALVES MONTEIRO']
+Situação atual: ['inativo']
+Profissão: ['ARTÍFICE DE ELETRICIDADE CATEGORIA ESPECIAL “A”']
+Matricula: ['15/019.823-4']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.323 de 01 de NOVEMBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS- PRO-2023/17992.']
+
+===========================================================
+Nome: ['IARAI SILVA TEIXEIRA']
+Situação atual: ['inativo']
+Profissão: ['ROUPEIRO CATEGORIA ESPECIAL “A”']
+Matricula: ['15/160.358-8']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.319 de 01 de NOVEMBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS-PRO-2023/18342.']
+
+===========================================================
+Nome: ['MILTON FERREIRA JUNIOR']
+Situação atual: ['inativo']
+Profissão: ['AUXILIAR DE ENFERMAGEM (ENQ. FORMAÇÃO) 2ª CATEGORIA']
+Matricula: ['15/121.337-0']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.291 de 31 de OUTUBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS-PRO-2023/17208.']
+
+===========================================================
+Nome: ['VALERIA FERNANDES']
+Situação atual: ['inativo']
+Profissão: ['MÉ-DICO ANESTESIOLOGIA CATEGORIA ESPECIAL “A”']
+Matricula: ['15/161.874-3']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.432 de 30 de NOVEMBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS-PRO-2023/23363.']
+
+===========================================================
+Nome: ['DENISE SANT´ANA MOURA']
+Situação atual: ['inativo']
+Profissão: ['AUXILIAR DE ENFERMAGEM (ENQ. FORMAÇÃO) 2ª CATEGORIA']
+Matricula: ['15/193.847-1']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.404 de 30 de NOVEMBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS-PRO-2023/17058.']
+
+===========================================================
+Nome: ['SILVIO FERNANDES MULIM']
+Situação atual: ['inativo']
+Profissão: ['AUXILIAR DE CAMPO (RIOLUZ) CLASSE ESPECIAL']
+Matricula: ['15/190.212-1']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.431 de 30 de NOVEMBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS- PRO-2023/16933.']
+
+===========================================================
+Nome: ['CARLA LOUREIRO DE MORAES']
+Situação atual: ['inativo']
+Profissão: ['MÉDICO PEDIATRIA CATEGORIA ESPECIAL “A”']
+Matricula: ['15/178.879-3']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.401 de 30 de NOVEMBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS- PRO-2023/16806.']
+
+===========================================================
+Nome: ['ANA PAULA FARIA DINIZ']
+Situação atual: ['inativo']
+Profissão: ['MÉDICO PEDIATRIA CATEGORIA ESPECIAL “A”']
+Matricula: ['15/178.474-3']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['POR-TARIA ‘P’ S/SUBG/CGP Nº. 1.394 de 29 de NOVEMBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS-PRO-2023/17503.']
+
+===========================================================
+Nome: ['CARLA ALVES DA SILVA']
+Situação atual: ['inativo']
+Profissão: ['AUXILIAR DE ENFERMAGEM (ENQ. FORMAÇÃO) 2ª CATEGORIA']
+Matricula: ['15/213.165-4']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.269 de 30 de OUTUBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS- PRO-2023/19724.']
+
+===========================================================
+Nome: ['EDIMAR DIAS CORREA']
+Situação atual: ['inativo']
+Profissão: ['AUXILIAR DE CONTROLE DE ENDEMIAS']
+Matricula: ['15/231.389-8']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.302 de 31 de OUTUBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS-PRO-2023/17006.']
+
+===========================================================
+Nome: ['NADIA REGINA FERREIRA']
+Situação atual: ['inativo']
+Profissão: ['MÉDICO CLÍNICA MÉDICA CATEGORIA ESPECIAL “A”']
+Matricula: ['15/159.371-4']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.299 de 31 de OUTUBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS- PRO-2023/14789.']
+
+===========================================================
+Nome: ['PATRICIA DA ROCHA RANGEL']
+Situação atual: ['inativo']
+Profissão: ['FONOAUDIÓLOGO CATEGORIA ESPECIAL “A”']
+Matricula: ['15/174.044-8']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.300 de 31 de OUTUBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS-PRO-2023/15382.']
+
+===========================================================
+Nome: ['LUIZ ALBUQUERQUE SILVA']
+Situação atual: ['inativo']
+Profissão: ['AUXILIAR DE ENFERMAGEM (ENQ. FORMAÇÃO) 2ª CATEGORIA']
+Matricula: ['15/163.506-9']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.318 de 01 de NOVEMBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS-PRO-2023/15605.']
+
+===========================================================
+Nome: ['ELIZABETH CRISTINA DOS SANTOS LEMOS BARCELLOS']
+Situação atual: ['inativo']
+Profissão: ['MÉDICO PEDIATRIA CATEGORIA ESPECIAL “A”']
+Matricula: ['15/179.207-6']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.308 de 31 de OUTUBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS-PRO-2023/15778.']
+
+===========================================================
+Nome: ['REGINA LUCIA DE OLIVEIRA']
+Situação atual: ['inativo']
+Profissão: ['AUXILIAR DE ENFERMAGEM (ENQ. FORMAÇÃO) 2ª CATEGORIA']
+Matricula: ['15/236.974-2']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.270 de 30 de OUTUBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS-PRO-2023/15846.']
+
+===========================================================
+Nome: ['EDELITA MARIA SILVA ARAUJO']
+Situação atual: ['inativo']
+Profissão: ['AUXILIAR DE ENFERMAGEM (ENQ. FORMAÇÃO) 2ª CATEGORIA']
+Matricula: ['15/227.072-6']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.289 de 31 de OUTUBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS-PRO-2023/16060.']
+
+===========================================================
+Nome: ['ROSANE GONÇALVES PRETO']
+Situação atual: ['inativo']
+Profissão: ['TERAPEUTA OCUPACIONAL CATEGORIA ESPECIAL “A”']
+Matricula: ['15/215.205-6']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.305 de 31 de OUTUBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS- PRO-2023/16067.']
+
+===========================================================
+Nome: ['ADILSON NUNES DA COSTA']
+Situação atual: ['inativo']
+Profissão: ['ARTÍFICE DE MECÂNICA CATEGORIA ESPECIAL “A”']
+Matricula: ['15/119.146-9']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.309 de 31 de OUTUBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS- PRO-2023/16130.']
+
+===========================================================
+Nome: ['MARIA JOSÉ DA SILVA COSTA']
+Situação atual: ['inativo']
+Profissão: ['SERVENTE CATEGORIA ESPECIAL “A”']
+Matricula: ['15/093.350-7']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['POR-TARIA ‘P’ S/SUBG/CGP Nº. 1.321 de 01 de NOVEMBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS-PRO-2023/16132.']
+
+===========================================================
+Nome: ['ELCIR SIMÕES RIBEIRO']
+Situação atual: ['inativo']
+Profissão: ['COPEIRO CATEGORIA ESPECIAL “A”']
+Matricula: ['15/139.427-9']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.311 de 31 de OUTUBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS-PRO-2023/16217.']
+
+===========================================================
+Nome: ['JACQUELINE DE ALMEIDA FERNANDES']
+Situação atual: ['inativo']
+Profissão: ['MÉDICO GINECOLOGIA CATEGORIA ESPECIAL “A”']
+Matricula: ['15/159.435-7']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.286 de 31 de OUTUBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS-PRO-2023/16671.']
+
+===========================================================
+Nome: ['VANIA MARTA SILVA DOS SANTOS']
+Situação atual: ['inativo']
+Profissão: ['AUXILIAR DE ENFERMAGEM (ENQ. FORMAÇÃO) 2ª CATEGORIA']
+Matricula: ['15/189.142-3']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.290 de 31 de OUTUBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS-PRO-2023/16711.']
+
+===========================================================
+Nome: ['CRISTINA ARRUDA GONÇALVES']
+Situação atual: ['inativo']
+Profissão: ['MÉDICO RADIOLOGIA CATEGORIA ESPECIAL “A”']
+Matricula: ['15/161.845-3']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.294 de 31 de OUTUBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS- PRO-2023/16792.']
+
+===========================================================
+Nome: ['DESUITE HELENA PEÇANHA DA SILVA DE ARAÚJO']
+Situação atual: ['inativo']
+Profissão: ['ENFERMEIRO CATEGORIA ESPECIAL “A”']
+Matricula: ['15/189.720-6']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.304 de 31 de OUTUBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS-PRO-2023/16997.']
+
+===========================================================
+Nome: ['TANIA MARIA BRAZ VICTORIANO']
+Situação atual: ['inativo']
+Profissão: ['ENFERMEIRO CATEGORIA ESPECIAL “A”']
+Matricula: ['15/225.458-9']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 207 de 25 de FEVEREIRO de 2022']
+Nome e data do processo: ['PROCESSO Nº 09/31/000.164/2022.']
+
+===========================================================
+Nome: ['RITA DE CASSIA SERIO GABI']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLAS-SE C - NÍVEL 7']
+Matricula: ['15/160.295-2']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” No 589 de 20/12/2023']
+Nome e data do processo: ['processo nº SME-PRO-2023/42881.']
+
+===========================================================
+Nome: ['JOSÉ CALIXTO MELO DE LIRA']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR DE ENSINO FUNDAMENTAL - MATEMÁTICA - CLASSE C - NÍVEL 5']
+Matricula: ['15/233.256-7']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 588 de 20/12/2023']
+Nome e data do processo: ['processo nº SME-PRO-2023/40268.']
+
+===========================================================
+Nome: ['NELSON RICARDO NOGUEIRA CORREA']
+Situação atual: ['inativo']
+Profissão: ['PROFES-SOR I - EDUCAÇÃO FÍSICA - CLASSE C - NÍVEL 6']
+Matricula: ['15/113.006-1']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 556 de 07/12/2023']
+Nome e data do processo: ['processo nº SME-PRO-2023/58323.']
+
+===========================================================
+Nome: ['ALITA SOARES DA COSTA']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE C - NÍVEL 7']
+Matricula: ['15/137.160-8']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” No 521 de 30/11/2023']
+Nome e data do processo: ['processo nº SME- PRO-2023/39806.']
+
+===========================================================
+Nome: ['SUELY DA CRUZ WADDINGTON']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE B - NÍVEL 6']
+Matricula: ['15/206.855-9']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 516 de 30/11/2023']
+Nome e data do processo: ['processo nº SME-PRO-2023/37365.']
+
+===========================================================
+Nome: ['VALERIA CARRERA ROURA']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE A - NÍVEL 6']
+Matricula: ['15/203.290-2']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 518 de 30/11/2023']
+Nome e data do processo: ['processo nº SME- PRO-2023/37161.']
+
+===========================================================
+Nome: ['ZENAIDE DA SILVA BERNARDO SIMAS']
+Situação atual: ['inativo']
+Profissão: ['MERENDEIRA - CATEGORIA ESPECIAL']
+Matricula: ['15/194.260-6']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 519 de 30/11/2023']
+Nome e data do processo: ['processo nº SME-PRO-2023/33428.']
+
+===========================================================
+Nome: ['ROSEMERE VALGA SOROMINCKI']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE C - NÍVEL 5']
+Matricula: ['15/232.249-3']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” No 402 de 27/10/2023']
+Nome e data do processo: ['processo nº 07/03/000.108/2022.']
+
+===========================================================
+Nome: ['FLAVIA ESTER TENDLER LEIBEL']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR DE ENSINO FUNDAMENTAL - ANOS INICIAIS - CLASSE C - NÍVEL 7']
+Matricula: ['15/252.602-8']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 468 de 24/11/2023']
+Nome e data do processo: ['processo nº SME-PRO-2023/32227.']
+
+===========================================================
+Nome: ['VANIA COELHO MENDES']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE C - NÍVEL 7']
+Matricula: ['15/162.828-8']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” No 501 de 30/11/2023']
+Nome e data do processo: ['processo nº SME- PRO-2023/33103.']
+
+===========================================================
+Nome: ['LUCIANA DIAS DANTAS FARIA']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE C - NÍVEL 5']
+Matricula: ['15/238.874-2']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” No 509 de 30/11/2023']
+Nome e data do processo: ['processo nº SME-PRO-2023/36749.']
+
+===========================================================
+Nome: ['NILZA ANGELA DE FREITAS']
+Situação atual: ['inativo']
+Profissão: ['MERENDEIRA - CATE-GORIA ESPECIAL']
+Matricula: ['15/151.650-9']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 467 de 24/11/2023']
+Nome e data do processo: ['processo nº SME-PRO-2023/38669.']
+
+===========================================================
+Nome: ['ANGELA REGINA DE FREITAS']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE C - NÍVEL 7']
+Matricula: ['15/158.117-2']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” No 485 de 30/11/2023']
+Nome e data do processo: ['pro-cesso nº SME-PRO-2023/30955.']
+
+===========================================================
+Nome: ['JOSETE DE SOUZA DE JESUS']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE C - NÍVEL 5']
+Matricula: ['15/235.268-0']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” No 490 de 30/11/2023']
+Nome e data do processo: ['pro-cesso nº SME-PRO-2023/33266.']
+
+===========================================================
+Nome: ['SONIA CRISTINA CARDOSO CARREIRO']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE C - NÍVEL 5']
+Matricula: ['15/235.171-6']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” No 499 de 30/11/2023']
+Nome e data do processo: ['pro-cesso nº SME-PRO-2023/33374.']
+
+===========================================================
+Nome: ['MARCIA REGINA ALVES DA ROCHA']
+Situação atual: ['inativo']
+Profissão: ['AGENTE DE EDUCAÇÃO INFANTIL - NÍVEL 4']
+Matricula: ['15/254.548-1']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 316 de 27/09/2023']
+Nome e data do processo: ['processo nº SME-PRO-2023/28198.']
+
+===========================================================
+Nome: ['JULIO CESAR PETROCELLI CORREIA']
+Situação atual: ['inativo']
+Profissão: ['AGENTE DE DOCUMENTAÇÃO MÉDICA CATEGORIA ESPECIAL “A”']
+Matricula: ['15/238.013-7']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 759 de 30 de JUNHO de 2023']
+Nome e data do processo: ['PRO-CESSO Nº 09/33/000.125/2023.']
+
+===========================================================
+Nome: ['INES CANTISANI DOS SANTOS']
+Situação atual: ['inativo']
+Profissão: ['AUXILIAR DE ENFERMAGEM (ENQ. FORMAÇÃO) 2ª CATEGORIA']
+Matricula: ['15/214.497-0']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.019 de 31 de AGOSTO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS-PRO-2023/14861.']
+
+===========================================================
+Nome: ['ELISABETE MORAES DOS SANTO']
+Situação atual: ['inativo']
+Profissão: ['AGENTE DE ADMINISTRAÇÃO - CATEGORIA ESPECIAL “A”']
+Matricula: ['15/192.770-6']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 506 de 30/11/2023']
+Nome e data do processo: ['processo nº SME-PRO- 2023/36927.']
+
+===========================================================
+Nome: ['MARIA VALESKA LOPES CABRAL']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE A NÍVEL 5']
+Matricula: ['15/232.508-2']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 374 de 09/10/2023']
+Nome e data do processo: ['processo nº SME-PRO- 2023/27495.']
+
+===========================================================
+Nome: ['GILSA BENTO DA SILVA MEIRELES']
+Situação atual: ['inativo']
+Profissão: ['AGENTE DE EDUCAÇÃO INFANTIL - NÍVEL 4']
+Matricula: ['15/267.217-8']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 387 de 11/10/2023']
+Nome e data do processo: ['processo nº 07/08/000.405/2023.']
+
+===========================================================
+Nome: ['ANDREIA TAVEIRA DA CRUZ SAMPAIO']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE C - NÍVEL 5']
+Matricula: ['15/232.001-8']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” No 484 de 30/11/2023']
+Nome e data do processo: ['processo nº SME-PRO-2023/30861.']
+
+===========================================================
+Nome: ['MARCIA RAMOS DE OLIVEIRA']
+Situação atual: ['inativo']
+Profissão: ['MERENDEIRA - CATEGORIA ESPECIAL']
+Matricula: ['15/227.750-7']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 445 de 14/11/2023']
+Nome e data do processo: ['processo nº SME-PRO-2023/31639.']
+
+===========================================================
+Nome: ['MAURO MOTTA DA SILVA']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE C NÍVEL 5']
+Matricula: ['15/242.560-1']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” No 400 de 26/10/2023']
+Nome e data do processo: ['processo SME-PRO-2023/28710.']
+
+===========================================================
+Nome: ['MARCIO COSTA DA SILVA']
+Situação atual: ['inativo']
+Profissão: ['AGENTE DE APOIO A EDUCAÇÃO ESPECIAL 3ª CATEGORIA']
+Matricula: ['15/297.530-8']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 193 de 25/08/2023']
+Nome e data do processo: ['processo SME-PRO-2023/33431.']
+
+===========================================================
+Nome: ['MARIA SOLANGE SOUZA BARBOSA']
+Situação atual: ['inativo']
+Profissão: ['AGENTE DE EDUCAÇÃO INFANTIL NÍVEL 3']
+Matricula: ['15/280.782-4']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 363 de 04/10/2023']
+Nome e data do processo: ['processo SME-PRO-2023/40316.']
+
+===========================================================
+Nome: ['SHIRLEY DIAS DE SOUZA PEREIRA']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE C NÍVEL 4']
+Matricula: ['15/260.440-3']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” No 476 de 29/11/2023']
+Nome e data do processo: ['processo nº SME- PRO-2023/30067.']
+
+===========================================================
+Nome: ['CASSIA REGINA MOREIRA DA SILVA']
+Situação atual: ['inativo']
+Profissão: ['AUXILIAR DE ENFERMAGEM (ENQ. FORMAÇÃO) 2ª CATEGORIA']
+Matricula: ['15/238.787-6']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.402 de 30 de NOVEMBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS-PRO-2023/25335.']
+
+===========================================================
+Nome: ['VIVIANE ALBUQUERQUE DE FARIAS']
+Situação atual: ['inativo']
+Profissão: ['ENFERMEIRO 5ª CATEGORIA']
+Matricula: ['15/294.783-6']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['POR-TARIA ‘P’ S/SUBG/CGP Nº. 804 de 10 de JULHO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS-PRO-2023/11616.']
+
+===========================================================
+Nome: ['ARILDA CHAGAS NORONHA']
+Situação atual: ['inativo']
+Profissão: ['AGENTE DE ADMINISTRAÇÃO CATEGORIA ESPECIAL “B”']
+Matricula: ['15/218.983-5']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.473 de 14 de DEZEMBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS- PRO-2023/26223.']
+
+===========================================================
+Nome: ['ANDREA ARAUJO SILVA GALINO']
+Situação atual: ['inativo']
+Profissão: ['AUXILIAR DE ENFERMAGEM (ENQ. FORMAÇÃO) 2ª CATEGORIA']
+Matricula: ['15/210.587-2']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.441 de 01 de DEZEMBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS-PRO-2023/25332.']
+
+===========================================================
+Nome: ['ISLANDE LEAL SANTOS']
+Situação atual: ['inativo']
+Profissão: ['AGENTE DE ADMINISTRAÇÃO CATEGORIA ESPECIAL “C”']
+Matricula: ['15/224.284-0']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.443 de 01 de DEZEMBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS-PRO-2023/25331.']
+
+===========================================================
+Nome: ['MARIA DE FATIMA OLIVEIRA MACIEL']
+Situação atual: ['inativo']
+Profissão: ['AUXILIAR DE LABORATÓRIO CATEGORIA ESPECIAL “A”']
+Matricula: ['15/231.766-7']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.425 de 30 de NOVEMBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS-PRO-2023/25438.']
+
+===========================================================
+Nome: ['LUIZA DE MELO TEIXEIRA LOURENÇO']
+Situação atual: ['inativo']
+Profissão: ['AUXILIAR DE CONTROLE DE ENDEMIAS']
+Matricula: ['15/230.683-5']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.420 de 30 de NOVEMBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS-PRO-2023/25165.']
+
+===========================================================
+Nome: ['FRANCINE DOS SANTOS LEMOS VARGAS']
+Situação atual: ['inativo']
+Profissão: ['AUXILIAR DE CONTROLE DE ENDEMIAS']
+Matricula: ['15/230.660-3']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.475 de 14 de DEZEMBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS-PRO-2023/26221.']
+
+===========================================================
+Nome: ['AURORA MARIA MOREIRA RANGEL']
+Situação atual: ['inativo']
+Profissão: ['AGENTE DE ADMINISTRAÇÃO CATEGORIA ESPECIAL “B”']
+Matricula: ['15/207.174-4']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.400 de 30 de NOVEMBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS-PRO- 2023/25329.']
+
+===========================================================
+Nome: ['GLIC MAIOLI DA SILVA']
+Situação atual: ['inativo']
+Profissão: ['CIRURGIÃO DENTISTA CATEGORIA ESPECIAL “A”']
+Matricula: ['15/229.116-9']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.412 de 30 de NOVEMBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS-PRO-2023/24264.']
+
+===========================================================
+Nome: ['SHIRLEI PAULO PEREIRA']
+Situação atual: ['inativo']
+Profissão: ['AGENTE AUXILIAR DE ADMINISTRAÇÃO CATEGORIA ESPECIAL “A”']
+Matricula: ['15/097.832-0']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.430 de 30 de NOVEMBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS-PRO-2023/24112.']
+
+===========================================================
+Nome: ['MARIA DA PENHA MARTINS COSTA']
+Situação atual: ['inativo']
+Profissão: ['AUXILIAR DE ENFERMAGEM (ENQ. FORMAÇÃO) 2ª CATEGORIA']
+Matricula: ['15/202.415-6']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.427 de 30 de NOVEMBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS-PRO-2023/22042.']
+
+===========================================================
+Nome: ['CARLOS LAERT DE CARVALHO']
+Situação atual: ['inativo']
+Profissão: ['AGENTE DE PORTARIA CATEGORIA ESPECIAL “A”']
+Matricula: ['15/111.878-5']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA']
+Nome e data do processo: ['PROCESSO Nº SMS-PRO- 2023/15526.']
+
+===========================================================
+Nome: ['DENISE GUARANA TAVARES']
+Situação atual: ['inativo']
+Profissão: ['PSICÓLOGO CATEGORIA ESPECIAL “B”']
+Matricula: ['15/245.601-0']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['POR-TARIA ‘P’ S/SUBG/CGP Nº. 805 de 10 de JULHO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS-PRO-2023/11091.']
+
+===========================================================
+Nome: ['ANTONIO PEDRO BARBOSA DE OLIVEIRA']
+Situação atual: ['inativo']
+Profissão: ['AGENTE DE EDUCAÇÃO INFANTIL - NÍVEL 4']
+Matricula: ['15/268.654-1']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” No 615 de 29/12/2023']
+Nome e data do processo: ['processo SME-PRO-2023/42817.']
+
+===========================================================
+Nome: ['EDIVAM RIBEIRO DOS SANTOS']
+Situação atual: ['inativo']
+Profissão: ['Agente de Administração']
+Matricula: ['10/170.396-6']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['RESOLUÇÃO SMTE “P” N.º 076 DE 8 DE AGOSTO DE 2023']
+Nome e data do processo: ['PROCESSO N.º TRA- PRO-2023/00457.']
+
+===========================================================
+Nome: ['MARIA CRISTINA DOS REIS CASTRO SILVA']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE C - NÍVEL 5']
+Matricula: ['15/232.927-4']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” No 511 de 30/11/2023']
+Nome e data do processo: ['processo nº SME-PRO-2023/29337.']
+
+===========================================================
+Nome: ['PATRICIA ANDRADA DE ARAUJO MARTINS']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE C - NÍVEL 6']
+Matricula: ['15/200.957-9']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” No 598 de 22/12/2023']
+Nome e data do processo: ['processo nº SME-PRO-2023/32383.']
+
+===========================================================
+Nome: ['RUBENS ANTONIO ANDRADE COSTA']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR I - HISTÓRIA - CLASSE C - NÍVEL 7']
+Matricula: ['15/170.961-7']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 596 de 21/12/2023']
+Nome e data do processo: ['processo nº SME-PRO-2023/36664.']
+
+===========================================================
+Nome: ['ANDREA LOPES TOSTE']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE C - NÍVEL 7']
+Matricula: ['15/164.900-3']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” No 601 de 22/12/2023']
+Nome e data do processo: ['processo nº SME-PRO-2023/37886.']
+
+===========================================================
+Nome: ['PAULO DIAS DE PAULA']
+Situação atual: ['inativo']
+Profissão: ['SERVENTE - CATEGORIA ESPECIAL']
+Matricula: ['15/112.515-2']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 512 de 30/11/2023']
+Nome e data do processo: ['processo nº SME-PRO-2023/31126.']
+
+===========================================================
+Nome: ['NEIDE AZEVEDO DO NASCIMENTO']
+Situação atual: ['inativo']
+Profissão: ['MERENDEIRA - CATEGORIA ESPECIAL']
+Matricula: ['15/223.506-7']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 592 de 20/12/2023']
+Nome e data do processo: ['processo nº SME-PRO-2023/59953.']
+
+===========================================================
+Nome: ['CRISTIANE DE FÁTIMA DASILVA CARVALO']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE C - NÍVEL 7']
+Matricula: ['15/171.945-9']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 33 de 12/01/2024']
+Nome e data do processo: ['processo nº SME-PRO-2023/44770.']
+
+===========================================================
+Nome: ['ROSA MARIA PALHARES DE FIGUEIREDO']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE C - NÍVEL 7']
+Matricula: ['15/128.088-2']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 005 de 04/01/2024']
+Nome e data do processo: ['processo nº SME-PRO-2023/38368.']
+
+===========================================================
+Nome: ['ANA RITA ANDRADE DE OLIVEIRA']
+Situação atual: ['inativo']
+Profissão: ['MERENDEIRA - CATEGORIA ESPECIAL']
+Matricula: ['15/155.360-1']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Por-taria E/CTRH/CARH “P” Nº 25 de 11/01/2024']
+Nome e data do processo: ['processo nº SME-PRO-2023/44700.']
+
+===========================================================
+Nome: ['NOENIA RIBEIRO DOS SANTOS']
+Situação atual: ['inativo']
+Profissão: ['SERVENTE - CATEGORIA ESPECIAL']
+Matricula: ['15/168.117-0']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 27 de 11/01/2024']
+Nome e data do processo: ['processo nº SME-PRO-2023/44562.']
+
+===========================================================
+Nome: ['CARINE NOGUEIRA MARTINS']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR DE EDUCAÇÃO INFANTIL - CLASSE C NÍVEL 2']
+Matricula: ['15/282.401-9']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 593 de 20/12/2023']
+Nome e data do processo: ['processo nº SME-PRO-2023/60007.']
+
+===========================================================
+Nome: ['ROBERTA DO MONTE AFFONSO TEJO']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE C - NÍVEL 4']
+Matricula: ['15/222.598-5']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 595 de 20/12/2023']
+Nome e data do processo: ['processo nº SME- PRO-2023/60006.']
+
+===========================================================
+Nome: ['LUCIANA DA COSTA VIEIRA SÁ']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR I INGLÊS CLASSE C NÍVEL 3']
+Matricula: ['15/279.049-1']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 390 de 17/10/2023']
+Nome e data do processo: ['processo nº SME-PRO-2023/28555.']
+
+===========================================================
+Nome: ['CAROLINA ZANQUI']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR DE EDUCAÇÃO INFANTIL - CLASSE C NÍVEL 1']
+Matricula: ['15/298.393-0']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” No 594 de 20/12/2023']
+Nome e data do processo: ['processo nº SME-PRO-2023/59904.']
+
+===========================================================
+Nome: ['UBIRACY GOMES PEREIRA']
+Situação atual: ['inativo']
+Profissão: ['AGENTE DE EDUCAÇÃO INFANTIL - NÍVEL 3']
+Matricula: ['15/276.105-4']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” No 618 de 29/12/2023']
+Nome e data do processo: ['processo SME-PRO-2023/42319.']
+
+===========================================================
+Nome: ['Meilane Felix dos Santos']
+Situação atual: ['inativo']
+Profissão: ['Agente Comunitário Nível II Classe Especial']
+Matricula: ['15/179.292-8']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria “P” Nº 10 de 03/01/24']
+Nome e data do processo: ['Processo Rio nº ASS-PRO-2023/02858.']
+
+===========================================================
+Nome: ['Celi de Lima Silva']
+Situação atual: ['inativo']
+Profissão: ['Agente Comunitário Nível I Classe Especial']
+Matricula: ['15/178.743-1']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria “P” Nº 04 de 30/11/23']
+Nome e data do processo: ['Processo Rio nº ASS-PRO-2023/02091.']
+
+===========================================================
+Nome: ['Rosane Feijó Machado Soares da Cruz']
+Situação atual: ['inativo']
+Profissão: ['Assistente Social Categoria Especial A']
+Matricula: ['15/241.151-0']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria “P” Nº 09 de 03/01/24']
+Nome e data do processo: ['Processo Rio nº ASS-PRO-2023/02859.']
+
+===========================================================
+Nome: ['Renata Pires Mortoni Hiller']
+Situação atual: ['inativo']
+Profissão: ['Assistente Social Categoria Especial A']
+Matricula: ['15/240.672-6']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria “P” Nº 06 de 12/12/23']
+Nome e data do processo: ['processo nº ASS-PRO-2023/02875.']
+
+===========================================================
+Nome: ['MARIO MARTINS CHAGAS']
+Situação atual: ['inativo']
+Profissão: ['Agente de Administração Categoria Especial “A”']
+Matricula: ['15/243.929-7']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria “P” Nº 20 de 29/12/2023']
+Nome e data do processo: ['processo nº HBT-PRO-2023/03855.']
+
+===========================================================
+Nome: ['Carlos Frederico da Costa Nunes']
+Situação atual: ['inativo']
+Profissão: ['Analista de Sistemas e Informações (IPLANRIO) Classe Especial']
+Matricula: ['15/161.354-6']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA “P” CVL/SUBG/CTRH Nº 34 de 29/12/2023']
+Nome e data do processo: ['processo nº IPL-PRO-2023/00192.']
+
+===========================================================
+Nome: ['JOSE CARLOS LAGES']
+Situação atual: ['inativo']
+Profissão: ['Trabalhador Classe Especial']
+Matricula: ['15/119.595-7']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['RESOLUÇÃO “P” SECONSERVA Nº 280 de 31 de Agosto de 2023']
+Nome e data do processo: ['processo nº 26/004.228/2021.']
+
+===========================================================
+Nome: ['PAULO SERGIO DAMIÃO XAVIER DE CASTRO']
+Situação atual: ['inativo']
+Profissão: ['Artíice de Pavimentação e Pedreira Classe Especial']
+Matricula: ['15/066.277-5']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['RESOLUÇÃO “P” SECONSERVA Nº 185 de 31 de Maio de 2023']
+Nome e data do processo: ['processo nº 26/000.593/2023.']
+
+===========================================================
+Nome: ['MARGARETH MIRANDA DE OLIVEIRA']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE C - NÍVEL 7']
+Matricula: ['15/104.797-6']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” No 004 de 04/01/2024']
+Nome e data do processo: ['processo nº SME-PRO-2023/38383.']
+
+===========================================================
+Nome: ['MARIA DA GRAÇA DE MELLO DOS SANTOS']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE A - NÍVEL 7']
+Matricula: ['15/105.760-3']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” No 018 de 09/01/2024']
+Nome e data do processo: ['processo nº SME-PRO-2023/39185.']
+
+===========================================================
+Nome: ['VALÉRIA PEREIRA NACIFE']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR I - CIÊNCIAS - CLASSE D - NÍVEL 6']
+Matricula: ['15/170.830-4']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 020 de 09/01/2024']
+Nome e data do processo: ['processo nº SME-PRO-2023/40279.']
+
+===========================================================
+Nome: ['JOSIAS NUNES DE OLIVEIRA']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE C - NÍVEL 4']
+Matricula: ['15/178.273-9']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” No 3 de 04/01/2024']
+Nome e data do processo: ['processo nº SME-PRO-2023/43328.']
+
+===========================================================
+Nome: ['REGINA MARQUES NUNES ROCHA']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR I - EDUCAÇÃO FÍSICA - CLASSE C - NÍVEL 5']
+Matricula: ['15/235.002-3']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 1 de 03/01/2024']
+Nome e data do processo: ['processo nº SME-PRO-2023/43335.']
+
+===========================================================
+Nome: ['JANE JOSÉ SOARES DE ARAÚJO']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR I - ARTES PLÁSTICAS - CLASSE C - NÍVEL 6']
+Matricula: ['15/194.651-6']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 604 de 27/12/2023']
+Nome e data do processo: ['processo nº SME-PRO-2023/43397.']
+
+===========================================================
+Nome: ['VERA LUCIA CÔCO ALVES']
+Situação atual: ['inativo']
+Profissão: ['MERENDEIRA - CATEGORIA ESPECIAL']
+Matricula: ['15/151.794-5']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 29 de 11/01/2024']
+Nome e data do processo: ['processo nº SME-PRO-2023/44177.']
+
+===========================================================
+Nome: ['SONIA CRISTINA DE OLIVEIRA']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE C - NÍVEL 7']
+Matricula: ['15/146.345-4']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 2 de 04/01/2024']
+Nome e data do processo: ['processo nº SME-PRO-2023/43634.']
+
+===========================================================
+Nome: ['RENATA DE CASTRO CARNEIRO']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR I - MATEMÁTICA - CLASSE C - NÍVEL 7']
+Matricula: ['15/170.257-0']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 609 de 29/12/2023']
+Nome e data do processo: ['processo nº SME-PRO-2023/42602.']
+
+===========================================================
+Nome: ['PATRICIA DE SEABRA COELHO']
+Situação atual: ['inativo']
+Profissão: ['AGENTE EDUCADOR II - REFERÊNCIA M6']
+Matricula: ['15/259.972-8']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 590 de 20/12/2023']
+Nome e data do processo: ['processo nº SME- PRO-2023/59912.']
+
+===========================================================
+Nome: ['MARLI PEREIRA GUERCI MAIA']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR DE ENSINO FUNDAMENTAL ANOS INICIAIS - CLASSE C - NÍVEL 2']
+Matricula: ['15/289.341-0']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 399 de 25/10/2023']
+Nome e data do processo: ['processo nº SME-PRO-2023/31387.']
+
+===========================================================
+Nome: ['ALEXANDRE MIRANDA DESETA']
+Situação atual: ['inativo']
+Profissão: ['Engenheiro Mecânico Categoria Especial “A”']
+Matricula: ['15/155.165-4']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria “P” Nº 30 de 26/12/2023']
+Nome e data do processo: ['processo nº IFR-PRO-2023/01378.']
+
+===========================================================
+Nome: ['COSME RESENDE DE CASTRO']
+Situação atual: ['inativo']
+Profissão: ['Armazenista(RIOLUZ) Categoria Especial “A”']
+Matricula: ['15/278.272-0']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria “P” Nº 27 de 27/11/2023']
+Nome e data do processo: ['processo nº IFR-PRO-2023/01475.']
+
+===========================================================
+Nome: ['SERGIO PAULA DA ROCHA']
+Situação atual: ['inativo']
+Profissão: ['SERVENTE - CATEGORIA ESPECIAL']
+Matricula: ['15/167.165-0']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 612 de 29/12/2023']
+Nome e data do processo: ['processo nº SME-PRO-2023/37630.']
+
+===========================================================
+Nome: ['ZELIA LIMA DOS SANTOS']
+Situação atual: ['inativo']
+Profissão: ['AGENTE DE ADMINISTRAÇÃO - CATEGORIA ESPECIAL “A”']
+Matricula: ['15/152.350-5']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 256 de 04/09/2023']
+Nome e data do processo: ['processo nº SME-PRO-2023/25650.']
+
+===========================================================
+Nome: ['VERA LUCIA DE OLIVEIRA LEITE']
+Situação atual: ['inativo']
+Profissão: ['MERENDEIRA CATEGORIA ESPECIAL']
+Matricula: ['15/194.435-4']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/SUBEX/CGRH “P” Nº 534 de 15/05/2023']
+Nome e data do processo: ['processo nº 07/05/000.150/2023.']
+
+===========================================================
+Nome: ['SELMA LUCIA CABRAL DE OLIVEIRA']
+Situação atual: ['inativo']
+Profissão: ['AGENTE EDUCADOR II REFERÊNCIA M7']
+Matricula: ['15/290.722-8']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/SUBEX/CGRH “P” Nº 474 de 28/04/2023']
+Nome e data do processo: ['processo nº 07/000.435/2023.']
+
+===========================================================
+Nome: ['MARIA LUIZA VENTURA']
+Situação atual: ['inativo']
+Profissão: ['MERENDEIRA CATEGORIA ESPECIAL']
+Matricula: ['15/239.084-7']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 296 de 20/09/2023']
+Nome e data do processo: ['processo nº 07/02.000.539/2023.']
+
+===========================================================
+Nome: ['MARIA JOSÉ TELES DOS SANTOS']
+Situação atual: ['inativo']
+Profissão: ['AGENTE DE EDUCAÇÃO INFANTIL NÍVEL 4']
+Matricula: ['15/167.448-0']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 379 de 10/10/2023']
+Nome e data do processo: ['processo nº 07/10/000.525/2023.']
+
+===========================================================
+Nome: ['DENISE DE QUEIROZ BADEJO ALMEIDA']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE C NÍVEL 6']
+Matricula: ['15/116.809-5']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/SUBG/CGRH/CARH “P” No 198 de 05/02/2020']
+Nome e data do processo: ['processo nº 07/01/001.003.2011 e TORNO SEM EFEITO a apostila lavrada em 04/05/2020.']
+
+===========================================================
+Nome: ['VALÉRIA CRISTINA MACHADO BASTOS']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR I INGLÊS - CLASSE C - NÍVEL 3']
+Matricula: ['15/212.474-1']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/SUBEX/CGRH “P” Nº 636 de 02/06/2023']
+Nome e data do processo: ['processo nº 07/03/001.137/2022.']
+
+===========================================================
+Nome: ['ROSÁLIA MONTEIRO FERREIRA']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR I (LÍNGUA PORTUGUESA) CLASSE C NÍVEL 3']
+Matricula: ['15/112.909-7']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTUGUESA)']
+Nome e data do processo: ['pro-cesso nº 07/07/000.415/2021 e TORNO SEM EFEITO a apostila lavrada em 29/08/2023.']
+
+===========================================================
+Nome: ['CLEIDE DOS SANTOS SILVA']
+Situação atual: ['inativo']
+Profissão: ['SERVENTE - CATEGORIA ESPECIAL']
+Matricula: ['15/121.494-9']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/SUBEX/CGRH “P” Nº 782 de 18/11/2021']
+Nome e data do processo: ['processo nº 07/01/001.371/2020.']
+
+===========================================================
+Nome: ['SOLANGE BORGES DE SOUZA']
+Situação atual: ['NÃO inativo']
+Profissão: ['MERENDEIRA CATEGORIA ESPECIAL']
+Matricula: ['15/244.496-6']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 144 de 31/07/2023']
+Nome e data do processo: ['processo nº 07/07/000.473/2023.']
+
+===========================================================
+Nome: ['Paulo Afonso Firmo Dutra']
+Situação atual: ['inativo']
+Profissão: ['Agente de Vigilância Classe Especial']
+Matricula: ['15/116.523-2']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Resolução “P” Nº 485 de 30/06/2023']
+Nome e data do processo: ['processo nº 08/001.653/2023.']
+
+===========================================================
+Nome: ['Eduardo José Silva Leite']
+Situação atual: ['inativo']
+Profissão: ['Agente de Administração Classe Especial']
+Matricula: ['15/150.756-5']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Resolução “P” Nº 022 de 04/01/2021']
+Nome e data do processo: ['processo nº 08/001.807/2020.']
+
+===========================================================
+Nome: ['José Carlos Domingo do Nascimento']
+Situação atual: ['inativo']
+Profissão: ['Trabalhador Classe Especial']
+Matricula: ['15/138.986-5']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Resolução “P” Nº 342 de 15/06/2022']
+Nome e data do processo: ['processo nº 08/000.049/2022.']
+
+===========================================================
+Nome: ['Adriana Fernandes Gonçalves']
+Situação atual: ['inativo']
+Profissão: ['Agente Comunitário Nível II Classe Especial']
+Matricula: ['14/179.593-9']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria “P” Nº 08 de 02/01/2024']
+Nome e data do processo: ['processo nº 08/000.186/2021.']
+
+===========================================================
+Nome: ['ANDRE SALES DE JESUS']
+Situação atual: ['inativo']
+Profissão: ['AUXILIAR DE ENFERMAGEM (ENQ. FORMAÇÃO) 2ª CATEGORIA']
+Matricula: ['15/236.080-8']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.472 de 14 de DEZEMBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS-PRO-2023/26217.']
+
+===========================================================
+Nome: ['WALBER ARAUJO DE PAULA']
+Situação atual: ['inativo']
+Profissão: ['AGENTE DE ADMINISTRAÇÃO CATEGORIA ESPECIAL “C”']
+Matricula: ['15/212.825-4']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.433 de 30 de NOVEMBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS- PRO-2023/25334.']
+
+===========================================================
+Nome: ['DELCY MAURO VIEIRA GOMES']
+Situação atual: ['inativo']
+Profissão: ['AUXILIAR DE LABORATÓRIO CATEGORIA ESPECIAL “A”']
+Matricula: ['15/229.169-8']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.509 de 29 de DEZEMBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS- PRO-2023/29214.']
+
+===========================================================
+Nome: ['MARIA DE FATIMA FURTADO VELOSO DE MELO']
+Situação atual: ['inativo']
+Profissão: ['MÉDICO ORTOPEDIA E TRAUMATOLOGIA CATEGORIA ESPECIAL “A”']
+Matricula: ['15/159.950-5']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.526 de 29 de DEZEMBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS-PRO-2023/16314.']
+
+===========================================================
+Nome: ['CARLOS HENRIQUE ALVES SUED']
+Situação atual: ['inativo']
+Profissão: ['AGENTE DE DOCUMENTAÇÃO MÉDICA CATEGORIA ESPECIAL “A”']
+Matricula: ['15/160.188-9']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.506 de 29 de DEZEMBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS-PRO-2023/29345.']
+
+===========================================================
+Nome: ['MARIA CRISTINA DE VASCONCELLOS']
+Situação atual: ['inativo']
+Profissão: ['MÉDICO SAÚDE PÚBLICA CATEGORIA ESPECIAL “A”']
+Matricula: ['15/197.430-2']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.524 de 29 de DEZEMBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS-PRO-2023/26689.']
+
+===========================================================
+Nome: ['JOSÉ GONÇALVES RUAS FILHO']
+Situação atual: ['inativo']
+Profissão: ['MÉDICO CLÍNICA MÉDICA CATEGORIA ESPECIAL “A”']
+Matricula: ['15/140.140-5']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 02 de 02 de JANEIRO de 2024']
+Nome e data do processo: ['PROCESSO Nº SMS- PRO-2023/21838.']
+
+===========================================================
+Nome: ['GILMA GOMES DA ROCHA']
+Situação atual: ['inativo']
+Profissão: ['AUXILIAR DE ENFERMAGEM (ENQ. FORMAÇÃO)']
+Matricula: ['15/145.764-7']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.515 de 29 de DEZEMBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS-PRO-2023/18756.']
+
+===========================================================
+Nome: ['DILSON PEREIRA DA SILVA']
+Situação atual: ['inativo']
+Profissão: ['AUXILIAR DE ENFERMAGEM (ENQ. FORMAÇÃO) 2ª CATEGORIA']
+Matricula: ['15/135.147-7']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.512 de 29 de DEZEMBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS-PRO-2023/22124.']
+
+===========================================================
+Nome: ['DERLY PEREIRA LOPES']
+Situação atual: ['inativo']
+Profissão: ['AUXILIAR DE ENFERMAGEM (ENQ. FORMAÇÃO) 2ª CATEGORIA']
+Matricula: ['15/226.922-3']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.511 de 29 de DEZEMBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS- PRO-2023/18194.']
+
+===========================================================
+Nome: ['WILSON JOSÉ BERNARDO']
+Situação atual: ['inativo']
+Profissão: ['AUXILIAR DE ENFERMAGEM CATEGORIA ESPECIAL “A”']
+Matricula: ['15/132.736-0']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.530 de 29 de DEZEMBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS- PRO-2023/21977.']
+
+===========================================================
+Nome: ['MARCIA HICKMAN MOURA DE BARROS']
+Situação atual: ['inativo']
+Profissão: ['MÉDICO PEDIATRIA CATEGORIA ESPECIAL “A”']
+Matricula: ['15/191.120-5']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.523 de 29 de DEZEMBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS- PRO-2023/28350.']
+
+===========================================================
+Nome: ['EUNICE BARBOSA']
+Situação atual: ['inativo']
+Profissão: ['AUXILIAR DE ENFERMAGEM (ENQ. FORMAÇÃO) 2ª CATEGORIA']
+Matricula: ['15/236.067-5']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.514 de 29 de DEZEMBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS- PRO-2023/24866.']
+
+===========================================================
+Nome: ['LUIZ FELIPE DA COSTA BAPTISTA']
+Situação atual: ['inativo']
+Profissão: ['MÉDICO PEDIATRIA CATEGORIA ESPECIAL “A”']
+Matricula: ['15/081.749-4']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 03 de 02 de JANEIRO de 2024']
+Nome e data do processo: ['PROCESSO Nº SMS- PRO-2023/23522.']
+
+===========================================================
+Nome: ['CARMELIA MARIA SILVA GUEDES']
+Situação atual: ['inativo']
+Profissão: ['AUXILIAR DE ENFERMAGEM (ENQ. FORMAÇÃO) 2ª CATEGORIA']
+Matricula: ['15/111.676-3']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 01 de 02 de JANEIRO de 2024']
+Nome e data do processo: ['PROCESSO Nº SMS-PRO-2023/31159.']
+
+===========================================================
+Nome: ['TEREZA CRISTINA CONCEIÇÃO DOS REIS']
+Situação atual: ['inativo']
+Profissão: ['AUXILIAR DE ENFERMAGEM (ENQ. FORMAÇÃO) 2ª CATEGORIA']
+Matricula: ['15/135.503-1']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.528 de 29 de DEZEMBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS-PRO-2023/17007.']
+
+===========================================================
+Nome: ['MARIA CRISTINA RODRIGUES DUTRAIN']
+Situação atual: ['inativo']
+Profissão: ['AUXILIAR DE LABORATÓRIO CATEGORIA ESPECIAL “A”']
+Matricula: ['15/126.612-1']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.525 de 29 de DEZEMBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS-PRO-2023/25732.']
+
+===========================================================
+Nome: ['LUIZ MARCOS DE SOUZA TINOCO']
+Situação atual: ['inativo']
+Profissão: ['AGENTE DE ADMINISTRAÇÃO CATEGORIA ESPECIAL “A”']
+Matricula: ['15/087.480-0']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.520 de 29 de DEZEMBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS- PRO-2023/22847.']
+
+===========================================================
+Nome: ['JOSELIA FLORES DIAS BOLIVAR']
+Situação atual: ['inativo']
+Profissão: ['AUXILIAR DE ENFERMAGEM CATEGORIA ESPECIAL “A”']
+Matricula: ['15/145.709-2']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.518 de 29 de DEZEMBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS- PRO-2023/29408.']
+
+===========================================================
+Nome: ['DENIZE PINHEIRO RIBEIRO']
+Situação atual: ['inativo']
+Profissão: ['ENFERMEIRO CATEGORIA ESPECIAL “A”']
+Matricula: ['15/191.523-0']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.510 de 29 de DEZEMBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS-PRO-2023/22974.']
+
+===========================================================
+Nome: ['KATIA DE ALBUQUERQUE TRINDADE']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE C - NÍVEL 4']
+Matricula: ['15/232.460-6']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” No 591 de 20/12/2023']
+Nome e data do processo: ['processo SME- PRO-2023/60000.']
+
+===========================================================
+Nome: ['VALERIA MELANI SANTOS RABELO']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE D - NÍVEL 7']
+Matricula: ['15/172.426-9']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” No 024 de 11/01/2024']
+Nome e data do processo: ['processo nº SME-PRO-2023/26789.']
+
+===========================================================
+Nome: ['MARIA DE FÁTIMA DOS ANJOS LEMOS']
+Situação atual: ['inativo']
+Profissão: ['MERENDEIRA - CATEGORIA ESPECIAL']
+Matricula: ['15/194.354-7']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 600 de 22/12/2023']
+Nome e data do processo: ['processo nº SME-PRO-2023/43267.']
+
+===========================================================
+Nome: ['PAULO ROGÉRIO ALVES CURTI']
+Situação atual: ['inativo']
+Profissão: ['MERENDEIRA - CATEGORIA ESPECIAL']
+Matricula: ['15/227.409-0']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 397 de 23/10/2023']
+Nome e data do processo: ['processo nº 07/04/000.085/2023.']
+
+===========================================================
+Nome: ['SANDRA MARIA COUTINHO DOS SANTOS']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE C - NÍVEL 7']
+Matricula: ['15/061.791-0']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” No 606 de 28/12/2023']
+Nome e data do processo: ['processo nº SME-PRO-2023/41952.']
+
+===========================================================
+Nome: ['MARIA JOSÉ FERREIRA AGOSTINHO']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR I - LÍNGUA PORTUGUESA - CLASSE C - NÍVEL 7']
+Matricula: ['15/109.078-6']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTUGUESA - CLASSE C - NÍVEL 7']
+Nome e data do processo: ['processo nº SME- PRO-2023/44225.']
+
+===========================================================
+Nome: ['THIAGO DE FRANÇA SILVA']
+Situação atual: ['inativo']
+Profissão: ['AUXILIAR DE CONTROLE DE ENDEMIAS CATEGORIA ESPECIAL “B”']
+Matricula: ['15/263.143-0']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 614 de 13 de MAIO de 2022']
+Nome e data do processo: ['PROCESSO Nº 09/004.364/2022.']
+
+===========================================================
+Nome: ['GLEISE COLOMBO LEDRA']
+Situação atual: ['inativo']
+Profissão: ['AGENTE DE ADMINISTRTAÇÃO - CATEGORIA ESPECIAL “A”']
+Matricula: ['15/177.447-0']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” No 287 de 15/09/2023']
+Nome e data do processo: ['processo nº SME-PRO-2023/24903.']
+
+===========================================================
+Nome: ['LUIS CARLOS RAMOS']
+Situação atual: ['inativo']
+Profissão: ['AGENTE EDUCADOR II- REFERÊNCIA M5']
+Matricula: ['15/157.141-3']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 450 de 16/11/2023']
+Nome e data do processo: ['processo nº SME-PRO-2023/49996.']
+
+===========================================================
+Nome: ['SUELI FERNANDES DA SILVA']
+Situação atual: ['inativo']
+Profissão: ['AGENTE DE EDUCAÇÃO INFANTIL - NÍVEL 4']
+Matricula: ['15/249.601-6']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 173 de 10/08/2023']
+Nome e data do processo: ['processo nº 07/11/000.126/2023.']
+
+===========================================================
+Nome: ['DARCIO AUGUSTO CHAVES FARIA']
+Situação atual: ['NÃO inativo']
+Profissão: ['Procurador do Município']
+Matricula: ['14/117.879-7']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Resolução “P” nº 200 de 31 de outubro de 2023']
+Nome e data do processo: ['processo PGM-PRO-2023/03470.']
+
+===========================================================
+Nome: ['UBIRAJÁRA MAGLIANO DE FRANÇA']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR I - MATEMÁTICA - CLASSE D - NÍVEL 6']
+Matricula: ['15/173.780-8']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 191 de 25/08/2023']
+Nome e data do processo: ['processo nº 07/08/000.366/2023.']
+
+===========================================================
+Nome: ['BRUNO JOFFILY']
+Situação atual: ['inativo']
+Profissão: ['MÉDICO CIRURGIA TORÁCICA CATEGORIA ESPECIAL “A”']
+Matricula: ['15/227.114-6']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.460 de 29 de DEZEMBRO de 2022']
+Nome e data do processo: ['PROCESSO Nº 09/003.783/2022.']
+
+===========================================================
+Nome: ['MARIA DAS GRAÇAS DE OLIVEIRA']
+Situação atual: ['inativo']
+Profissão: ['AUXILIAR DE ENFERMAGEM (ENQ. FORMAÇÃO) 2ª CATEGORIA']
+Matricula: ['15/246.458-4']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 132 de 16 de FEVEREIRO de 2023']
+Nome e data do processo: ['PROCESSO Nº 09/21/000.015/2023.']
+
+===========================================================
+Nome: ['IZILDO JOSÉ MOREIRA MUNALDI']
+Situação atual: ['inativo']
+Profissão: ['AUXILIAR DE ENFERMAGEM (ENQ. FORMAÇÃO) 2ª CATEGORIA']
+Matricula: ['15/120.627-5']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 890 de 31 de JULHO de 2023']
+Nome e data do processo: ['PROCESSO Nº 09/22/000.054/2023.']
+
+===========================================================
+Nome: ['JOÃO BATISTA VIEIRA BENÍCIO']
+Situação atual: ['inativo']
+Profissão: ['ENFERMEIRO CATEGORIA ESPECIAL “A”']
+Matricula: ['15/148.787-5']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.501 de 30 de DEZEMBRO de 2022']
+Nome e data do processo: ['PROCESSO Nº 09/68/000.384/2022.']
+
+===========================================================
+Nome: ['ALFREDO CHAMMA']
+Situação atual: ['inativo']
+Profissão: ['FAR-MACÊUTICO CATEGORIA ESPECIAL “A”']
+Matricula: ['15/226.448-9']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 327 de 31 de MARÇO de 2023']
+Nome e data do processo: ['PROCESSO Nº 09/69/000.023/2023.']
+
+===========================================================
+Nome: ['ANA PAULA EWERTON PORTUGAL']
+Situação atual: ['inativo']
+Profissão: ['AUXILIAR DE CONTROLE DE ENDEMIAS CATEGORIA ESPECIAL “B”']
+Matricula: ['15/271.175-2']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTUGAL']
+Nome e data do processo: ['PROCESSO Nº 09/000.304/2022.']
+
+===========================================================
+Nome: ['MARIA DA GLORIA SILVA']
+Situação atual: ['inativo']
+Profissão: ['AUXILIAR DE ENFERMAGEM (ENQ. FORMAÇÃO) 2ª CATEGORIA']
+Matricula: ['15/209.698-0']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 349 de 31 de MARÇO de 2023']
+Nome e data do processo: ['PROCESSO Nº 09/53/000.068/2023.']
+
+===========================================================
+Nome: ['BÁRBARA REJANE DOS SANTOS']
+Situação atual: ['inativo']
+Profissão: ['ENFERMEIRO 2ª CATEGORIA']
+Matricula: ['15/214.362-6']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 229 de 09 de MARÇO de 2023']
+Nome e data do processo: ['PROCESSO Nº 09/77/000.215/2022.']
+
+===========================================================
+Nome: ['MARIA DA PENHA VIANA DA COSTA']
+Situação atual: ['inativo']
+Profissão: ['AUXILIAR DE ENFERMAGEM (ENQ. FORMAÇÃO) 2ª CATEGORIA']
+Matricula: ['15/208.256-8']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 761 de 30 de JUNHO de 2023']
+Nome e data do processo: ['PROCESSO Nº 09/52/000.180/2023.']
+
+===========================================================
+Nome: ['MARCEL KRESZOW']
+Situação atual: ['inativo']
+Profissão: ['MÉDICO ANESTESIOLOGIA CATEGORIA ESPECIAL “A”']
+Matricula: ['15/133.673-4']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.521 de 29 de DEZEMBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº 09/64/000.097/2023.']
+
+===========================================================
+Nome: ['ROSANA DE PAIVA TORRES CAMPOS']
+Situação atual: ['inativo']
+Profissão: ['ENFERMEIRO CATEGORIA ESPECIAL “A”']
+Matricula: ['15/163.251-2']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 16 de 03 de JANEIRO de 2024']
+Nome e data do processo: ['PROCESSO Nº 09/32/000.153/2022.']
+
+===========================================================
+Nome: ['MARIA HELENA COUTINHO ESTEVES']
+Situação atual: ['inativo']
+Profissão: ['MÉDICO PEDIATRIA CATEGORIA ESPECIAL “A”']
+Matricula: ['15/168.887-8']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.481 de 15 de DEZEMBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS-PRO- 2023/22182.']
+
+===========================================================
+Nome: ['KATIA GONÇALVES DE PINHO']
+Situação atual: ['inativo']
+Profissão: ['MÉDICO DERMATOLOGIA CATEGORIA ESPECIAL “A”']
+Matricula: ['15/193.988-3']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.320 de 01 de NOVEMBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS- PRO-2023/17433.']
+
+===========================================================
+Nome: ['BERNADETE SCALERCIO MARQUES CORREA']
+Situação atual: ['inativo']
+Profissão: ['ENFERMEIRO CATEGORIA ESPECIAL “A”']
+Matricula: ['15/111.066-7']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.504 de 29 de DEZEMBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS- PRO-2023/25774.']
+
+===========================================================
+Nome: ['CRISTINA MARIA DE MELO']
+Situação atual: ['inativo']
+Profissão: ['AUXILIAR DE ENFERMAGEM (ENQ. FORMAÇÃO) 2ª CATEGORIA']
+Matricula: ['15/139.696-9']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['PORTARIA ‘P’ S/SUBG/CGP Nº. 1.508 de 29 de DEZEMBRO de 2023']
+Nome e data do processo: ['PROCESSO Nº SMS-PRO-2023/25473.']
+
+===========================================================
+Nome: ['TANIA MARIA BARBOSA DA SILVA DOS SANTOS']
+Situação atual: ['inativo']
+Profissão: ['AGENTE DE EDUCAÇÃO INFANTIL - NÍVEL 3']
+Matricula: ['15/282.269-0']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 613 de 29/12/2023']
+Nome e data do processo: ['pro-cesso nº SME-PRO-2023/41729.']
+
+===========================================================
+Nome: ['ROSA MARIA FERREIRA LOPES']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE C - NÍVEL 7']
+Matricula: ['15/172.077-0']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” No 535 de 01/12/2023']
+Nome e data do processo: ['pro-cesso nº SME-PRO-2023/42210.']
+
+===========================================================
+Nome: ['MAURO JOSÉ DE SOUZA E SILVA']
+Situação atual: ['inativo']
+Profissão: ['PRO-FESSOR I - EDUCAÇÃO FÍSICA - CLASSE C - NÍVEL 7']
+Matricula: ['15/107.157-0']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 534 de 01/12/2023']
+Nome e data do processo: ['processo nº SME-PRO-2023/40863.']
+
+===========================================================
+Nome: ['ROSIANE FERNANDES DA SILVA']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE A - NÍVEL 7']
+Matricula: ['15/164.946-6']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” No 529 de 01/12/2023']
+Nome e data do processo: ['pro-cesso nº SME-PRO-2023/38989.']
+
+===========================================================
+Nome: ['ANTONIO CARLOS DE CARVALHO VELOSO']
+Situação atual: ['inativo']
+Profissão: ['PRO-FESSOR I - MATEMÁTICA - CLASSE C - NÍVEL 7']
+Matricula: ['15/163.162-1']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 531 de 01/12/2023']
+Nome e data do processo: ['processo nº SME-PRO-2023/30726.']
+
+===========================================================
+Nome: ['SANDRA DOS SANTOS CABRAL']
+Situação atual: ['inativo']
+Profissão: ['MERENDEIRA - CA-TEGORIA ESPECIAL']
+Matricula: ['15/158.423-4']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 536 de 04/12/2023']
+Nome e data do processo: ['pro-cesso nº SME-PRO-2023/28955.']
+
+===========================================================
+Nome: ['LUCIANITA LOURENÇO FRAGA']
+Situação atual: ['inativo']
+Profissão: ['MERENDEIRA - CATE-GORIA ESPECIAL']
+Matricula: ['15/194.591-4']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 533 de 01/12/2023']
+Nome e data do processo: ['processo nº SME-PRO-2023/38482.']
+
+===========================================================
+Nome: ['ELOMIR PEREIRA RAMOS']
+Situação atual: ['inativo']
+Profissão: ['SERVENTE - CATEGORIA ESPECIAL']
+Matricula: ['15/128.882-8']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 532 de 01/12/2023']
+Nome e data do processo: ['processo nº SME- PRO-2023/40331.']
+
+===========================================================
+Nome: ['VANDEIA LUCIO RAMOS']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR I - ENSINO RE-LIGIOSO - CLASSE D - NÍVEL 7']
+Matricula: ['15/157.958-0']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 530 de 01/12/2023']
+Nome e data do processo: ['processo nº SME-PRO-2023/30037.']
+
+===========================================================
+Nome: ['Marialba Oliveira Pinto']
+Situação atual: ['inativo']
+Profissão: ['Proissional de Nível Médio (IPLANRIO) - Classe Especial']
+Matricula: ['15/288.934-3']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['RESOLUÇÃO “P” Nº 4090 de 21/08/2020']
+Nome e data do processo: ['processo nº 01/001.723/2020 e TORNO SEM EFEITO a Apostila lavrada em 14/10/2020.']
+
+===========================================================
+Nome: ['CLAUDIA COUTINHO KOPKE']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR I - INGLÊS - CLASSE C - NÍVEL 5']
+Matricula: ['15/235.472-8']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 557 de 08/12/2023']
+Nome e data do processo: ['pro-cesso nº SME-PRO-2023/39790.']
+
+===========================================================
+Nome: ['JOSÉ MILSON DANTAS DA SILVA']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR I - GE-OGRAFIA - CLASSE C - NÍVEL 6']
+Matricula: ['15/212.401-4']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 017 de 08/01/2024']
+Nome e data do processo: ['processo nº SME-PRO-2023/43445.']
+
+===========================================================
+Nome: ['CARLOS ALBERTO ENDLICH']
+Situação atual: ['NÃO inativo']
+Profissão: ['']
+Matricula: ['']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 014 de 08/01/2024']
+Nome e data do processo: ['processo nº SME-PRO-2023/43492.']
+
+===========================================================
+Nome: ['NILBER LAZARO DE ABREU']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE C - NÍVEL 7']
+Matricula: ['15/165.572-9']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” No 016 de 08/01/2024']
+Nome e data do processo: ['processo nº SME- PRO-2023/43842.']
+
+===========================================================
+Nome: ['EURICO DE OLIVEIRA LESSA']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR DE EN-SINO FUNDAMENTAL - MATEMÁTICA - CLASSE C - NÍVEL 7']
+Matricula: ['15/162.686-0']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 015 de 08/01/2024']
+Nome e data do processo: ['processo nº SME-PRO-2023/43992.']
+
+===========================================================
+Nome: ['DENIZE DA ROCHA THOMPSON COELHO']
+Situação atual: ['inativo']
+Profissão: ['PRO-FESSOR II - CLASSE C - NÍVEL 5']
+Matricula: ['15/232.908-4']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” No 586 de 18/12/2023']
+Nome e data do processo: ['processo nº 07/06/001.950/2020.']
+
+===========================================================
+Nome: ['LUCIANE FERREIRA ROBERTO']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR I - EDU-CAÇÃO FÍSICA CLASSE C NÍVEL 5']
+Matricula: ['15/234.016-4']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 510 de 30/11/2023']
+Nome e data do processo: ['processo nº 07/02/001.921/2020.']
+
+===========================================================
+Nome: ['MARCIA DA ENCARNAÇÃO MACIEL']
+Situação atual: ['NÃO inativo']
+Profissão: ['PROFESSOR I - EDU-CAÇÃO FÍSICA CLASSE C NÍVEL 5']
+Matricula: ['15/234.722-7']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” Nº 035 de 15/01/2024']
+Nome e data do processo: ['processo nº 07/04/002.567/2021.']
+
+===========================================================
+Nome: ['ROSIMERY BORGES DAMASCENO']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE B - NÍVEL 5']
+Matricula: ['15/153.584-8']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” No 028 de 11/01/2024']
+Nome e data do processo: ['pro-cesso nº 07/07/003.181/2022.']
+
+===========================================================
+Nome: ['OSINEA GARCIA LOPES FONTELLA']
+Situação atual: ['inativo']
+Profissão: ['DATILÓGRAFO - CATEGORIA ESPECIAL “A”']
+Matricula: ['15/129.522-9']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/SUBEX/CGRH “P” 928 de 28/10/2022']
+Nome e data do processo: ['processo nº 07/02/002.491/2022 e TORNO ']
+
+===========================================================
+Nome: ['LIDUINA MARIA DA ROCHA CORRÊA']
+Situação atual: ['inativo']
+Profissão: ['PROFESSOR II - CLASSE A - NÍVEL 7']
+Matricula: ['15/105.453-5']
+Aposentadoria: ['SIM aposentada']
+Portaria ou Resolução: ['Portaria E/CTRH/CARH “P” No 508 de 30/11/2023']
+Nome e data do processo: ['pro-cesso nº 07/002.811/2017.']

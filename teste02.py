@@ -1,48 +1,58 @@
+import re
+
 def separa_paragrafos(caminho_arquivo):
-  
+
   paragrafos = []
-  
-  with open(caminho_arquivo, 'r', encoding='utf8') as arquivo: # with (abre e fecha)
-    texto = arquivo.read() 
- 
+
+  with open(caminho_arquivo, 'r', encoding='utf8') as arquivo:
+    texto = arquivo.read()
+
   for linha in texto.split("\n"):
     if linha:
       paragrafos.append(linha)
   return paragrafos
 
-
-def encontra_paragrafos_fixados(paragrafos):
-  paragrafos_fixados = []
+def encontra_paragrafos_selecionados(paragrafos):
+  lista_de_paragrafos = []
   adicionar = False
   frase = ''
+
   for linha in paragrafos:
-    
+
     if linha.startswith("Fixados com validade a partir de"):
         frase = frase + linha
         adicionar = True
     elif adicionar:
         frase = frase + linha
 
-    if 'nº' in frase:
-       paragrafos_fixados.append(frase)
+    processo1 = re.findall(r'pro.?-?ce.?-?s.?-?so.*\.$', frase, flags=re.I)
+    if processo1:
+       lista_de_paragrafos.append(frase)
        adicionar = False
        frase = ''
 
-  return paragrafos_fixados
+    # ================= filtro de exceção a regra =================
+    processo2 = re.findall(r'\d{2}/\d{2}/\d{3}.\d{3}/\d{4}', frase, flags=re.I)
+    if processo2:
+       lista_de_paragrafos.append(frase)
+       adicionar = False
+       frase = ''
+    # ==============================================================
 
 
+  return lista_de_paragrafos
 
+caminho_arquivo = 'arquivo_texto.txt'
 
-caminho_arquivo = 'aula1.txt'
+paginas = separa_paragrafos(caminho_arquivo)
 
-paragrafos = separa_paragrafos(caminho_arquivo)
-paragrafos_fixados = encontra_paragrafos_fixados(paragrafos)
+paragrafos_selecionados = encontra_paragrafos_selecionados(paginas)
 
-for n, i in enumerate(paragrafos_fixados):
+for n, i in enumerate(paragrafos_selecionados):
    print(f'{n + 1} = {i}\n\n')
 
-caminho_arquivo = 'aula2.txt'
+caminho_arquivo = 'cadastro_texto.txt'
 with open(caminho_arquivo, 'a', encoding='utf8') as arquivo: # with (abre e fecha)
-    # arquivo.writelines(paragrafos_fixados)
-    for n,p in enumerate(paragrafos_fixados):
-      arquivo.write(f'{n + 1} = {p}\n\n')   
+    # arquivo.writelines(paragrafos_selecionados)
+    for n,p in enumerate(paragrafos_selecionados):
+      arquivo.write(f'{n + 1} = {p}\n\n')
