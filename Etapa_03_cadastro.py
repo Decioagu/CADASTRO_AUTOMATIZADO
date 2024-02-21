@@ -1,6 +1,8 @@
 import re
 from pathlib import Path
-import csv
+from openpyxl import Workbook
+from openpyxl.worksheet.worksheet import Worksheet
+from datetime import date
 import shutil
 
 # ======================== Função inicial ===========================
@@ -115,6 +117,7 @@ def unir_lista_em_um_texto(valor):
 
 # ======================== Iniciar programa ===========================
 def cadastrar_pessoas():
+
     # caminho do arquivo
     PASTA_RAIZ = Path(__file__).parent
     PASTA_NOVA = PASTA_RAIZ / 'cadastro' / 'cadastro_texto.txt'
@@ -193,20 +196,42 @@ def cadastrar_pessoas():
 
     # =========================== Gerar arquivo CSV ===========================
     # caminho do arquivo
+    hoje = date.today().strftime('%d/%m/%Y') # data de hoje (dd/mm/aaaa)
     PASTA_RAIZ = Path(__file__).parent
-    CAMINHO_CSV = PASTA_RAIZ / 'cadastro' / 'cadastro.csv'
+    CAMINHO_EXCEL = PASTA_RAIZ / 'cadastro' / 'cadastro.xlsx'
+
+    workbook = Workbook() # criar arquivo vazio do Excel
+
+    # Nome para a planilha
+    sheet_name = 'Diário oficial'
+
+    # Criamos a planilha
+    workbook.create_sheet(sheet_name, 0) # alterar ordem (nome, posição)
+
+    # Selecionou a planilha (worksheet: Worksheet = tipagem)
+    worksheet: Worksheet = workbook[sheet_name] # planinha ativa ('Minha planilha')
+
+
+    # Criando os cabeçalhos
+    worksheet.cell(1, 1, 'NOME')    # (linha, coluna, valor)
+    worksheet.cell(1, 2, 'SITUAÇÃO ATUAL')   # (linha, coluna, valor)
+    worksheet.cell(1, 3, 'PROFISSÃO')    # (linha, coluna, valor)
+    worksheet.cell(1, 4, 'MATRICULA')    # (linha, coluna, valor)
+    worksheet.cell(1, 5, 'APOSENTADORIA')    # (linha, coluna, valor)
+    worksheet.cell(1, 6, 'PORTARIA OU RESOLUÇÃO')    # (linha, coluna, valor)
+    worksheet.cell(1, 7, 'NÚMERO DO PROCESSO')    # (linha, coluna, valor)
 
     lista_com_todos_os_clientes = list(lista_de_clientes)
 
-    with open(CAMINHO_CSV, 'a', newline='') as arquivo:
-        nome_colunas = ['NOME', 'SITUAÇÃO ATUAL', 'PROFISSÃO', 'MATRICULA', 'APOSENTADORIA',
-                        'PORTARIA OU RESOLUÇÃO', 'NÚMERO DO PROCESSO'] # chave para coluna
-        escritor = csv.writer(arquivo) # modo de gravação
+    # # adicionar lista de objetos
+    for cliente in lista_com_todos_os_clientes:
+        worksheet.append(cliente) # adicionar como lista
+        print(cliente)
+    # ===============================================================================
 
-        writer = csv.DictWriter(arquivo, fieldnames=nome_colunas) # modo de gravação
-        writer.writeheader() # método para escrever a linha de cabeçalho de um arquivo CSV (fieldnames=)
+    workbook.save(CAMINHO_EXCEL) # salvar arquivo
 
-        escritor.writerows(lista_com_todos_os_clientes) # escrever todas as linhas de dados
+    print('FIM Etapa_03_cadastro...')
 
 if __name__ == "__main__":
     cadastrar_pessoas()

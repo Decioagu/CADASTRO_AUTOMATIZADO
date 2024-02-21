@@ -1,5 +1,4 @@
 from PySide6.QtWidgets import QMainWindow, QVBoxLayout, QWidget, QMessageBox, QLabel
-from PySide6.QtCore import Qt
 
 class MainWindow(QMainWindow):
     # ============= Superclasse QMainWindow() ================
@@ -17,10 +16,6 @@ class MainWindow(QMainWindow):
 
         self.setWindowTitle('Diário Oficial') # Título da janela
 
-        self.texto = QLabel("Diário Oficial") # Texto título
-        self.vertical_layout.addWidget(self.texto, alignment=Qt.AlignCenter) # adicionar "QLabel()" em "QVBoxLayout()"
-        self.texto.setStyleSheet('font-size: 40px; color: white') # tamanho e cor
-
     # ======================= Métodos =========================
     # Janela principal
     def adjustFixedSize(self):
@@ -34,4 +29,5 @@ class MainWindow(QMainWindow):
     # caixa de diálogo para usuário
     def makeMsgBox(self):
         return QMessageBox(self)
+
 

@@ -1,40 +1,89 @@
-'''
-Método setStyleSheet(): uma breve explicação de cada uma das propriedades CSS mencionadas:
+import re
+import os
+from pathlib import Path
 
-# background-color: Define a cor de fundo de um elemento.
-# color: Define a cor do texto dentro de um elemento.
-# font-family: Define a família da fonte a ser usada para o texto dentro de um elemento.
-# font-size: Define o tamanho da fonte do texto dentro de um elemento.
-# font-weight: Define a espessura ou peso da fonte do texto dentro de um elemento.
-# border: Define uma borda ao redor de um elemento. Pode ser especificado em conjunto
-com border-width, border-style e border-color.
-# border-radius: Define o raio dos cantos de um elemento.
-# padding: Define o espaço entre a borda de um elemento e seu conteúdo.
-# margin: Define o espaço entre os elementos.
-# text-align: Define o alinhamento horizontal do texto dentro de um elemento.
-# opacity: Define a opacidade de um elemento, onde 0 é totalmente transparente e 1 é totalmente opaco.
-# width: Define a largura de um elemento.
-# height: Define a altura de um elemento.
-# min-width: Define a largura mínima de um elemento.
-# min-height: Define a altura mínima de um elemento.
-# max-width: Define a largura máxima de um elemento.
-# max-height: Define a altura máxima de um elemento.
-# border-color: Define a cor da borda de um elemento.
-# border-width: Define a largura da borda de um elemento.
-# border-style: Define o estilo da borda de um elemento.
-# border-bottom, border-top, border-left, border-right: Define bordas específicas para os lados inferior,
-superior, esquerdo e direito de um elemento, respectivamente.
-# border-bottom-color, border-top-color, border-left-color, border-right-color: Define as cores específicas das bordas inferior,
-superior, esquerda e direita de um elemento, respectivamente.
-# border-bottom-width, border-top-width, border-left-width, border-right-width: Define as larguras específicas das bordas inferior,
-superior, esquerda e direita de um elemento, respectivamente.
-# border-bottom-style, border-top-style, border-left-style, border-right-style: Define os estilos específicos das bordas inferior,
-superior, esquerda e direita de um elemento, respectivamente.
-# border-radius-top-left, border-radius-top-right, border-radius-bottom-left, border-radius-bottom-right: Define os raios dos cantos específicos de um elemento.
-# background-image: Define uma imagem de fundo para um elemento.
-# background-repeat: Define como a imagem de fundo deve se repetir.
-# background-position: Define a posição inicial da imagem de fundo.
-# background-size: Define o tamanho da imagem de fundo.
-# box-shadow: Define uma sombra em torno de um elemento.
-# text-decoration: Define a decoração do texto, como sublinhado, tachado, etc.
-'''
+# ============================= Funções ================================
+def separar_arquivo_pdf_em_linhas(caminho_arquivo):
+  print('separa em paragrafos...')
+
+  paragrafos = []
+
+  with open(caminho_arquivo, 'r', encoding='utf8') as arquivo:
+    texto = arquivo.read()
+
+  for linha in texto.split("\n"):
+    if linha:
+      paragrafos.append(linha)
+  return paragrafos
+
+def selecionar_paragrafos_cadastro_de_clientes(paragrafos):
+  print('selecionar paragrafo ...')
+
+  lista_de_paragrafos = []
+  adicionar = False
+  frase = ''
+
+  for linha in paragrafos:
+
+    processo0 = re.findall(r'Fixados com validade a partir de.*', linha, flags=re.I)
+    if processo0:
+        frase = frase + linha
+        adicionar = True
+    elif adicionar:
+        frase = frase + linha
+
+    processo1 = re.findall(r'pro.?-?ce.?-?s.?-?so.*\.$', frase, flags=re.I)
+    if processo1:
+       lista_de_paragrafos.append(frase)
+       adicionar = False
+       frase = ''
+
+    # ================= filtro de exceção a regra =================
+    processo2 = re.findall(r'\d{2}/\d{2}/\d{3}.\d{3}/\d{4}', frase, flags=re.I)
+    if processo2:
+       lista_de_paragrafos.append(frase)
+       adicionar = False
+       frase = ''
+    # ==============================================================
+  return lista_de_paragrafos
+
+# ======================== Iniciar programa ===========================
+
+def selecionar_paragrafo():
+    nova_pasta = Path() / 'cadastro'
+    # criar pasta nova_pasat.
+    nova_pasta.mkdir(exist_ok=True) # exist_ok=True para não da erro se existir pasta
+
+    # caminho do arquivo
+    PASTA_RAIZ = Path(__file__).parent
+    PASTA_NOVA = PASTA_RAIZ / 'pdf_em_txt'
+
+    caminho_arquivo = 'arquivo_texto.txt'
+
+    # =========================== Gerar arquivo TXT ===========================
+
+    for num , arquivo_txt in enumerate(os.listdir(PASTA_NOVA)):
+        if arquivo_txt.endswith(".txt"):
+            with open(os.path.join(PASTA_NOVA, arquivo_txt), "r") as f:
+
+                ACESSO_ARQUIVOS = PASTA_NOVA / arquivo_txt
+
+                print('Aguarde processamento...')
+
+                arquivo_pdf_em_linhas_txt = separar_arquivo_pdf_em_linhas(ACESSO_ARQUIVOS)
+
+                paragrafos_selecionados = selecionar_paragrafos_cadastro_de_clientes(arquivo_pdf_em_linhas_txt)
+
+                for n, i in enumerate(paragrafos_selecionados):
+                    print(f'{n + 1} = {i}\n\n')
+
+                with open(nova_pasta / 'cadastro_texto.txt', 'a', encoding='utf8') as arquivo: # with (abre e fecha)
+                    # arquivo.writelines(paragrafos_selecionados)
+                    for n,p in enumerate(paragrafos_selecionados):
+                        arquivo.write(f'{n + 1} = {p}\n\n')
+        print('Processo finalizado...')
+
+    print('FIM...')
+
+if __name__ == '__main__':
+    selecionar_paragrafo()

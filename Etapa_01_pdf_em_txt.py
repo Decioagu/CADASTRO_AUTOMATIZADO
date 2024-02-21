@@ -7,7 +7,6 @@ def pdf_em_txt():
     # criar pasta nova_pasta.
     nova_pasta.mkdir(exist_ok=True) # exist_ok=True para não da erro se existir pasta
 
-
     # caminho do arquivo
     PASTA_RAIZ = Path(__file__).parent
     PASTA_ORIGINAIS = PASTA_RAIZ / 'pdfs_originais'
@@ -31,7 +30,7 @@ def pdf_em_txt():
                 out.close()
                 print('Processo finalizado...')
 
-    ('FIM')
+    print('FIM Etapa_01_pdf_em_txt...')
 
 if __name__ == '__main__':
     pdf_em_txt()

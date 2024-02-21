@@ -25,7 +25,8 @@ def selecionar_paragrafos_cadastro_de_clientes(paragrafos):
 
   for linha in paragrafos:
 
-    if linha.startswith("Fixados com validade a partir de"):
+    processo0 = re.findall(r'Fixados com validade a partir de.*', linha, flags=re.I)
+    if processo0:
         frase = frase + linha
         adicionar = True
     elif adicionar:
@@ -86,4 +87,3 @@ def selecionar_paragrafo():
 
 if __name__ == '__main__':
     selecionar_paragrafo()
-    

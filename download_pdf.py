@@ -5,12 +5,14 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.action_chains import ActionChains
 from pathlib import Path
 from time import sleep
-import os
-from Etapa_01_pdf_em_txt import pdf_em_txt
+import requests
 
 def download_pfd():
 
     # 1. Definir a URL e o local de download:
+    nova_pasta1 = Path() / 'pdfs_originais'
+    nova_pasta1.mkdir(exist_ok=True) # exist_ok=True para não da erro se existir pasta
+
     PASTA_RAIZ = Path(__file__).parent
     PASTA_NOVA = PASTA_RAIZ / 'pdfs_originais'
 
@@ -32,10 +34,25 @@ def download_pfd():
     ActionChains(driver).move_to_element(link).click().perform()
 
     # 6. Esperar o download terminar:
-    while not os.path.exists(os.path.join(PASTA_NOVA, "arquivo.pdf")):
-        sleep(5)
-        # 7. Fechar o navegador:
-        driver.quit()
+    sleep(20)
+
+    # 7. Fechar o navegador:
+    driver.quit()
+
+    print('FIM download_pdf...')
+
+def verifica_conexao_internet():
+    try:
+        # Faz uma requisição para o Google
+        requests.get('https://www.google.com.br/', timeout=5)
+        print("Conectado à internet!")
+        texto_conexao = "Conectado à internet!"
+        return texto_conexao
+    except requests.ConnectionError:
+        # Se a requisição falhar, retorna False
+        print("Sem conexão com a internet.")
+        texto_conexao = "Sem conexão com a internet."
+        return texto_conexao
 
 if __name__ == '__main__':
     download_pfd()
