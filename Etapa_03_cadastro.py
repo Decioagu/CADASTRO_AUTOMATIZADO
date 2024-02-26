@@ -1,4 +1,5 @@
 import re
+import os
 from pathlib import Path
 from openpyxl import Workbook
 from openpyxl.worksheet.worksheet import Worksheet
@@ -120,12 +121,13 @@ def cadastrar_pessoas():
 
     # caminho do arquivo
     PASTA_RAIZ = Path(__file__).parent
-    PASTA_NOVA = PASTA_RAIZ / 'cadastro' / 'cadastro_texto.txt'
+    PASTA_NOVA = PASTA_RAIZ / 'CADASTROS' / 'cadastro_texto.txt'
 
-    PASTA_PDF = PASTA_RAIZ / 'pdf_em_txt'
+    PASTA_PDF = PASTA_RAIZ / 'PDF_EM_TXT'
     shutil.rmtree(PASTA_PDF, ignore_errors=True) # apagar pasta (delete)
 
-
+    if not os.path.exists(f'{PASTA_NOVA}'):
+        return
 
     print(PASTA_NOVA)
     minha_lista = separar_em_paragrafo(PASTA_NOVA)
@@ -194,16 +196,15 @@ def cadastrar_pessoas():
         print('\n===========================================================\n')
 
 
-    # =========================== Gerar arquivo CSV ===========================
+    # =========================== Gerar arquivo EXCEL ===========================
     # caminho do arquivo
-    hoje = date.today().strftime('%d/%m/%Y') # data de hoje (dd/mm/aaaa)
-    PASTA_RAIZ = Path(__file__).parent
-    CAMINHO_EXCEL = PASTA_RAIZ / 'cadastro' / 'cadastro.xlsx'
+    hoje = date.today().strftime('%d.%m.%Y') # data de hoje (dd/mm/aaaa)
+    CAMINHO_EXCEL = PASTA_RAIZ / 'CADASTROS' / 'cadastro.xlsx'
 
     workbook = Workbook() # criar arquivo vazio do Excel
 
     # Nome para a planilha
-    sheet_name = 'Diário oficial'
+    sheet_name = f'RJ {hoje}'
 
     # Criamos a planilha
     workbook.create_sheet(sheet_name, 0) # alterar ordem (nome, posição)
@@ -231,7 +232,7 @@ def cadastrar_pessoas():
 
     workbook.save(CAMINHO_EXCEL) # salvar arquivo
 
-    print('FIM Etapa_03_cadastro...')
+print('FIM Etapa_03_cadastro...')
 
 if __name__ == "__main__":
     cadastrar_pessoas()

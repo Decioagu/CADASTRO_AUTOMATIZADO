@@ -6,15 +6,20 @@ from selenium.webdriver.common.action_chains import ActionChains
 from pathlib import Path
 from time import sleep
 import requests
+from datetime import date
 
-def download_pfd():
+hoje = (date.today().strftime('%d/%m/%Y')) # campo de inserção de data (dd/mm/aaaa)
 
-    # 1. Definir a URL e o local de download:
-    nova_pasta1 = Path() / 'pdfs_originais'
-    nova_pasta1.mkdir(exist_ok=True) # exist_ok=True para não da erro se existir pasta
+def download_pfd(data = str(hoje)):
+    print(data)
 
+    # caminho da pasta raiz
     PASTA_RAIZ = Path(__file__).parent
-    PASTA_NOVA = PASTA_RAIZ / 'pdfs_originais'
+
+    nova_pasta = PASTA_RAIZ / 'PDF' # criar pasta nova_pasta.
+    nova_pasta.mkdir(exist_ok=True) # exist_ok=True para não da erro se existir pasta
+
+    PASTA_NOVA = PASTA_RAIZ / nova_pasta # caminho nova_pasta.
 
     # 2. Definir a pasta de download padrão antes de iniciar a automação.
     options = webdriver.ChromeOptions()
@@ -39,7 +44,7 @@ def download_pfd():
     # 7. Fechar o navegador:
     driver.quit()
 
-    print('FIM download_pdf...')
+print('FIM download_pdf...')
 
 def verifica_conexao_internet():
     try:

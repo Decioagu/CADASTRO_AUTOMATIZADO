@@ -1,42 +1,17 @@
 import sys
-from time import sleep
 from datetime import date
-from threading import Thread
 
-from PySide6.QtWidgets import QApplication, QLabel, QPushButton
+from PySide6.QtWidgets import QApplication, QLabel, QWidget
 from qt_material import apply_stylesheet
 from PySide6.QtCore import Qt
 
 from main_window import MainWindow
 from main_display import Display
-from main_botoes import BotoesGrid
+from main_botoes_download import BotoesDownloadGrid
+from main_botoes_pasta import BotoesPastaGrid
 
 from download_pdf import verifica_conexao_internet
-from Etapa_01_pdf_em_txt import pdf_em_txt
-from Etapa_02_selecionar_paragrafo import selecionar_paragrafo
-from Etapa_03_cadastro import cadastrar_pessoas
-from main_config_auxiliar_css import configTextoTitulo, configTextoBotao, configBotao
-
-# botão executar
-def botao_clicado():
-    Thread(target=message_status_bar).start() # executar em paralelo
-    Thread(target=executar_pasta).start() # executar em paralelo
-
-def executar_pasta():
-    pdf_em_txt()
-    selecionar_paragrafo()
-    cadastrar_pessoas()
-    status_bar.showMessage('Finalizado...')
-    Thread(target=atualizar_status_bar).start() # executar em paralelo
-
-def message_status_bar():
-    # Mostra a mensagem "Processando..." na barra de status
-    status_bar.showMessage('Processando...')
-
-def atualizar_status_bar():
-    conexao_internet = verifica_conexao_internet()
-    sleep(3)
-    status_bar.showMessage(conexao_internet)
+from main_config_auxiliar_css import configTextoTitulo, configTextoBotao
 
 conexao_internet = verifica_conexao_internet()
 
@@ -54,28 +29,41 @@ if __name__ == '__main__':
     window.vertical_layout.addWidget(texto_titulo, alignment=Qt.AlignCenter) # adicionar "QLabel()" em "QVBoxLayout()"
     configTextoTitulo(texto_titulo)
 
-    # ================== Módulo botoes ===================
-    # "QGridLayout" inicia uma janela de grade (linha e coluna)
-    botoeGrid = BotoesGrid()  # adiciona "Display()" na janela de grade (linha e coluna)
-    window.vertical_layout.addLayout(botoeGrid) # adiciona "BotoesGrid()" na janela principal
+     # ========== texto sobre botão executar widgets janela principal ==========
+    texto_definir_data = QLabel("Definir data download:") # adicionar texto
+    window.vertical_layout.addWidget(texto_definir_data, alignment=Qt.AlignCenter)
+    configTextoBotao(texto_definir_data)
 
-     # ================== Módulo display ===================
+    # ================== Módulo display ===================
     today = date.today() # data de hoje
     display = Display(today.strftime('%d/%m/%Y')) # campo de inserção de data (dd/mm/aaaa)
-    window.addWidgetLayout(display) # método widgets (módulo "main_window")
+    window.vertical_layout.addWidget(display, alignment=Qt.AlignCenter) # adicionar "QLabel()" em "QVBoxLayout()"
+
+    # ================== Módulo espaçamento ===================
+    widget = QWidget()
+    window.vertical_layout.addWidget(widget)
+    widget.setStyleSheet('min-height: 20px')
+
+    # ================== Módulo botoes ===================
+    # "QGridLayout" inicia uma janela de grade (linha e coluna)
+    botoes_download = BotoesDownloadGrid(window, display)  # adiciona "Display()" na janela de grade (linha e coluna)
+    window.vertical_layout.addLayout(botoes_download) # adiciona "BotoesDownloadGrid()" na janela principal
+
+    # ================== Módulo espaçamento ===================
+    widget = QWidget()
+    window.vertical_layout.addWidget(widget)
+    widget.setStyleSheet('min-height: 20px')
 
     # ========== texto sobre botão executar widgets janela principal ==========
-    texto_botao_executar = QLabel("Executar Pasta") # adicionar texto
+    texto_botao_executar = QLabel("Pastas") # adicionar texto
     window.vertical_layout.addWidget(texto_botao_executar, alignment=Qt.AlignCenter)
     configTextoBotao(texto_botao_executar)
 
     # =================== botão executar widgets janela principal =====================
-    botao_executar = QPushButton('Executar') # widget botão
-    window.vertical_layout.addWidget(botao_executar, alignment=Qt.AlignCenter)
-    configBotao(botao_executar)
-    botao_executar.clicked.connect(botao_clicado)
+    botoes_executar = BotoesPastaGrid(window) # widget botão
+    window.vertical_layout.addLayout(botoes_executar) # adiciona "BotoesDownloadGrid()" na janela principal
 
-    # == Gerenciamento "Barra de Status"  janela principal ==
+    # # == Gerenciamento "Barra de Status"  janela principal ==
     status_bar = window.statusBar() # usado para verificar status da janela principal (ação executada)
     status_bar.showMessage(conexao_internet) # ver mensagem (roda pé janela)
 

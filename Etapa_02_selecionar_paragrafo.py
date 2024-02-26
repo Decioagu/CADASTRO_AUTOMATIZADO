@@ -50,15 +50,18 @@ def selecionar_paragrafos_cadastro_de_clientes(paragrafos):
 # ======================== Iniciar programa ===========================
 
 def selecionar_paragrafo():
-    nova_pasta = Path() / 'cadastro'
+
+    PASTA_RAIZ = Path(__file__).parent
+    nova_pasta = PASTA_RAIZ / 'CADASTROS'
     # criar pasta nova_pasat.
     nova_pasta.mkdir(exist_ok=True) # exist_ok=True para não da erro se existir pasta
 
     # caminho do arquivo
-    PASTA_RAIZ = Path(__file__).parent
-    PASTA_NOVA = PASTA_RAIZ / 'pdf_em_txt'
 
-    caminho_arquivo = 'arquivo_texto.txt'
+    PASTA_NOVA = PASTA_RAIZ / 'PDF_EM_TXT'
+
+    if not os.path.exists(f'{PASTA_NOVA}'):
+        return
 
     # =========================== Gerar arquivo TXT ===========================
 
@@ -83,7 +86,7 @@ def selecionar_paragrafo():
                         arquivo.write(f'{n + 1} = {p}\n\n')
         print('Processo finalizado...')
 
-    print('FIM...')
+print('FIM Etapa_02_selecionar_paragrafo...')
 
 if __name__ == '__main__':
     selecionar_paragrafo()

@@ -3,14 +3,19 @@ import fitz
 from pathlib import Path
 
 def pdf_em_txt():
-    nova_pasta = Path() / 'pdf_em_txt'
-    # criar pasta nova_pasta.
+
+    # caminho da pasta raiz
+    PASTA_RAIZ = Path(__file__).parent
+
+    nova_pasta = PASTA_RAIZ / 'PDF_EM_TXT' # criar pasta nova_pasta.
     nova_pasta.mkdir(exist_ok=True) # exist_ok=True para não da erro se existir pasta
 
-    # caminho do arquivo
-    PASTA_RAIZ = Path(__file__).parent
-    PASTA_ORIGINAIS = PASTA_RAIZ / 'pdfs_originais'
-    PASTA_NOVA = PASTA_RAIZ / 'pdf_em_txt'
+    PASTA_NOVA = nova_pasta # caminho nova_pasta.
+
+    PASTA_ORIGINAIS = PASTA_RAIZ / 'PDF' # caminho do arquivo
+
+    if not os.path.exists(f'{PASTA_ORIGINAIS}'):
+        return
 
     for num , arquivo_pdf in enumerate(os.listdir(PASTA_ORIGINAIS), start=1):
         if arquivo_pdf.endswith(".pdf"):
@@ -30,7 +35,7 @@ def pdf_em_txt():
                 out.close()
                 print('Processo finalizado...')
 
-    print('FIM Etapa_01_pdf_em_txt...')
+print('FIM Etapa_01_pdf_em_txt...')
 
 if __name__ == '__main__':
     pdf_em_txt()
