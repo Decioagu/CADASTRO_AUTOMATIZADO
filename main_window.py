@@ -1,23 +1,23 @@
-from PySide6.QtWidgets import QMainWindow, QVBoxLayout, QWidget, QMessageBox, QLabel
+from PySide6.QtWidgets import QMainWindow, QVBoxLayout, QWidget, QMessageBox
 
+#  Superclasse QMainWindow()
 class MainWindow(QMainWindow):
-    # ============= Superclasse QMainWindow() ================
-    # construtor
+    # ============ Construtor ==============
     def __init__(self, parent: QWidget | None = None, *args, **kwargs) -> None:
         super().__init__(parent, *args, **kwargs)
 
         # ============= Gerenciamento "janela" ================
-        self.cw = QWidget() # classe para gerencia janela criada
+        self.cw = QWidget() # criar "janela principal"
         self.setCentralWidget(self.cw) # definir o conteúdo exibido no centro da janela principal
 
         # =========== Gerenciamento Layout "janela principal"============
-        self.vertical_layout = QVBoxLayout() # classe de layout que alinha os widgets verticalmente
+        self.vertical_layout = QVBoxLayout() # widgets verticalmente
         self.cw.setLayout(self.vertical_layout) # método = "Classe Container" para layout
 
         self.setWindowTitle('Diário Oficial') # Título da janela
 
     # ======================= Métodos =========================
-    # Janela principal
+    # Estilo da "janela principal"
     def adjustFixedSize(self):
         self.adjustSize() # usado para ajustar o tamanho de um widget ou janela
         self.setFixedSize(self.width(), self.height()) # ajuste fixo automático conforme conteúdo (largura, altura)

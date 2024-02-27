@@ -7,10 +7,10 @@ from datetime import date
 import shutil
 
 # ======================== Função inicial ===========================
-
 def separar_em_paragrafo(caminho_arquivo):
     paragrafos = []
 
+    # ler arquivo  'cadastro_texto.txt'
     with open(caminho_arquivo, 'r', encoding='utf8') as arquivo: # with (abre e fecha)
         texto = arquivo.read()
 
@@ -20,6 +20,7 @@ def separar_em_paragrafo(caminho_arquivo):
     return paragrafos
 
 # ======================== Funções de filtro ===========================
+# Filtrar portaria
 def filtrar_portaria(portaria, resolucao):
     pre_filtro_portaria = re.findall(r'\bPor\s?-?ta\s?-?ria.*', str(*portaria), flags=re.I)
     _filtrar_portaria_ = str(*pre_filtro_portaria)
@@ -29,6 +30,7 @@ def filtrar_portaria(portaria, resolucao):
     portaria.clear()
     resolucao.clear()
 
+    # Funções auxiliares
     _filtrar_portaria_ = eliminar_virgula_no_texto_portaria(_filtrar_portaria_)
     _filtrar_resolucao_ = eliminar_virgula_no_texto_resolucao(_filtrar_resolucao_)
 
@@ -38,6 +40,7 @@ def filtrar_portaria(portaria, resolucao):
     if _filtrar_resolucao_:
         portaria.append(_filtrar_resolucao_)
 
+# Filtrar matricula
 def filtrar_matricula(matricula):
     _filtrar_matricula_1 = re.sub(r'[a-zA-ZÀ-ú:,]', '' ,str(*matricula), flags=re.I)
     matricula.clear()
@@ -45,6 +48,7 @@ def filtrar_matricula(matricula):
 
     matricula.append(str(*_filtrar_matricula_2))
 
+# Filtrar profissão
 def filtrar_profissao(profissao):
     _filtrar_profissao_1 = re.findall(r'.+ ma-?tr', str(*profissao), flags=re.I)
 
@@ -62,6 +66,7 @@ def filtrar_profissao(profissao):
 
     profissao.append(variavel_auxiliar.strip())
 
+# Filtrar nome
 def filtrar_nome(nome):
         _filtrar_nome_ = str(*nome)
         nome.clear()
@@ -107,41 +112,47 @@ def eliminar_virgula_no_texto_resolucao(texto_string):
 
     return eliminar_virgula_texto_string.strip()
 
-def unir_lista_em_um_texto(valor):
-        lista = []
-        variavel_auxiliar = ''
-        for i in valor:
-            variavel_auxiliar += i
-            variavel_auxiliar += ' '
-        lista = variavel_auxiliar.strip()
-        return lista
+# def unir_lista_em_um_texto(valor):
+#         lista = []
+#         variavel_auxiliar = ''
+#         for i in valor:
+#             variavel_auxiliar += i
+#             variavel_auxiliar += ' '
+#         lista = variavel_auxiliar.strip()
+#         return lista
 
-# ======================== Iniciar programa ===========================
+# ======================== Iniciar Programa ===========================
 def cadastrar_pessoas():
 
-    # caminho do arquivo
+    # caminho da pasta raiz
     PASTA_RAIZ = Path(__file__).parent
     PASTA_NOVA = PASTA_RAIZ / 'CADASTROS' / 'cadastro_texto.txt'
 
+    # apagar pasta (delete)
     PASTA_PDF = PASTA_RAIZ / 'PDF_EM_TXT'
-    shutil.rmtree(PASTA_PDF, ignore_errors=True) # apagar pasta (delete)
+    shutil.rmtree(PASTA_PDF, ignore_errors=True)
 
+    # finalizar caso pasta não exista
     if not os.path.exists(f'{PASTA_NOVA}'):
         return
 
     print(PASTA_NOVA)
+
+    # Função inicial
     minha_lista = separar_em_paragrafo(PASTA_NOVA)
+
+    # lista de dados dos clientes
     lista_de_clientes = []
 
-    # ================== Logica de seleção de palavras =====================
+    # ================== Logica de seleção de palavras (regras de negocio )=====================
     for texto in minha_lista:
-        # =============================== nome =====================================
+        # =============================== Filtrar nome =====================================
         nome = re.findall(r'\bprov.+[\w]+', texto)
         filtrar_nome(nome)
         nome_string = str(*nome)
         print( nome_string)
 
-        # ============================= inatividade ===============================
+        # ============================= Filtrar inatividade ===============================
         inatividade = re.findall(r'ina-?t.*-?e',texto, flags=re.I)
         if inatividade:
             inatividade = ['inativo']
@@ -152,19 +163,19 @@ def cadastrar_pessoas():
             inatividade_string = str(*inatividade)
             print(inatividade_string)
 
-        # =============================== profissão ================================
+        # =============================== Filtrar profissão ================================
         profissao = re.findall(r',.?[0-9A-ZÀ-ú,-].+',texto)
         filtrar_profissao(profissao)
         profissao_string = str(*profissao)
         print(profissao_string)
 
-        # ============================== matricula =================================
+        # ============================== Filtrar matricula =================================
         matricula = re.findall(r'ma-?tr.+Apo', texto, flags=re.I)
         filtrar_matricula(matricula)
         matricula_string =  str(*matricula)
         print(matricula_string)
 
-        # ============================= aposentando ================================
+        # ============================= Filtrar aposentando ================================
         aposentado = re.findall(r'\bapo.*do\b',texto, flags=re.I)
         aposentada = re.findall(r'\bapo.*da\b',texto, flags=re.I)
         if aposentada:
@@ -177,18 +188,20 @@ def cadastrar_pessoas():
             aposentado_string = 'NÃO aposentado(a)'
             print(aposentado_string)
 
-        # ============================== portaria =================================
+        # ============================== Filtrar portaria =================================
         portaria = re.findall(r'\bapo.*\bPor\s?-?ta\s?-?ria.*',texto, flags=re.I)
         resolucao = re.findall(r'\bre\s?-?so\s?-?lu\s?-?ção.*\d{4}\b\s?,',texto, flags=re.I)
         filtrar_portaria(portaria, resolucao)
         portaria_string = str(*portaria)
         print(portaria_string) # Portaria
 
-        # =============================== processo ================================
+        # =============================== Filtrar processo ================================
         processo = re.findall(r'\bpro\s?-?ce\s?-?s\s?-?so\b.*',texto, flags=re.I)
         processo_string = str(*processo)
         print(processo_string)
-        # =========================== lista de clientes ===========================
+
+        # =========================== Lista de clientes ===========================
+        # dados individual dos clientes
         cliente = [ nome_string, inatividade_string, profissao_string, matricula_string,
                             aposentado_string, portaria_string, processo_string]
 
@@ -224,7 +237,7 @@ def cadastrar_pessoas():
 
     lista_com_todos_os_clientes = list(lista_de_clientes)
 
-    # # adicionar lista de objetos
+    # adicionar lista de objetos
     for cliente in lista_com_todos_os_clientes:
         worksheet.append(cliente) # adicionar como lista
         print(cliente)
@@ -232,6 +245,7 @@ def cadastrar_pessoas():
 
     workbook.save(CAMINHO_EXCEL) # salvar arquivo
 
+# mensagem final
 print('FIM Etapa_03_cadastro...')
 
 if __name__ == "__main__":

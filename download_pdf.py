@@ -13,39 +13,76 @@ hoje = (date.today().strftime('%d/%m/%Y')) # campo de inserção de data (dd/mm/
 def download_pfd(data = str(hoje)):
     print(data)
 
-    # caminho da pasta raiz
+    # 1. definir caminho da pasta raiz
     PASTA_RAIZ = Path(__file__).parent
 
-    nova_pasta = PASTA_RAIZ / 'PDF' # criar pasta nova_pasta.
-    nova_pasta.mkdir(exist_ok=True) # exist_ok=True para não da erro se existir pasta
+    nova_pasta = PASTA_RAIZ / 'PDF' # caminho nova_pasta.
+    nova_pasta.mkdir(exist_ok=True) # exist_ok=True para não da erro se existir pasta (criar nova pasta)
 
     PASTA_NOVA = PASTA_RAIZ / nova_pasta # caminho nova_pasta.
 
     # 2. Definir a pasta de download padrão antes de iniciar a automação.
-    options = webdriver.ChromeOptions()
+    options = webdriver.ChromeOptions() # definir navegador Chrome (Google)
     options.add_experimental_option("prefs", {"download.default_directory": str(PASTA_NOVA)})
 
-    # 3. Abrir o navegador e navegar até a página:
-    driver = webdriver.Chrome(options=options) # (options=options) = # 1.
+    # 3. Abrir o navegador:
+    driver = webdriver.Chrome(options=options) # (options=options) = # 2. Definir a pasta de download padrão
+    driver.maximize_window() # maximiza a tela do "site"
     url = "https://doweb.rio.rj.gov.br/"
-    driver.get(url)
+    driver.get(url) # abrir
 
-    # 4. Localizar o link de download:
+    # 4. Definir data de edição para download
+    data_PDF = driver.find_element(By.ID,"dataEdicaoPortal") # tag "data de edição"
+    data_PDF.clear() # limpar campo
+    sleep(2)
+
+    # alerta
+    alerta = driver.switch_to.alert #identificar alerta
+    sleep(2)
+    alerta.accept() # clicar alerta
+    sleep(2)
+
+    # tag "data de edição"
+    data_PDF.send_keys(data) # inserir texto na tag "data de edição"
+
+    # clicar botão "OK"
+    botaõ_data_PDF = driver.find_element(By.XPATH,'//input[@class="btn col-xs-2 col-sm-3 col-md-1 col-lg-1 "]') # identifica as tag no site
+    botaõ_data_PDF.click() # click na caixa da pagina "site"
+    sleep(2)
+
+    # caso a data seja inexistente
+    try:
+        alerta = driver.switch_to.alert.text
+        sleep(2)
+        if not alerta == '':
+            print('Data não existente!!!')
+            # FIM retorno
+            return False
+    except Exception as erro:
+        # print(erro.__class__, erro) # ver class do erro
+        print('Aguardar download...')
+
+    # 5. Localizar tag para download:
     link = WebDriverWait(driver, 10).until(
         EC.presence_of_element_located((By.XPATH, '//img[@id="imagemCapa"]'))
     )
 
-    # 5. Clicar no link de download:
+    # 6. Clicar na tag de download:
     ActionChains(driver).move_to_element(link).click().perform()
 
-    # 6. Esperar o download terminar:
+    # 7. Esperar o download terminar:
     sleep(20)
 
-    # 7. Fechar o navegador:
+    # 8. Fechar o navegador:
     driver.quit()
 
+    # FIM retorno
+    return True
+
+# mensagem final
 print('FIM download_pdf...')
 
+# Verificar se internet esta on-line
 def verifica_conexao_internet():
     try:
         # Faz uma requisição para o Google
