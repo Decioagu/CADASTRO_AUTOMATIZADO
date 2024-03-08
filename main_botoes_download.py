@@ -87,6 +87,11 @@ class BotoesDownloadGrid(QGridLayout, QLabel, Qt):
 
     @Slot()
     def botao_clicado(self):
+        Thread(target=self.download_status_bar).start() # executar em paralelo
+        Thread(target=self.executar_download).start() # executar em paralelo
+
+    @Slot()
+    def executar_download(self):
         botao = self.sender() # Identifica o botão clicado
 
         conexao_internet = verifica_conexao_internet() # verifica conexão internet
@@ -97,7 +102,7 @@ class BotoesDownloadGrid(QGridLayout, QLabel, Qt):
             print(f"Botão clicado: {botao.text()}") # Exibe o texto do botão clicado
             teste = download_pfd(data)
             if teste:
-                Thread(target=self.message_status_bar).start() # executar em paralelo
+                Thread(target=self.processando_status_bar).start() # executar em paralelo
                 Thread(target=self.executar_pasta).start() # executar em paralelo
         else:
             self.atualizar_status_bar() # mensagem barra de status
@@ -113,7 +118,11 @@ class BotoesDownloadGrid(QGridLayout, QLabel, Qt):
         Thread(target=self.atualizar_status_bar).start() # executar em paralelo
 
     @Slot()
-    def message_status_bar(self):
+    def download_status_bar(self):
+        self.status_bar.showMessage('Download...')  # mensagem barra de status
+
+    @Slot()
+    def processando_status_bar(self):
         self.status_bar.showMessage('Processando...')  # mensagem barra de status
 
     @Slot()

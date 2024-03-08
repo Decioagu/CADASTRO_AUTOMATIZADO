@@ -1,0 +1,476 @@
+1 = Fixados com validade a partir de 29/11/2023, os proventos de inatividade de SUELINO VIEIRA, Trabalhador, Classe Especial, Matrícula: 15/119.624-5, aposentado através da Portaria “P” Nº 28 de 27/11/2023, conforme processo nº IFR-PRO-2023/01499.
+
+2 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de SIMONE SANTOS PRADO VERONESE, PROFESSOR II - CLASSE C - NÍVEL 5, MATRÍCULA: 15/231.974-7, aposentada através da Por-taria E/CTRH/CARH “P” Nº 188 de 19/02/2024, conforme processo nº SME-PRO-2023/45168.
+
+3 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de SOLANGE JACINTO DOS REIS, PROFESSOR II - CLASSE C - NÍVEL 7, MATRÍCULA: 15/171.286-8, aposentada através da Portaria  E/CTRH/CARH “P” Nº 040 de 17/01/2024, conforme processo nº SME-PRO-2023/45200.
+
+4 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de ROSA MARIA SOUZA BRAGA, PROFESSOR II - CLASSE D - NÍVEL 5, MATRÍCULA: 15/233.045.4, aposentada através da Portaria E/CTRH/CARH “P” Nº 065 de 26/01/2024, conforme processo nº SME-PRO-2023/45362.
+
+5 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de MARIA DE FATIMA GOMES PINHEIRO MOUTA, PROFESSOR II - CLASSE C - NÍVEL 7, MATRÍCULA: 15/089.045-9, aposentada através da Portaria E/CTRH/CARH “P” Nº 143 de 02/02/2024, conforme processo nº SME-PRO-2023/45779.
+
+6 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de SONIA DE SOUZA ALVES DE CARVALHO, PROFESSOR II - CLASSE C - NÍVEL 5, MATRÍCULA: 15/222.140-6, aposentada através da Portaria E/CTRH/CARH “P” Nº 050 de 22/01/2024, conforme processo nº SME-PRO-2023/45849.
+
+7 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de LUCINEIA FERREIRA DANTAS, PROFESSOR I - LÍNGUA PORTUGUESA - CLASSE C - NÍVEL 7, MATRÍCULA: 15/064.394-0, aposentada através da Portaria E/CTRH/CARH “P” Nº 103 de 31/01/2024, conforme processo nº SME- PRO-2023/46055.
+
+8 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de MARCIA MARTINS LIMA RODRIGUES, PROFESSOR I - CIÊNCIAS - CLASSE C - NÍVEL 5, MATRÍCULA: 15/240.178-4, aposentada através da Portaria E/CTRH/CARH “P” Nº 185 de 16/02/2024, conforme processo nº SME-PRO-2023/46332.
+
+9 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de ANDRÉA CARVALHO SILVA BERTOQUI, PROFESSOR I - MATEMÁTICA - CLASSE C - NÍVEL 5, MATRÍCULA: 15/233.104-9, aposentada através da Portaria E/CTRH/CARH “P” Nº 070 de 31/01/2024, conforme processo nº SME- PRO-2023/46411.
+
+10 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de KARLA JENNINGS BOR-BOREMA FRÓES CRUZ, PROFESSOR II - CLASSE B - NÍVEL 7, MATRÍCULA: 15/150.007-3, aposentada através da Portaria E/CTRH/CARH “P” Nº 135 de 01/02/2024, conforme processo nº SME-PRO-2023/46514.
+
+11 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de VALERIA RODRIGUES DE SOUZA, MERENDEIRA - CATEGORIA ESPECIAL, MATRÍCULA: 15/157.812-9, aposentada através da Por-taria E/CTRH/CARH “P” Nº 192 de 20/02/2024, conforme processo nº SME-PRO-2023/46796.
+
+12 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de ELZA CRISTINA RIBEIRO DIAS, SERVENTE - CATEGORIA ESPECIAL, MATRÍCULA: 15/129.710-0, aposentada através da Portaria  E/CTRH/CARH “P” Nº 134 de 01/02/2024, conforme processo nº SME-PRO-2023/47179.
+
+13 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de VERA ROSA VENTURA DA SILVA, MERENDEIRA - CATEGORIA ESPECIAL, MATRÍCULA: 15/151.768-9, aposentada através da Por-taria E/CTRH/CARH “P” Nº 137 de 01/02/2024, conforme processo nº SME-PRO-2023/47298.
+
+14 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de GIZELE GONÇALVES COSTA LOPES, PROFESSOR II - CLASSE C - NÍVEL 5, MATRÍCULA: 15/239.109-2, aposentada através da Portaria E/CTRH/CARH “P” Nº 052 de 22/01/2024, conforme processo nº SME-PRO-2023/47461.
+
+15 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de CARLOS ROBERTO SANCHES, SERVENTE - CATEGORIA ESPECIAL, MATRÍCULA: 15/155.560-6, aposentado através da Portaria E/CTRH/CARH “P” Nº 041 de 17/01/2024, conforme processo nº SME-PRO-2023/47494.
+
+16 = Fixados com validade a partir de 02/02/2024, os proventos mensais de inatividade de GRACIA MARIA GUIMA-RÃES CARDEAL PASTORIZA matrícula 14/159.147-8, Fiscal de Atividades Econômicas, Categoria Especial, aposentada através da Resolução ‘P’ N.º 029 de 31/01/2024, conforme processo n.º EOP-PRO-2024/00678. .
+
+17 = Fixados com validade a partir de 01/12/2023, os proventos de inatividade do servidor MARIO JOSÉ DE OLI-VEIRA, Guarda Municipal, 850.879-8/01, aposentado através da PORTARIA “P” IG Nº 175, DE 28 DE NO-VEMBRO DE 2023, conforme o processo n.º GM-PRO-2023/02975.
+
+1 = Fixados com validade a partir de 29/11/2023, os proventos de inatividade de SUELINO VIEIRA, Trabalhador, Classe Especial, Matrícula: 15/119.624-5, aposentado através da Portaria “P” Nº 28 de 27/11/2023, conforme processo nº IFR-PRO-2023/01499.
+
+2 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de SIMONE SANTOS PRADO VERONESE, PROFESSOR II - CLASSE C - NÍVEL 5, MATRÍCULA: 15/231.974-7, aposentada através da Por-taria E/CTRH/CARH “P” Nº 188 de 19/02/2024, conforme processo nº SME-PRO-2023/45168.
+
+3 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de SOLANGE JACINTO DOS REIS, PROFESSOR II - CLASSE C - NÍVEL 7, MATRÍCULA: 15/171.286-8, aposentada através da Portaria  E/CTRH/CARH “P” Nº 040 de 17/01/2024, conforme processo nº SME-PRO-2023/45200.
+
+4 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de ROSA MARIA SOUZA BRAGA, PROFESSOR II - CLASSE D - NÍVEL 5, MATRÍCULA: 15/233.045.4, aposentada através da Portaria E/CTRH/CARH “P” Nº 065 de 26/01/2024, conforme processo nº SME-PRO-2023/45362.
+
+5 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de MARIA DE FATIMA GOMES PINHEIRO MOUTA, PROFESSOR II - CLASSE C - NÍVEL 7, MATRÍCULA: 15/089.045-9, aposentada através da Portaria E/CTRH/CARH “P” Nº 143 de 02/02/2024, conforme processo nº SME-PRO-2023/45779.
+
+6 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de SONIA DE SOUZA ALVES DE CARVALHO, PROFESSOR II - CLASSE C - NÍVEL 5, MATRÍCULA: 15/222.140-6, aposentada através da Portaria E/CTRH/CARH “P” Nº 050 de 22/01/2024, conforme processo nº SME-PRO-2023/45849.
+
+7 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de LUCINEIA FERREIRA DANTAS, PROFESSOR I - LÍNGUA PORTUGUESA - CLASSE C - NÍVEL 7, MATRÍCULA: 15/064.394-0, aposentada através da Portaria E/CTRH/CARH “P” Nº 103 de 31/01/2024, conforme processo nº SME- PRO-2023/46055.
+
+8 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de MARCIA MARTINS LIMA RODRIGUES, PROFESSOR I - CIÊNCIAS - CLASSE C - NÍVEL 5, MATRÍCULA: 15/240.178-4, aposentada através da Portaria E/CTRH/CARH “P” Nº 185 de 16/02/2024, conforme processo nº SME-PRO-2023/46332.
+
+9 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de ANDRÉA CARVALHO SILVA BERTOQUI, PROFESSOR I - MATEMÁTICA - CLASSE C - NÍVEL 5, MATRÍCULA: 15/233.104-9, aposentada através da Portaria E/CTRH/CARH “P” Nº 070 de 31/01/2024, conforme processo nº SME- PRO-2023/46411.
+
+10 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de KARLA JENNINGS BOR-BOREMA FRÓES CRUZ, PROFESSOR II - CLASSE B - NÍVEL 7, MATRÍCULA: 15/150.007-3, aposentada através da Portaria E/CTRH/CARH “P” Nº 135 de 01/02/2024, conforme processo nº SME-PRO-2023/46514.
+
+11 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de VALERIA RODRIGUES DE SOUZA, MERENDEIRA - CATEGORIA ESPECIAL, MATRÍCULA: 15/157.812-9, aposentada através da Por-taria E/CTRH/CARH “P” Nº 192 de 20/02/2024, conforme processo nº SME-PRO-2023/46796.
+
+12 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de ELZA CRISTINA RIBEIRO DIAS, SERVENTE - CATEGORIA ESPECIAL, MATRÍCULA: 15/129.710-0, aposentada através da Portaria  E/CTRH/CARH “P” Nº 134 de 01/02/2024, conforme processo nº SME-PRO-2023/47179.
+
+13 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de VERA ROSA VENTURA DA SILVA, MERENDEIRA - CATEGORIA ESPECIAL, MATRÍCULA: 15/151.768-9, aposentada através da Por-taria E/CTRH/CARH “P” Nº 137 de 01/02/2024, conforme processo nº SME-PRO-2023/47298.
+
+14 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de GIZELE GONÇALVES COSTA LOPES, PROFESSOR II - CLASSE C - NÍVEL 5, MATRÍCULA: 15/239.109-2, aposentada através da Portaria E/CTRH/CARH “P” Nº 052 de 22/01/2024, conforme processo nº SME-PRO-2023/47461.
+
+15 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de CARLOS ROBERTO SANCHES, SERVENTE - CATEGORIA ESPECIAL, MATRÍCULA: 15/155.560-6, aposentado através da Portaria E/CTRH/CARH “P” Nº 041 de 17/01/2024, conforme processo nº SME-PRO-2023/47494.
+
+16 = Fixados com validade a partir de 02/02/2024, os proventos mensais de inatividade de GRACIA MARIA GUIMA-RÃES CARDEAL PASTORIZA matrícula 14/159.147-8, Fiscal de Atividades Econômicas, Categoria Especial, aposentada através da Resolução ‘P’ N.º 029 de 31/01/2024, conforme processo n.º EOP-PRO-2024/00678. .
+
+17 = Fixados com validade a partir de 01/12/2023, os proventos de inatividade do servidor MARIO JOSÉ DE OLI-VEIRA, Guarda Municipal, 850.879-8/01, aposentado através da PORTARIA “P” IG Nº 175, DE 28 DE NO-VEMBRO DE 2023, conforme o processo n.º GM-PRO-2023/02975.
+
+1 = Fixados com validade a partir de 29/11/2023, os proventos de inatividade de SUELINO VIEIRA, Trabalhador, Classe Especial, Matrícula: 15/119.624-5, aposentado através da Portaria “P” Nº 28 de 27/11/2023, conforme processo nº IFR-PRO-2023/01499.
+
+2 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de SIMONE SANTOS PRADO VERONESE, PROFESSOR II - CLASSE C - NÍVEL 5, MATRÍCULA: 15/231.974-7, aposentada através da Por-taria E/CTRH/CARH “P” Nº 188 de 19/02/2024, conforme processo nº SME-PRO-2023/45168.
+
+3 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de SOLANGE JACINTO DOS REIS, PROFESSOR II - CLASSE C - NÍVEL 7, MATRÍCULA: 15/171.286-8, aposentada através da Portaria  E/CTRH/CARH “P” Nº 040 de 17/01/2024, conforme processo nº SME-PRO-2023/45200.
+
+4 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de ROSA MARIA SOUZA BRAGA, PROFESSOR II - CLASSE D - NÍVEL 5, MATRÍCULA: 15/233.045.4, aposentada através da Portaria E/CTRH/CARH “P” Nº 065 de 26/01/2024, conforme processo nº SME-PRO-2023/45362.
+
+5 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de MARIA DE FATIMA GOMES PINHEIRO MOUTA, PROFESSOR II - CLASSE C - NÍVEL 7, MATRÍCULA: 15/089.045-9, aposentada através da Portaria E/CTRH/CARH “P” Nº 143 de 02/02/2024, conforme processo nº SME-PRO-2023/45779.
+
+6 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de SONIA DE SOUZA ALVES DE CARVALHO, PROFESSOR II - CLASSE C - NÍVEL 5, MATRÍCULA: 15/222.140-6, aposentada através da Portaria E/CTRH/CARH “P” Nº 050 de 22/01/2024, conforme processo nº SME-PRO-2023/45849.
+
+7 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de LUCINEIA FERREIRA DANTAS, PROFESSOR I - LÍNGUA PORTUGUESA - CLASSE C - NÍVEL 7, MATRÍCULA: 15/064.394-0, aposentada através da Portaria E/CTRH/CARH “P” Nº 103 de 31/01/2024, conforme processo nº SME- PRO-2023/46055.
+
+8 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de MARCIA MARTINS LIMA RODRIGUES, PROFESSOR I - CIÊNCIAS - CLASSE C - NÍVEL 5, MATRÍCULA: 15/240.178-4, aposentada através da Portaria E/CTRH/CARH “P” Nº 185 de 16/02/2024, conforme processo nº SME-PRO-2023/46332.
+
+9 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de ANDRÉA CARVALHO SILVA BERTOQUI, PROFESSOR I - MATEMÁTICA - CLASSE C - NÍVEL 5, MATRÍCULA: 15/233.104-9, aposentada através da Portaria E/CTRH/CARH “P” Nº 070 de 31/01/2024, conforme processo nº SME- PRO-2023/46411.
+
+10 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de KARLA JENNINGS BOR-BOREMA FRÓES CRUZ, PROFESSOR II - CLASSE B - NÍVEL 7, MATRÍCULA: 15/150.007-3, aposentada através da Portaria E/CTRH/CARH “P” Nº 135 de 01/02/2024, conforme processo nº SME-PRO-2023/46514.
+
+11 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de VALERIA RODRIGUES DE SOUZA, MERENDEIRA - CATEGORIA ESPECIAL, MATRÍCULA: 15/157.812-9, aposentada através da Por-taria E/CTRH/CARH “P” Nº 192 de 20/02/2024, conforme processo nº SME-PRO-2023/46796.
+
+12 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de ELZA CRISTINA RIBEIRO DIAS, SERVENTE - CATEGORIA ESPECIAL, MATRÍCULA: 15/129.710-0, aposentada através da Portaria  E/CTRH/CARH “P” Nº 134 de 01/02/2024, conforme processo nº SME-PRO-2023/47179.
+
+13 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de VERA ROSA VENTURA DA SILVA, MERENDEIRA - CATEGORIA ESPECIAL, MATRÍCULA: 15/151.768-9, aposentada através da Por-taria E/CTRH/CARH “P” Nº 137 de 01/02/2024, conforme processo nº SME-PRO-2023/47298.
+
+14 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de GIZELE GONÇALVES COSTA LOPES, PROFESSOR II - CLASSE C - NÍVEL 5, MATRÍCULA: 15/239.109-2, aposentada através da Portaria E/CTRH/CARH “P” Nº 052 de 22/01/2024, conforme processo nº SME-PRO-2023/47461.
+
+15 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de CARLOS ROBERTO SANCHES, SERVENTE - CATEGORIA ESPECIAL, MATRÍCULA: 15/155.560-6, aposentado através da Portaria E/CTRH/CARH “P” Nº 041 de 17/01/2024, conforme processo nº SME-PRO-2023/47494.
+
+16 = Fixados com validade a partir de 02/02/2024, os proventos mensais de inatividade de GRACIA MARIA GUIMA-RÃES CARDEAL PASTORIZA matrícula 14/159.147-8, Fiscal de Atividades Econômicas, Categoria Especial, aposentada através da Resolução ‘P’ N.º 029 de 31/01/2024, conforme processo n.º EOP-PRO-2024/00678. .
+
+17 = Fixados com validade a partir de 01/12/2023, os proventos de inatividade do servidor MARIO JOSÉ DE OLI-VEIRA, Guarda Municipal, 850.879-8/01, aposentado através da PORTARIA “P” IG Nº 175, DE 28 DE NO-VEMBRO DE 2023, conforme o processo n.º GM-PRO-2023/02975.
+
+1 = Fixados com validade a partir de 29/11/2023, os proventos de inatividade de SUELINO VIEIRA, Trabalhador, Classe Especial, Matrícula: 15/119.624-5, aposentado através da Portaria “P” Nº 28 de 27/11/2023, conforme processo nº IFR-PRO-2023/01499.
+
+2 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de SIMONE SANTOS PRADO VERONESE, PROFESSOR II - CLASSE C - NÍVEL 5, MATRÍCULA: 15/231.974-7, aposentada através da Por-taria E/CTRH/CARH “P” Nº 188 de 19/02/2024, conforme processo nº SME-PRO-2023/45168.
+
+3 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de SOLANGE JACINTO DOS REIS, PROFESSOR II - CLASSE C - NÍVEL 7, MATRÍCULA: 15/171.286-8, aposentada através da Portaria  E/CTRH/CARH “P” Nº 040 de 17/01/2024, conforme processo nº SME-PRO-2023/45200.
+
+4 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de ROSA MARIA SOUZA BRAGA, PROFESSOR II - CLASSE D - NÍVEL 5, MATRÍCULA: 15/233.045.4, aposentada através da Portaria E/CTRH/CARH “P” Nº 065 de 26/01/2024, conforme processo nº SME-PRO-2023/45362.
+
+5 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de MARIA DE FATIMA GOMES PINHEIRO MOUTA, PROFESSOR II - CLASSE C - NÍVEL 7, MATRÍCULA: 15/089.045-9, aposentada através da Portaria E/CTRH/CARH “P” Nº 143 de 02/02/2024, conforme processo nº SME-PRO-2023/45779.
+
+6 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de SONIA DE SOUZA ALVES DE CARVALHO, PROFESSOR II - CLASSE C - NÍVEL 5, MATRÍCULA: 15/222.140-6, aposentada através da Portaria E/CTRH/CARH “P” Nº 050 de 22/01/2024, conforme processo nº SME-PRO-2023/45849.
+
+7 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de LUCINEIA FERREIRA DANTAS, PROFESSOR I - LÍNGUA PORTUGUESA - CLASSE C - NÍVEL 7, MATRÍCULA: 15/064.394-0, aposentada através da Portaria E/CTRH/CARH “P” Nº 103 de 31/01/2024, conforme processo nº SME- PRO-2023/46055.
+
+8 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de MARCIA MARTINS LIMA RODRIGUES, PROFESSOR I - CIÊNCIAS - CLASSE C - NÍVEL 5, MATRÍCULA: 15/240.178-4, aposentada através da Portaria E/CTRH/CARH “P” Nº 185 de 16/02/2024, conforme processo nº SME-PRO-2023/46332.
+
+9 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de ANDRÉA CARVALHO SILVA BERTOQUI, PROFESSOR I - MATEMÁTICA - CLASSE C - NÍVEL 5, MATRÍCULA: 15/233.104-9, aposentada através da Portaria E/CTRH/CARH “P” Nº 070 de 31/01/2024, conforme processo nº SME- PRO-2023/46411.
+
+10 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de KARLA JENNINGS BOR-BOREMA FRÓES CRUZ, PROFESSOR II - CLASSE B - NÍVEL 7, MATRÍCULA: 15/150.007-3, aposentada através da Portaria E/CTRH/CARH “P” Nº 135 de 01/02/2024, conforme processo nº SME-PRO-2023/46514.
+
+11 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de VALERIA RODRIGUES DE SOUZA, MERENDEIRA - CATEGORIA ESPECIAL, MATRÍCULA: 15/157.812-9, aposentada através da Por-taria E/CTRH/CARH “P” Nº 192 de 20/02/2024, conforme processo nº SME-PRO-2023/46796.
+
+12 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de ELZA CRISTINA RIBEIRO DIAS, SERVENTE - CATEGORIA ESPECIAL, MATRÍCULA: 15/129.710-0, aposentada através da Portaria  E/CTRH/CARH “P” Nº 134 de 01/02/2024, conforme processo nº SME-PRO-2023/47179.
+
+13 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de VERA ROSA VENTURA DA SILVA, MERENDEIRA - CATEGORIA ESPECIAL, MATRÍCULA: 15/151.768-9, aposentada através da Por-taria E/CTRH/CARH “P” Nº 137 de 01/02/2024, conforme processo nº SME-PRO-2023/47298.
+
+14 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de GIZELE GONÇALVES COSTA LOPES, PROFESSOR II - CLASSE C - NÍVEL 5, MATRÍCULA: 15/239.109-2, aposentada através da Portaria E/CTRH/CARH “P” Nº 052 de 22/01/2024, conforme processo nº SME-PRO-2023/47461.
+
+15 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de CARLOS ROBERTO SANCHES, SERVENTE - CATEGORIA ESPECIAL, MATRÍCULA: 15/155.560-6, aposentado através da Portaria E/CTRH/CARH “P” Nº 041 de 17/01/2024, conforme processo nº SME-PRO-2023/47494.
+
+16 = Fixados com validade a partir de 02/02/2024, os proventos mensais de inatividade de GRACIA MARIA GUIMA-RÃES CARDEAL PASTORIZA matrícula 14/159.147-8, Fiscal de Atividades Econômicas, Categoria Especial, aposentada através da Resolução ‘P’ N.º 029 de 31/01/2024, conforme processo n.º EOP-PRO-2024/00678. .
+
+17 = Fixados com validade a partir de 01/12/2023, os proventos de inatividade do servidor MARIO JOSÉ DE OLI-VEIRA, Guarda Municipal, 850.879-8/01, aposentado através da PORTARIA “P” IG Nº 175, DE 28 DE NO-VEMBRO DE 2023, conforme o processo n.º GM-PRO-2023/02975.
+
+1 = Fixados com validade a partir de 29/11/2023, os proventos de inatividade de SUELINO VIEIRA, Trabalhador, Classe Especial, Matrícula: 15/119.624-5, aposentado através da Portaria “P” Nº 28 de 27/11/2023, conforme processo nº IFR-PRO-2023/01499.
+
+2 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de SIMONE SANTOS PRADO VERONESE, PROFESSOR II - CLASSE C - NÍVEL 5, MATRÍCULA: 15/231.974-7, aposentada através da Por-taria E/CTRH/CARH “P” Nº 188 de 19/02/2024, conforme processo nº SME-PRO-2023/45168.
+
+3 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de SOLANGE JACINTO DOS REIS, PROFESSOR II - CLASSE C - NÍVEL 7, MATRÍCULA: 15/171.286-8, aposentada através da Portaria  E/CTRH/CARH “P” Nº 040 de 17/01/2024, conforme processo nº SME-PRO-2023/45200.
+
+4 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de ROSA MARIA SOUZA BRAGA, PROFESSOR II - CLASSE D - NÍVEL 5, MATRÍCULA: 15/233.045.4, aposentada através da Portaria E/CTRH/CARH “P” Nº 065 de 26/01/2024, conforme processo nº SME-PRO-2023/45362.
+
+5 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de MARIA DE FATIMA GOMES PINHEIRO MOUTA, PROFESSOR II - CLASSE C - NÍVEL 7, MATRÍCULA: 15/089.045-9, aposentada através da Portaria E/CTRH/CARH “P” Nº 143 de 02/02/2024, conforme processo nº SME-PRO-2023/45779.
+
+6 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de SONIA DE SOUZA ALVES DE CARVALHO, PROFESSOR II - CLASSE C - NÍVEL 5, MATRÍCULA: 15/222.140-6, aposentada através da Portaria E/CTRH/CARH “P” Nº 050 de 22/01/2024, conforme processo nº SME-PRO-2023/45849.
+
+7 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de LUCINEIA FERREIRA DANTAS, PROFESSOR I - LÍNGUA PORTUGUESA - CLASSE C - NÍVEL 7, MATRÍCULA: 15/064.394-0, aposentada através da Portaria E/CTRH/CARH “P” Nº 103 de 31/01/2024, conforme processo nº SME- PRO-2023/46055.
+
+8 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de MARCIA MARTINS LIMA RODRIGUES, PROFESSOR I - CIÊNCIAS - CLASSE C - NÍVEL 5, MATRÍCULA: 15/240.178-4, aposentada através da Portaria E/CTRH/CARH “P” Nº 185 de 16/02/2024, conforme processo nº SME-PRO-2023/46332.
+
+9 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de ANDRÉA CARVALHO SILVA BERTOQUI, PROFESSOR I - MATEMÁTICA - CLASSE C - NÍVEL 5, MATRÍCULA: 15/233.104-9, aposentada através da Portaria E/CTRH/CARH “P” Nº 070 de 31/01/2024, conforme processo nº SME- PRO-2023/46411.
+
+10 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de KARLA JENNINGS BOR-BOREMA FRÓES CRUZ, PROFESSOR II - CLASSE B - NÍVEL 7, MATRÍCULA: 15/150.007-3, aposentada através da Portaria E/CTRH/CARH “P” Nº 135 de 01/02/2024, conforme processo nº SME-PRO-2023/46514.
+
+11 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de VALERIA RODRIGUES DE SOUZA, MERENDEIRA - CATEGORIA ESPECIAL, MATRÍCULA: 15/157.812-9, aposentada através da Por-taria E/CTRH/CARH “P” Nº 192 de 20/02/2024, conforme processo nº SME-PRO-2023/46796.
+
+12 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de ELZA CRISTINA RIBEIRO DIAS, SERVENTE - CATEGORIA ESPECIAL, MATRÍCULA: 15/129.710-0, aposentada através da Portaria  E/CTRH/CARH “P” Nº 134 de 01/02/2024, conforme processo nº SME-PRO-2023/47179.
+
+13 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de VERA ROSA VENTURA DA SILVA, MERENDEIRA - CATEGORIA ESPECIAL, MATRÍCULA: 15/151.768-9, aposentada através da Por-taria E/CTRH/CARH “P” Nº 137 de 01/02/2024, conforme processo nº SME-PRO-2023/47298.
+
+14 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de GIZELE GONÇALVES COSTA LOPES, PROFESSOR II - CLASSE C - NÍVEL 5, MATRÍCULA: 15/239.109-2, aposentada através da Portaria E/CTRH/CARH “P” Nº 052 de 22/01/2024, conforme processo nº SME-PRO-2023/47461.
+
+15 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de CARLOS ROBERTO SANCHES, SERVENTE - CATEGORIA ESPECIAL, MATRÍCULA: 15/155.560-6, aposentado através da Portaria E/CTRH/CARH “P” Nº 041 de 17/01/2024, conforme processo nº SME-PRO-2023/47494.
+
+16 = Fixados com validade a partir de 02/02/2024, os proventos mensais de inatividade de GRACIA MARIA GUIMA-RÃES CARDEAL PASTORIZA matrícula 14/159.147-8, Fiscal de Atividades Econômicas, Categoria Especial, aposentada através da Resolução ‘P’ N.º 029 de 31/01/2024, conforme processo n.º EOP-PRO-2024/00678. .
+
+17 = Fixados com validade a partir de 01/12/2023, os proventos de inatividade do servidor MARIO JOSÉ DE OLI-VEIRA, Guarda Municipal, 850.879-8/01, aposentado através da PORTARIA “P” IG Nº 175, DE 28 DE NO-VEMBRO DE 2023, conforme o processo n.º GM-PRO-2023/02975.
+
+1 = Fixados com validade a partir de 29/11/2023, os proventos de inatividade de SUELINO VIEIRA, Trabalhador, Classe Especial, Matrícula: 15/119.624-5, aposentado através da Portaria “P” Nº 28 de 27/11/2023, conforme processo nº IFR-PRO-2023/01499.
+
+2 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de SIMONE SANTOS PRADO VERONESE, PROFESSOR II - CLASSE C - NÍVEL 5, MATRÍCULA: 15/231.974-7, aposentada através da Por-taria E/CTRH/CARH “P” Nº 188 de 19/02/2024, conforme processo nº SME-PRO-2023/45168.
+
+3 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de SOLANGE JACINTO DOS REIS, PROFESSOR II - CLASSE C - NÍVEL 7, MATRÍCULA: 15/171.286-8, aposentada através da Portaria  E/CTRH/CARH “P” Nº 040 de 17/01/2024, conforme processo nº SME-PRO-2023/45200.
+
+4 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de ROSA MARIA SOUZA BRAGA, PROFESSOR II - CLASSE D - NÍVEL 5, MATRÍCULA: 15/233.045.4, aposentada através da Portaria E/CTRH/CARH “P” Nº 065 de 26/01/2024, conforme processo nº SME-PRO-2023/45362.
+
+5 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de MARIA DE FATIMA GOMES PINHEIRO MOUTA, PROFESSOR II - CLASSE C - NÍVEL 7, MATRÍCULA: 15/089.045-9, aposentada através da Portaria E/CTRH/CARH “P” Nº 143 de 02/02/2024, conforme processo nº SME-PRO-2023/45779.
+
+6 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de SONIA DE SOUZA ALVES DE CARVALHO, PROFESSOR II - CLASSE C - NÍVEL 5, MATRÍCULA: 15/222.140-6, aposentada através da Portaria E/CTRH/CARH “P” Nº 050 de 22/01/2024, conforme processo nº SME-PRO-2023/45849.
+
+7 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de LUCINEIA FERREIRA DANTAS, PROFESSOR I - LÍNGUA PORTUGUESA - CLASSE C - NÍVEL 7, MATRÍCULA: 15/064.394-0, aposentada através da Portaria E/CTRH/CARH “P” Nº 103 de 31/01/2024, conforme processo nº SME- PRO-2023/46055.
+
+8 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de MARCIA MARTINS LIMA RODRIGUES, PROFESSOR I - CIÊNCIAS - CLASSE C - NÍVEL 5, MATRÍCULA: 15/240.178-4, aposentada através da Portaria E/CTRH/CARH “P” Nº 185 de 16/02/2024, conforme processo nº SME-PRO-2023/46332.
+
+9 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de ANDRÉA CARVALHO SILVA BERTOQUI, PROFESSOR I - MATEMÁTICA - CLASSE C - NÍVEL 5, MATRÍCULA: 15/233.104-9, aposentada através da Portaria E/CTRH/CARH “P” Nº 070 de 31/01/2024, conforme processo nº SME- PRO-2023/46411.
+
+10 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de KARLA JENNINGS BOR-BOREMA FRÓES CRUZ, PROFESSOR II - CLASSE B - NÍVEL 7, MATRÍCULA: 15/150.007-3, aposentada através da Portaria E/CTRH/CARH “P” Nº 135 de 01/02/2024, conforme processo nº SME-PRO-2023/46514.
+
+11 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de VALERIA RODRIGUES DE SOUZA, MERENDEIRA - CATEGORIA ESPECIAL, MATRÍCULA: 15/157.812-9, aposentada através da Por-taria E/CTRH/CARH “P” Nº 192 de 20/02/2024, conforme processo nº SME-PRO-2023/46796.
+
+12 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de ELZA CRISTINA RIBEIRO DIAS, SERVENTE - CATEGORIA ESPECIAL, MATRÍCULA: 15/129.710-0, aposentada através da Portaria  E/CTRH/CARH “P” Nº 134 de 01/02/2024, conforme processo nº SME-PRO-2023/47179.
+
+13 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de VERA ROSA VENTURA DA SILVA, MERENDEIRA - CATEGORIA ESPECIAL, MATRÍCULA: 15/151.768-9, aposentada através da Por-taria E/CTRH/CARH “P” Nº 137 de 01/02/2024, conforme processo nº SME-PRO-2023/47298.
+
+14 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de GIZELE GONÇALVES COSTA LOPES, PROFESSOR II - CLASSE C - NÍVEL 5, MATRÍCULA: 15/239.109-2, aposentada através da Portaria E/CTRH/CARH “P” Nº 052 de 22/01/2024, conforme processo nº SME-PRO-2023/47461.
+
+15 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de CARLOS ROBERTO SANCHES, SERVENTE - CATEGORIA ESPECIAL, MATRÍCULA: 15/155.560-6, aposentado através da Portaria E/CTRH/CARH “P” Nº 041 de 17/01/2024, conforme processo nº SME-PRO-2023/47494.
+
+16 = Fixados com validade a partir de 02/02/2024, os proventos mensais de inatividade de GRACIA MARIA GUIMA-RÃES CARDEAL PASTORIZA matrícula 14/159.147-8, Fiscal de Atividades Econômicas, Categoria Especial, aposentada através da Resolução ‘P’ N.º 029 de 31/01/2024, conforme processo n.º EOP-PRO-2024/00678. .
+
+17 = Fixados com validade a partir de 01/12/2023, os proventos de inatividade do servidor MARIO JOSÉ DE OLI-VEIRA, Guarda Municipal, 850.879-8/01, aposentado através da PORTARIA “P” IG Nº 175, DE 28 DE NO-VEMBRO DE 2023, conforme o processo n.º GM-PRO-2023/02975.
+
+1 = Fixados com validade a partir de 29/11/2023, os proventos de inatividade de SUELINO VIEIRA, Trabalhador, Classe Especial, Matrícula: 15/119.624-5, aposentado através da Portaria “P” Nº 28 de 27/11/2023, conforme processo nº IFR-PRO-2023/01499.
+
+2 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de SIMONE SANTOS PRADO VERONESE, PROFESSOR II - CLASSE C - NÍVEL 5, MATRÍCULA: 15/231.974-7, aposentada através da Por-taria E/CTRH/CARH “P” Nº 188 de 19/02/2024, conforme processo nº SME-PRO-2023/45168.
+
+3 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de SOLANGE JACINTO DOS REIS, PROFESSOR II - CLASSE C - NÍVEL 7, MATRÍCULA: 15/171.286-8, aposentada através da Portaria  E/CTRH/CARH “P” Nº 040 de 17/01/2024, conforme processo nº SME-PRO-2023/45200.
+
+4 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de ROSA MARIA SOUZA BRAGA, PROFESSOR II - CLASSE D - NÍVEL 5, MATRÍCULA: 15/233.045.4, aposentada através da Portaria E/CTRH/CARH “P” Nº 065 de 26/01/2024, conforme processo nº SME-PRO-2023/45362.
+
+5 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de MARIA DE FATIMA GOMES PINHEIRO MOUTA, PROFESSOR II - CLASSE C - NÍVEL 7, MATRÍCULA: 15/089.045-9, aposentada através da Portaria E/CTRH/CARH “P” Nº 143 de 02/02/2024, conforme processo nº SME-PRO-2023/45779.
+
+6 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de SONIA DE SOUZA ALVES DE CARVALHO, PROFESSOR II - CLASSE C - NÍVEL 5, MATRÍCULA: 15/222.140-6, aposentada através da Portaria E/CTRH/CARH “P” Nº 050 de 22/01/2024, conforme processo nº SME-PRO-2023/45849.
+
+7 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de LUCINEIA FERREIRA DANTAS, PROFESSOR I - LÍNGUA PORTUGUESA - CLASSE C - NÍVEL 7, MATRÍCULA: 15/064.394-0, aposentada através da Portaria E/CTRH/CARH “P” Nº 103 de 31/01/2024, conforme processo nº SME- PRO-2023/46055.
+
+8 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de MARCIA MARTINS LIMA RODRIGUES, PROFESSOR I - CIÊNCIAS - CLASSE C - NÍVEL 5, MATRÍCULA: 15/240.178-4, aposentada através da Portaria E/CTRH/CARH “P” Nº 185 de 16/02/2024, conforme processo nº SME-PRO-2023/46332.
+
+9 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de ANDRÉA CARVALHO SILVA BERTOQUI, PROFESSOR I - MATEMÁTICA - CLASSE C - NÍVEL 5, MATRÍCULA: 15/233.104-9, aposentada através da Portaria E/CTRH/CARH “P” Nº 070 de 31/01/2024, conforme processo nº SME- PRO-2023/46411.
+
+10 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de KARLA JENNINGS BOR-BOREMA FRÓES CRUZ, PROFESSOR II - CLASSE B - NÍVEL 7, MATRÍCULA: 15/150.007-3, aposentada através da Portaria E/CTRH/CARH “P” Nº 135 de 01/02/2024, conforme processo nº SME-PRO-2023/46514.
+
+11 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de VALERIA RODRIGUES DE SOUZA, MERENDEIRA - CATEGORIA ESPECIAL, MATRÍCULA: 15/157.812-9, aposentada através da Por-taria E/CTRH/CARH “P” Nº 192 de 20/02/2024, conforme processo nº SME-PRO-2023/46796.
+
+12 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de ELZA CRISTINA RIBEIRO DIAS, SERVENTE - CATEGORIA ESPECIAL, MATRÍCULA: 15/129.710-0, aposentada através da Portaria  E/CTRH/CARH “P” Nº 134 de 01/02/2024, conforme processo nº SME-PRO-2023/47179.
+
+13 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de VERA ROSA VENTURA DA SILVA, MERENDEIRA - CATEGORIA ESPECIAL, MATRÍCULA: 15/151.768-9, aposentada através da Por-taria E/CTRH/CARH “P” Nº 137 de 01/02/2024, conforme processo nº SME-PRO-2023/47298.
+
+14 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de GIZELE GONÇALVES COSTA LOPES, PROFESSOR II - CLASSE C - NÍVEL 5, MATRÍCULA: 15/239.109-2, aposentada através da Portaria E/CTRH/CARH “P” Nº 052 de 22/01/2024, conforme processo nº SME-PRO-2023/47461.
+
+15 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de CARLOS ROBERTO SANCHES, SERVENTE - CATEGORIA ESPECIAL, MATRÍCULA: 15/155.560-6, aposentado através da Portaria E/CTRH/CARH “P” Nº 041 de 17/01/2024, conforme processo nº SME-PRO-2023/47494.
+
+16 = Fixados com validade a partir de 02/02/2024, os proventos mensais de inatividade de GRACIA MARIA GUIMA-RÃES CARDEAL PASTORIZA matrícula 14/159.147-8, Fiscal de Atividades Econômicas, Categoria Especial, aposentada através da Resolução ‘P’ N.º 029 de 31/01/2024, conforme processo n.º EOP-PRO-2024/00678. .
+
+17 = Fixados com validade a partir de 01/12/2023, os proventos de inatividade do servidor MARIO JOSÉ DE OLI-VEIRA, Guarda Municipal, 850.879-8/01, aposentado através da PORTARIA “P” IG Nº 175, DE 28 DE NO-VEMBRO DE 2023, conforme o processo n.º GM-PRO-2023/02975.
+
+1 = Fixados com validade a partir de 29/11/2023, os proventos de inatividade de SUELINO VIEIRA, Trabalhador, Classe Especial, Matrícula: 15/119.624-5, aposentado através da Portaria “P” Nº 28 de 27/11/2023, conforme processo nº IFR-PRO-2023/01499.
+
+2 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de SIMONE SANTOS PRADO VERONESE, PROFESSOR II - CLASSE C - NÍVEL 5, MATRÍCULA: 15/231.974-7, aposentada através da Por-taria E/CTRH/CARH “P” Nº 188 de 19/02/2024, conforme processo nº SME-PRO-2023/45168.
+
+3 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de SOLANGE JACINTO DOS REIS, PROFESSOR II - CLASSE C - NÍVEL 7, MATRÍCULA: 15/171.286-8, aposentada através da Portaria  E/CTRH/CARH “P” Nº 040 de 17/01/2024, conforme processo nº SME-PRO-2023/45200.
+
+4 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de ROSA MARIA SOUZA BRAGA, PROFESSOR II - CLASSE D - NÍVEL 5, MATRÍCULA: 15/233.045.4, aposentada através da Portaria E/CTRH/CARH “P” Nº 065 de 26/01/2024, conforme processo nº SME-PRO-2023/45362.
+
+5 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de MARIA DE FATIMA GOMES PINHEIRO MOUTA, PROFESSOR II - CLASSE C - NÍVEL 7, MATRÍCULA: 15/089.045-9, aposentada através da Portaria E/CTRH/CARH “P” Nº 143 de 02/02/2024, conforme processo nº SME-PRO-2023/45779.
+
+6 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de SONIA DE SOUZA ALVES DE CARVALHO, PROFESSOR II - CLASSE C - NÍVEL 5, MATRÍCULA: 15/222.140-6, aposentada através da Portaria E/CTRH/CARH “P” Nº 050 de 22/01/2024, conforme processo nº SME-PRO-2023/45849.
+
+7 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de LUCINEIA FERREIRA DANTAS, PROFESSOR I - LÍNGUA PORTUGUESA - CLASSE C - NÍVEL 7, MATRÍCULA: 15/064.394-0, aposentada através da Portaria E/CTRH/CARH “P” Nº 103 de 31/01/2024, conforme processo nº SME- PRO-2023/46055.
+
+8 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de MARCIA MARTINS LIMA RODRIGUES, PROFESSOR I - CIÊNCIAS - CLASSE C - NÍVEL 5, MATRÍCULA: 15/240.178-4, aposentada através da Portaria E/CTRH/CARH “P” Nº 185 de 16/02/2024, conforme processo nº SME-PRO-2023/46332.
+
+9 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de ANDRÉA CARVALHO SILVA BERTOQUI, PROFESSOR I - MATEMÁTICA - CLASSE C - NÍVEL 5, MATRÍCULA: 15/233.104-9, aposentada através da Portaria E/CTRH/CARH “P” Nº 070 de 31/01/2024, conforme processo nº SME- PRO-2023/46411.
+
+10 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de KARLA JENNINGS BOR-BOREMA FRÓES CRUZ, PROFESSOR II - CLASSE B - NÍVEL 7, MATRÍCULA: 15/150.007-3, aposentada através da Portaria E/CTRH/CARH “P” Nº 135 de 01/02/2024, conforme processo nº SME-PRO-2023/46514.
+
+11 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de VALERIA RODRIGUES DE SOUZA, MERENDEIRA - CATEGORIA ESPECIAL, MATRÍCULA: 15/157.812-9, aposentada através da Por-taria E/CTRH/CARH “P” Nº 192 de 20/02/2024, conforme processo nº SME-PRO-2023/46796.
+
+12 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de ELZA CRISTINA RIBEIRO DIAS, SERVENTE - CATEGORIA ESPECIAL, MATRÍCULA: 15/129.710-0, aposentada através da Portaria  E/CTRH/CARH “P” Nº 134 de 01/02/2024, conforme processo nº SME-PRO-2023/47179.
+
+13 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de VERA ROSA VENTURA DA SILVA, MERENDEIRA - CATEGORIA ESPECIAL, MATRÍCULA: 15/151.768-9, aposentada através da Por-taria E/CTRH/CARH “P” Nº 137 de 01/02/2024, conforme processo nº SME-PRO-2023/47298.
+
+14 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de GIZELE GONÇALVES COSTA LOPES, PROFESSOR II - CLASSE C - NÍVEL 5, MATRÍCULA: 15/239.109-2, aposentada através da Portaria E/CTRH/CARH “P” Nº 052 de 22/01/2024, conforme processo nº SME-PRO-2023/47461.
+
+15 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de CARLOS ROBERTO SANCHES, SERVENTE - CATEGORIA ESPECIAL, MATRÍCULA: 15/155.560-6, aposentado através da Portaria E/CTRH/CARH “P” Nº 041 de 17/01/2024, conforme processo nº SME-PRO-2023/47494.
+
+16 = Fixados com validade a partir de 02/02/2024, os proventos mensais de inatividade de GRACIA MARIA GUIMA-RÃES CARDEAL PASTORIZA matrícula 14/159.147-8, Fiscal de Atividades Econômicas, Categoria Especial, aposentada através da Resolução ‘P’ N.º 029 de 31/01/2024, conforme processo n.º EOP-PRO-2024/00678. .
+
+17 = Fixados com validade a partir de 01/12/2023, os proventos de inatividade do servidor MARIO JOSÉ DE OLI-VEIRA, Guarda Municipal, 850.879-8/01, aposentado através da PORTARIA “P” IG Nº 175, DE 28 DE NO-VEMBRO DE 2023, conforme o processo n.º GM-PRO-2023/02975.
+
+1 = Fixados com validade a partir de 29/11/2023, os proventos de inatividade de SUELINO VIEIRA, Trabalhador, Classe Especial, Matrícula: 15/119.624-5, aposentado através da Portaria “P” Nº 28 de 27/11/2023, conforme processo nº IFR-PRO-2023/01499.
+
+2 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de SIMONE SANTOS PRADO VERONESE, PROFESSOR II - CLASSE C - NÍVEL 5, MATRÍCULA: 15/231.974-7, aposentada através da Por-taria E/CTRH/CARH “P” Nº 188 de 19/02/2024, conforme processo nº SME-PRO-2023/45168.
+
+3 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de SOLANGE JACINTO DOS REIS, PROFESSOR II - CLASSE C - NÍVEL 7, MATRÍCULA: 15/171.286-8, aposentada através da Portaria  E/CTRH/CARH “P” Nº 040 de 17/01/2024, conforme processo nº SME-PRO-2023/45200.
+
+4 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de ROSA MARIA SOUZA BRAGA, PROFESSOR II - CLASSE D - NÍVEL 5, MATRÍCULA: 15/233.045.4, aposentada através da Portaria E/CTRH/CARH “P” Nº 065 de 26/01/2024, conforme processo nº SME-PRO-2023/45362.
+
+5 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de MARIA DE FATIMA GOMES PINHEIRO MOUTA, PROFESSOR II - CLASSE C - NÍVEL 7, MATRÍCULA: 15/089.045-9, aposentada através da Portaria E/CTRH/CARH “P” Nº 143 de 02/02/2024, conforme processo nº SME-PRO-2023/45779.
+
+6 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de SONIA DE SOUZA ALVES DE CARVALHO, PROFESSOR II - CLASSE C - NÍVEL 5, MATRÍCULA: 15/222.140-6, aposentada através da Portaria E/CTRH/CARH “P” Nº 050 de 22/01/2024, conforme processo nº SME-PRO-2023/45849.
+
+7 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de LUCINEIA FERREIRA DANTAS, PROFESSOR I - LÍNGUA PORTUGUESA - CLASSE C - NÍVEL 7, MATRÍCULA: 15/064.394-0, aposentada através da Portaria E/CTRH/CARH “P” Nº 103 de 31/01/2024, conforme processo nº SME- PRO-2023/46055.
+
+8 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de MARCIA MARTINS LIMA RODRIGUES, PROFESSOR I - CIÊNCIAS - CLASSE C - NÍVEL 5, MATRÍCULA: 15/240.178-4, aposentada através da Portaria E/CTRH/CARH “P” Nº 185 de 16/02/2024, conforme processo nº SME-PRO-2023/46332.
+
+9 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de ANDRÉA CARVALHO SILVA BERTOQUI, PROFESSOR I - MATEMÁTICA - CLASSE C - NÍVEL 5, MATRÍCULA: 15/233.104-9, aposentada através da Portaria E/CTRH/CARH “P” Nº 070 de 31/01/2024, conforme processo nº SME- PRO-2023/46411.
+
+10 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de KARLA JENNINGS BOR-BOREMA FRÓES CRUZ, PROFESSOR II - CLASSE B - NÍVEL 7, MATRÍCULA: 15/150.007-3, aposentada através da Portaria E/CTRH/CARH “P” Nº 135 de 01/02/2024, conforme processo nº SME-PRO-2023/46514.
+
+11 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de VALERIA RODRIGUES DE SOUZA, MERENDEIRA - CATEGORIA ESPECIAL, MATRÍCULA: 15/157.812-9, aposentada através da Por-taria E/CTRH/CARH “P” Nº 192 de 20/02/2024, conforme processo nº SME-PRO-2023/46796.
+
+12 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de ELZA CRISTINA RIBEIRO DIAS, SERVENTE - CATEGORIA ESPECIAL, MATRÍCULA: 15/129.710-0, aposentada através da Portaria  E/CTRH/CARH “P” Nº 134 de 01/02/2024, conforme processo nº SME-PRO-2023/47179.
+
+13 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de VERA ROSA VENTURA DA SILVA, MERENDEIRA - CATEGORIA ESPECIAL, MATRÍCULA: 15/151.768-9, aposentada através da Por-taria E/CTRH/CARH “P” Nº 137 de 01/02/2024, conforme processo nº SME-PRO-2023/47298.
+
+14 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de GIZELE GONÇALVES COSTA LOPES, PROFESSOR II - CLASSE C - NÍVEL 5, MATRÍCULA: 15/239.109-2, aposentada através da Portaria E/CTRH/CARH “P” Nº 052 de 22/01/2024, conforme processo nº SME-PRO-2023/47461.
+
+15 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de CARLOS ROBERTO SANCHES, SERVENTE - CATEGORIA ESPECIAL, MATRÍCULA: 15/155.560-6, aposentado através da Portaria E/CTRH/CARH “P” Nº 041 de 17/01/2024, conforme processo nº SME-PRO-2023/47494.
+
+16 = Fixados com validade a partir de 02/02/2024, os proventos mensais de inatividade de GRACIA MARIA GUIMA-RÃES CARDEAL PASTORIZA matrícula 14/159.147-8, Fiscal de Atividades Econômicas, Categoria Especial, aposentada através da Resolução ‘P’ N.º 029 de 31/01/2024, conforme processo n.º EOP-PRO-2024/00678. .
+
+17 = Fixados com validade a partir de 01/12/2023, os proventos de inatividade do servidor MARIO JOSÉ DE OLI-VEIRA, Guarda Municipal, 850.879-8/01, aposentado através da PORTARIA “P” IG Nº 175, DE 28 DE NO-VEMBRO DE 2023, conforme o processo n.º GM-PRO-2023/02975.
+
+1 = Fixados com validade a partir de 29/11/2023, os proventos de inatividade de SUELINO VIEIRA, Trabalhador, Classe Especial, Matrícula: 15/119.624-5, aposentado através da Portaria “P” Nº 28 de 27/11/2023, conforme processo nº IFR-PRO-2023/01499.
+
+2 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de SIMONE SANTOS PRADO VERONESE, PROFESSOR II - CLASSE C - NÍVEL 5, MATRÍCULA: 15/231.974-7, aposentada através da Por-taria E/CTRH/CARH “P” Nº 188 de 19/02/2024, conforme processo nº SME-PRO-2023/45168.
+
+3 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de SOLANGE JACINTO DOS REIS, PROFESSOR II - CLASSE C - NÍVEL 7, MATRÍCULA: 15/171.286-8, aposentada através da Portaria  E/CTRH/CARH “P” Nº 040 de 17/01/2024, conforme processo nº SME-PRO-2023/45200.
+
+4 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de ROSA MARIA SOUZA BRAGA, PROFESSOR II - CLASSE D - NÍVEL 5, MATRÍCULA: 15/233.045.4, aposentada através da Portaria E/CTRH/CARH “P” Nº 065 de 26/01/2024, conforme processo nº SME-PRO-2023/45362.
+
+5 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de MARIA DE FATIMA GOMES PINHEIRO MOUTA, PROFESSOR II - CLASSE C - NÍVEL 7, MATRÍCULA: 15/089.045-9, aposentada através da Portaria E/CTRH/CARH “P” Nº 143 de 02/02/2024, conforme processo nº SME-PRO-2023/45779.
+
+6 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de SONIA DE SOUZA ALVES DE CARVALHO, PROFESSOR II - CLASSE C - NÍVEL 5, MATRÍCULA: 15/222.140-6, aposentada através da Portaria E/CTRH/CARH “P” Nº 050 de 22/01/2024, conforme processo nº SME-PRO-2023/45849.
+
+7 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de LUCINEIA FERREIRA DANTAS, PROFESSOR I - LÍNGUA PORTUGUESA - CLASSE C - NÍVEL 7, MATRÍCULA: 15/064.394-0, aposentada através da Portaria E/CTRH/CARH “P” Nº 103 de 31/01/2024, conforme processo nº SME- PRO-2023/46055.
+
+8 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de MARCIA MARTINS LIMA RODRIGUES, PROFESSOR I - CIÊNCIAS - CLASSE C - NÍVEL 5, MATRÍCULA: 15/240.178-4, aposentada através da Portaria E/CTRH/CARH “P” Nº 185 de 16/02/2024, conforme processo nº SME-PRO-2023/46332.
+
+9 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de ANDRÉA CARVALHO SILVA BERTOQUI, PROFESSOR I - MATEMÁTICA - CLASSE C - NÍVEL 5, MATRÍCULA: 15/233.104-9, aposentada através da Portaria E/CTRH/CARH “P” Nº 070 de 31/01/2024, conforme processo nº SME- PRO-2023/46411.
+
+10 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de KARLA JENNINGS BOR-BOREMA FRÓES CRUZ, PROFESSOR II - CLASSE B - NÍVEL 7, MATRÍCULA: 15/150.007-3, aposentada através da Portaria E/CTRH/CARH “P” Nº 135 de 01/02/2024, conforme processo nº SME-PRO-2023/46514.
+
+11 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de VALERIA RODRIGUES DE SOUZA, MERENDEIRA - CATEGORIA ESPECIAL, MATRÍCULA: 15/157.812-9, aposentada através da Por-taria E/CTRH/CARH “P” Nº 192 de 20/02/2024, conforme processo nº SME-PRO-2023/46796.
+
+12 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de ELZA CRISTINA RIBEIRO DIAS, SERVENTE - CATEGORIA ESPECIAL, MATRÍCULA: 15/129.710-0, aposentada através da Portaria  E/CTRH/CARH “P” Nº 134 de 01/02/2024, conforme processo nº SME-PRO-2023/47179.
+
+13 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de VERA ROSA VENTURA DA SILVA, MERENDEIRA - CATEGORIA ESPECIAL, MATRÍCULA: 15/151.768-9, aposentada através da Por-taria E/CTRH/CARH “P” Nº 137 de 01/02/2024, conforme processo nº SME-PRO-2023/47298.
+
+14 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de GIZELE GONÇALVES COSTA LOPES, PROFESSOR II - CLASSE C - NÍVEL 5, MATRÍCULA: 15/239.109-2, aposentada através da Portaria E/CTRH/CARH “P” Nº 052 de 22/01/2024, conforme processo nº SME-PRO-2023/47461.
+
+15 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de CARLOS ROBERTO SANCHES, SERVENTE - CATEGORIA ESPECIAL, MATRÍCULA: 15/155.560-6, aposentado através da Portaria E/CTRH/CARH “P” Nº 041 de 17/01/2024, conforme processo nº SME-PRO-2023/47494.
+
+16 = Fixados com validade a partir de 02/02/2024, os proventos mensais de inatividade de GRACIA MARIA GUIMA-RÃES CARDEAL PASTORIZA matrícula 14/159.147-8, Fiscal de Atividades Econômicas, Categoria Especial, aposentada através da Resolução ‘P’ N.º 029 de 31/01/2024, conforme processo n.º EOP-PRO-2024/00678. .
+
+17 = Fixados com validade a partir de 01/12/2023, os proventos de inatividade do servidor MARIO JOSÉ DE OLI-VEIRA, Guarda Municipal, 850.879-8/01, aposentado através da PORTARIA “P” IG Nº 175, DE 28 DE NO-VEMBRO DE 2023, conforme o processo n.º GM-PRO-2023/02975.
+
+1 = Fixados com validade a partir de 29/11/2023, os proventos de inatividade de SUELINO VIEIRA, Trabalhador, Classe Especial, Matrícula: 15/119.624-5, aposentado através da Portaria “P” Nº 28 de 27/11/2023, conforme processo nº IFR-PRO-2023/01499.
+
+2 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de SIMONE SANTOS PRADO VERONESE, PROFESSOR II - CLASSE C - NÍVEL 5, MATRÍCULA: 15/231.974-7, aposentada através da Por-taria E/CTRH/CARH “P” Nº 188 de 19/02/2024, conforme processo nº SME-PRO-2023/45168.
+
+3 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de SOLANGE JACINTO DOS REIS, PROFESSOR II - CLASSE C - NÍVEL 7, MATRÍCULA: 15/171.286-8, aposentada através da Portaria  E/CTRH/CARH “P” Nº 040 de 17/01/2024, conforme processo nº SME-PRO-2023/45200.
+
+4 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de ROSA MARIA SOUZA BRAGA, PROFESSOR II - CLASSE D - NÍVEL 5, MATRÍCULA: 15/233.045.4, aposentada através da Portaria E/CTRH/CARH “P” Nº 065 de 26/01/2024, conforme processo nº SME-PRO-2023/45362.
+
+5 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de MARIA DE FATIMA GOMES PINHEIRO MOUTA, PROFESSOR II - CLASSE C - NÍVEL 7, MATRÍCULA: 15/089.045-9, aposentada através da Portaria E/CTRH/CARH “P” Nº 143 de 02/02/2024, conforme processo nº SME-PRO-2023/45779.
+
+6 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de SONIA DE SOUZA ALVES DE CARVALHO, PROFESSOR II - CLASSE C - NÍVEL 5, MATRÍCULA: 15/222.140-6, aposentada através da Portaria E/CTRH/CARH “P” Nº 050 de 22/01/2024, conforme processo nº SME-PRO-2023/45849.
+
+7 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de LUCINEIA FERREIRA DANTAS, PROFESSOR I - LÍNGUA PORTUGUESA - CLASSE C - NÍVEL 7, MATRÍCULA: 15/064.394-0, aposentada através da Portaria E/CTRH/CARH “P” Nº 103 de 31/01/2024, conforme processo nº SME- PRO-2023/46055.
+
+8 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de MARCIA MARTINS LIMA RODRIGUES, PROFESSOR I - CIÊNCIAS - CLASSE C - NÍVEL 5, MATRÍCULA: 15/240.178-4, aposentada através da Portaria E/CTRH/CARH “P” Nº 185 de 16/02/2024, conforme processo nº SME-PRO-2023/46332.
+
+9 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de ANDRÉA CARVALHO SILVA BERTOQUI, PROFESSOR I - MATEMÁTICA - CLASSE C - NÍVEL 5, MATRÍCULA: 15/233.104-9, aposentada através da Portaria E/CTRH/CARH “P” Nº 070 de 31/01/2024, conforme processo nº SME- PRO-2023/46411.
+
+10 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de KARLA JENNINGS BOR-BOREMA FRÓES CRUZ, PROFESSOR II - CLASSE B - NÍVEL 7, MATRÍCULA: 15/150.007-3, aposentada através da Portaria E/CTRH/CARH “P” Nº 135 de 01/02/2024, conforme processo nº SME-PRO-2023/46514.
+
+11 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de VALERIA RODRIGUES DE SOUZA, MERENDEIRA - CATEGORIA ESPECIAL, MATRÍCULA: 15/157.812-9, aposentada através da Por-taria E/CTRH/CARH “P” Nº 192 de 20/02/2024, conforme processo nº SME-PRO-2023/46796.
+
+12 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de ELZA CRISTINA RIBEIRO DIAS, SERVENTE - CATEGORIA ESPECIAL, MATRÍCULA: 15/129.710-0, aposentada através da Portaria  E/CTRH/CARH “P” Nº 134 de 01/02/2024, conforme processo nº SME-PRO-2023/47179.
+
+13 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de VERA ROSA VENTURA DA SILVA, MERENDEIRA - CATEGORIA ESPECIAL, MATRÍCULA: 15/151.768-9, aposentada através da Por-taria E/CTRH/CARH “P” Nº 137 de 01/02/2024, conforme processo nº SME-PRO-2023/47298.
+
+14 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de GIZELE GONÇALVES COSTA LOPES, PROFESSOR II - CLASSE C - NÍVEL 5, MATRÍCULA: 15/239.109-2, aposentada através da Portaria E/CTRH/CARH “P” Nº 052 de 22/01/2024, conforme processo nº SME-PRO-2023/47461.
+
+15 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de CARLOS ROBERTO SANCHES, SERVENTE - CATEGORIA ESPECIAL, MATRÍCULA: 15/155.560-6, aposentado através da Portaria E/CTRH/CARH “P” Nº 041 de 17/01/2024, conforme processo nº SME-PRO-2023/47494.
+
+16 = Fixados com validade a partir de 02/02/2024, os proventos mensais de inatividade de GRACIA MARIA GUIMA-RÃES CARDEAL PASTORIZA matrícula 14/159.147-8, Fiscal de Atividades Econômicas, Categoria Especial, aposentada através da Resolução ‘P’ N.º 029 de 31/01/2024, conforme processo n.º EOP-PRO-2024/00678. .
+
+17 = Fixados com validade a partir de 01/12/2023, os proventos de inatividade do servidor MARIO JOSÉ DE OLI-VEIRA, Guarda Municipal, 850.879-8/01, aposentado através da PORTARIA “P” IG Nº 175, DE 28 DE NO-VEMBRO DE 2023, conforme o processo n.º GM-PRO-2023/02975.
+
+1 = Fixados com validade a partir de 29/11/2023, os proventos de inatividade de SUELINO VIEIRA, Trabalhador, Classe Especial, Matrícula: 15/119.624-5, aposentado através da Portaria “P” Nº 28 de 27/11/2023, conforme processo nº IFR-PRO-2023/01499.
+
+2 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de SIMONE SANTOS PRADO VERONESE, PROFESSOR II - CLASSE C - NÍVEL 5, MATRÍCULA: 15/231.974-7, aposentada através da Por-taria E/CTRH/CARH “P” Nº 188 de 19/02/2024, conforme processo nº SME-PRO-2023/45168.
+
+3 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de SOLANGE JACINTO DOS REIS, PROFESSOR II - CLASSE C - NÍVEL 7, MATRÍCULA: 15/171.286-8, aposentada através da Portaria  E/CTRH/CARH “P” Nº 040 de 17/01/2024, conforme processo nº SME-PRO-2023/45200.
+
+4 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de ROSA MARIA SOUZA BRAGA, PROFESSOR II - CLASSE D - NÍVEL 5, MATRÍCULA: 15/233.045.4, aposentada através da Portaria E/CTRH/CARH “P” Nº 065 de 26/01/2024, conforme processo nº SME-PRO-2023/45362.
+
+5 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de MARIA DE FATIMA GOMES PINHEIRO MOUTA, PROFESSOR II - CLASSE C - NÍVEL 7, MATRÍCULA: 15/089.045-9, aposentada através da Portaria E/CTRH/CARH “P” Nº 143 de 02/02/2024, conforme processo nº SME-PRO-2023/45779.
+
+6 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de SONIA DE SOUZA ALVES DE CARVALHO, PROFESSOR II - CLASSE C - NÍVEL 5, MATRÍCULA: 15/222.140-6, aposentada através da Portaria E/CTRH/CARH “P” Nº 050 de 22/01/2024, conforme processo nº SME-PRO-2023/45849.
+
+7 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de LUCINEIA FERREIRA DANTAS, PROFESSOR I - LÍNGUA PORTUGUESA - CLASSE C - NÍVEL 7, MATRÍCULA: 15/064.394-0, aposentada através da Portaria E/CTRH/CARH “P” Nº 103 de 31/01/2024, conforme processo nº SME- PRO-2023/46055.
+
+8 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de MARCIA MARTINS LIMA RODRIGUES, PROFESSOR I - CIÊNCIAS - CLASSE C - NÍVEL 5, MATRÍCULA: 15/240.178-4, aposentada através da Portaria E/CTRH/CARH “P” Nº 185 de 16/02/2024, conforme processo nº SME-PRO-2023/46332.
+
+9 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de ANDRÉA CARVALHO SILVA BERTOQUI, PROFESSOR I - MATEMÁTICA - CLASSE C - NÍVEL 5, MATRÍCULA: 15/233.104-9, aposentada através da Portaria E/CTRH/CARH “P” Nº 070 de 31/01/2024, conforme processo nº SME- PRO-2023/46411.
+
+10 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de KARLA JENNINGS BOR-BOREMA FRÓES CRUZ, PROFESSOR II - CLASSE B - NÍVEL 7, MATRÍCULA: 15/150.007-3, aposentada através da Portaria E/CTRH/CARH “P” Nº 135 de 01/02/2024, conforme processo nº SME-PRO-2023/46514.
+
+11 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de VALERIA RODRIGUES DE SOUZA, MERENDEIRA - CATEGORIA ESPECIAL, MATRÍCULA: 15/157.812-9, aposentada através da Por-taria E/CTRH/CARH “P” Nº 192 de 20/02/2024, conforme processo nº SME-PRO-2023/46796.
+
+12 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de ELZA CRISTINA RIBEIRO DIAS, SERVENTE - CATEGORIA ESPECIAL, MATRÍCULA: 15/129.710-0, aposentada através da Portaria  E/CTRH/CARH “P” Nº 134 de 01/02/2024, conforme processo nº SME-PRO-2023/47179.
+
+13 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de VERA ROSA VENTURA DA SILVA, MERENDEIRA - CATEGORIA ESPECIAL, MATRÍCULA: 15/151.768-9, aposentada através da Por-taria E/CTRH/CARH “P” Nº 137 de 01/02/2024, conforme processo nº SME-PRO-2023/47298.
+
+14 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de GIZELE GONÇALVES COSTA LOPES, PROFESSOR II - CLASSE C - NÍVEL 5, MATRÍCULA: 15/239.109-2, aposentada através da Portaria E/CTRH/CARH “P” Nº 052 de 22/01/2024, conforme processo nº SME-PRO-2023/47461.
+
+15 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de CARLOS ROBERTO SANCHES, SERVENTE - CATEGORIA ESPECIAL, MATRÍCULA: 15/155.560-6, aposentado através da Portaria E/CTRH/CARH “P” Nº 041 de 17/01/2024, conforme processo nº SME-PRO-2023/47494.
+
+16 = Fixados com validade a partir de 02/02/2024, os proventos mensais de inatividade de GRACIA MARIA GUIMA-RÃES CARDEAL PASTORIZA matrícula 14/159.147-8, Fiscal de Atividades Econômicas, Categoria Especial, aposentada através da Resolução ‘P’ N.º 029 de 31/01/2024, conforme processo n.º EOP-PRO-2024/00678. .
+
+17 = Fixados com validade a partir de 01/12/2023, os proventos de inatividade do servidor MARIO JOSÉ DE OLI-VEIRA, Guarda Municipal, 850.879-8/01, aposentado através da PORTARIA “P” IG Nº 175, DE 28 DE NO-VEMBRO DE 2023, conforme o processo n.º GM-PRO-2023/02975.
+
+1 = Fixados com validade a partir de 29/11/2023, os proventos de inatividade de SUELINO VIEIRA, Trabalhador, Classe Especial, Matrícula: 15/119.624-5, aposentado através da Portaria “P” Nº 28 de 27/11/2023, conforme processo nº IFR-PRO-2023/01499.
+
+2 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de SIMONE SANTOS PRADO VERONESE, PROFESSOR II - CLASSE C - NÍVEL 5, MATRÍCULA: 15/231.974-7, aposentada através da Por-taria E/CTRH/CARH “P” Nº 188 de 19/02/2024, conforme processo nº SME-PRO-2023/45168.
+
+3 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de SOLANGE JACINTO DOS REIS, PROFESSOR II - CLASSE C - NÍVEL 7, MATRÍCULA: 15/171.286-8, aposentada através da Portaria  E/CTRH/CARH “P” Nº 040 de 17/01/2024, conforme processo nº SME-PRO-2023/45200.
+
+4 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de ROSA MARIA SOUZA BRAGA, PROFESSOR II - CLASSE D - NÍVEL 5, MATRÍCULA: 15/233.045.4, aposentada através da Portaria E/CTRH/CARH “P” Nº 065 de 26/01/2024, conforme processo nº SME-PRO-2023/45362.
+
+5 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de MARIA DE FATIMA GOMES PINHEIRO MOUTA, PROFESSOR II - CLASSE C - NÍVEL 7, MATRÍCULA: 15/089.045-9, aposentada através da Portaria E/CTRH/CARH “P” Nº 143 de 02/02/2024, conforme processo nº SME-PRO-2023/45779.
+
+6 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de SONIA DE SOUZA ALVES DE CARVALHO, PROFESSOR II - CLASSE C - NÍVEL 5, MATRÍCULA: 15/222.140-6, aposentada através da Portaria E/CTRH/CARH “P” Nº 050 de 22/01/2024, conforme processo nº SME-PRO-2023/45849.
+
+7 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de LUCINEIA FERREIRA DANTAS, PROFESSOR I - LÍNGUA PORTUGUESA - CLASSE C - NÍVEL 7, MATRÍCULA: 15/064.394-0, aposentada através da Portaria E/CTRH/CARH “P” Nº 103 de 31/01/2024, conforme processo nº SME- PRO-2023/46055.
+
+8 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de MARCIA MARTINS LIMA RODRIGUES, PROFESSOR I - CIÊNCIAS - CLASSE C - NÍVEL 5, MATRÍCULA: 15/240.178-4, aposentada através da Portaria E/CTRH/CARH “P” Nº 185 de 16/02/2024, conforme processo nº SME-PRO-2023/46332.
+
+9 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de ANDRÉA CARVALHO SILVA BERTOQUI, PROFESSOR I - MATEMÁTICA - CLASSE C - NÍVEL 5, MATRÍCULA: 15/233.104-9, aposentada através da Portaria E/CTRH/CARH “P” Nº 070 de 31/01/2024, conforme processo nº SME- PRO-2023/46411.
+
+10 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de KARLA JENNINGS BOR-BOREMA FRÓES CRUZ, PROFESSOR II - CLASSE B - NÍVEL 7, MATRÍCULA: 15/150.007-3, aposentada através da Portaria E/CTRH/CARH “P” Nº 135 de 01/02/2024, conforme processo nº SME-PRO-2023/46514.
+
+11 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de VALERIA RODRIGUES DE SOUZA, MERENDEIRA - CATEGORIA ESPECIAL, MATRÍCULA: 15/157.812-9, aposentada através da Por-taria E/CTRH/CARH “P” Nº 192 de 20/02/2024, conforme processo nº SME-PRO-2023/46796.
+
+12 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de ELZA CRISTINA RIBEIRO DIAS, SERVENTE - CATEGORIA ESPECIAL, MATRÍCULA: 15/129.710-0, aposentada através da Portaria  E/CTRH/CARH “P” Nº 134 de 01/02/2024, conforme processo nº SME-PRO-2023/47179.
+
+13 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de VERA ROSA VENTURA DA SILVA, MERENDEIRA - CATEGORIA ESPECIAL, MATRÍCULA: 15/151.768-9, aposentada através da Por-taria E/CTRH/CARH “P” Nº 137 de 01/02/2024, conforme processo nº SME-PRO-2023/47298.
+
+14 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de GIZELE GONÇALVES COSTA LOPES, PROFESSOR II - CLASSE C - NÍVEL 5, MATRÍCULA: 15/239.109-2, aposentada através da Portaria E/CTRH/CARH “P” Nº 052 de 22/01/2024, conforme processo nº SME-PRO-2023/47461.
+
+15 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de CARLOS ROBERTO SANCHES, SERVENTE - CATEGORIA ESPECIAL, MATRÍCULA: 15/155.560-6, aposentado através da Portaria E/CTRH/CARH “P” Nº 041 de 17/01/2024, conforme processo nº SME-PRO-2023/47494.
+
+16 = Fixados com validade a partir de 02/02/2024, os proventos mensais de inatividade de GRACIA MARIA GUIMA-RÃES CARDEAL PASTORIZA matrícula 14/159.147-8, Fiscal de Atividades Econômicas, Categoria Especial, aposentada através da Resolução ‘P’ N.º 029 de 31/01/2024, conforme processo n.º EOP-PRO-2024/00678. .
+
+17 = Fixados com validade a partir de 01/12/2023, os proventos de inatividade do servidor MARIO JOSÉ DE OLI-VEIRA, Guarda Municipal, 850.879-8/01, aposentado através da PORTARIA “P” IG Nº 175, DE 28 DE NO-VEMBRO DE 2023, conforme o processo n.º GM-PRO-2023/02975.
+
+1 = Fixados com validade a partir de 29/11/2023, os proventos de inatividade de SUELINO VIEIRA, Trabalhador, Classe Especial, Matrícula: 15/119.624-5, aposentado através da Portaria “P” Nº 28 de 27/11/2023, conforme processo nº IFR-PRO-2023/01499.
+
+2 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de SIMONE SANTOS PRADO VERONESE, PROFESSOR II - CLASSE C - NÍVEL 5, MATRÍCULA: 15/231.974-7, aposentada através da Por-taria E/CTRH/CARH “P” Nº 188 de 19/02/2024, conforme processo nº SME-PRO-2023/45168.
+
+3 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de SOLANGE JACINTO DOS REIS, PROFESSOR II - CLASSE C - NÍVEL 7, MATRÍCULA: 15/171.286-8, aposentada através da Portaria  E/CTRH/CARH “P” Nº 040 de 17/01/2024, conforme processo nº SME-PRO-2023/45200.
+
+4 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de ROSA MARIA SOUZA BRAGA, PROFESSOR II - CLASSE D - NÍVEL 5, MATRÍCULA: 15/233.045.4, aposentada através da Portaria E/CTRH/CARH “P” Nº 065 de 26/01/2024, conforme processo nº SME-PRO-2023/45362.
+
+5 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de MARIA DE FATIMA GOMES PINHEIRO MOUTA, PROFESSOR II - CLASSE C - NÍVEL 7, MATRÍCULA: 15/089.045-9, aposentada através da Portaria E/CTRH/CARH “P” Nº 143 de 02/02/2024, conforme processo nº SME-PRO-2023/45779.
+
+6 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de SONIA DE SOUZA ALVES DE CARVALHO, PROFESSOR II - CLASSE C - NÍVEL 5, MATRÍCULA: 15/222.140-6, aposentada através da Portaria E/CTRH/CARH “P” Nº 050 de 22/01/2024, conforme processo nº SME-PRO-2023/45849.
+
+7 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de LUCINEIA FERREIRA DANTAS, PROFESSOR I - LÍNGUA PORTUGUESA - CLASSE C - NÍVEL 7, MATRÍCULA: 15/064.394-0, aposentada através da Portaria E/CTRH/CARH “P” Nº 103 de 31/01/2024, conforme processo nº SME- PRO-2023/46055.
+
+8 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de MARCIA MARTINS LIMA RODRIGUES, PROFESSOR I - CIÊNCIAS - CLASSE C - NÍVEL 5, MATRÍCULA: 15/240.178-4, aposentada através da Portaria E/CTRH/CARH “P” Nº 185 de 16/02/2024, conforme processo nº SME-PRO-2023/46332.
+
+9 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de ANDRÉA CARVALHO SILVA BERTOQUI, PROFESSOR I - MATEMÁTICA - CLASSE C - NÍVEL 5, MATRÍCULA: 15/233.104-9, aposentada através da Portaria E/CTRH/CARH “P” Nº 070 de 31/01/2024, conforme processo nº SME- PRO-2023/46411.
+
+10 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de KARLA JENNINGS BOR-BOREMA FRÓES CRUZ, PROFESSOR II - CLASSE B - NÍVEL 7, MATRÍCULA: 15/150.007-3, aposentada através da Portaria E/CTRH/CARH “P” Nº 135 de 01/02/2024, conforme processo nº SME-PRO-2023/46514.
+
+11 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de VALERIA RODRIGUES DE SOUZA, MERENDEIRA - CATEGORIA ESPECIAL, MATRÍCULA: 15/157.812-9, aposentada através da Por-taria E/CTRH/CARH “P” Nº 192 de 20/02/2024, conforme processo nº SME-PRO-2023/46796.
+
+12 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de ELZA CRISTINA RIBEIRO DIAS, SERVENTE - CATEGORIA ESPECIAL, MATRÍCULA: 15/129.710-0, aposentada através da Portaria  E/CTRH/CARH “P” Nº 134 de 01/02/2024, conforme processo nº SME-PRO-2023/47179.
+
+13 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de VERA ROSA VENTURA DA SILVA, MERENDEIRA - CATEGORIA ESPECIAL, MATRÍCULA: 15/151.768-9, aposentada através da Por-taria E/CTRH/CARH “P” Nº 137 de 01/02/2024, conforme processo nº SME-PRO-2023/47298.
+
+14 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de GIZELE GONÇALVES COSTA LOPES, PROFESSOR II - CLASSE C - NÍVEL 5, MATRÍCULA: 15/239.109-2, aposentada através da Portaria E/CTRH/CARH “P” Nº 052 de 22/01/2024, conforme processo nº SME-PRO-2023/47461.
+
+15 = Fixados com validade a partir de 07/03/2024, os proventos mensais de inatividade de CARLOS ROBERTO SANCHES, SERVENTE - CATEGORIA ESPECIAL, MATRÍCULA: 15/155.560-6, aposentado através da Portaria E/CTRH/CARH “P” Nº 041 de 17/01/2024, conforme processo nº SME-PRO-2023/47494.
+
+16 = Fixados com validade a partir de 02/02/2024, os proventos mensais de inatividade de GRACIA MARIA GUIMA-RÃES CARDEAL PASTORIZA matrícula 14/159.147-8, Fiscal de Atividades Econômicas, Categoria Especial, aposentada através da Resolução ‘P’ N.º 029 de 31/01/2024, conforme processo n.º EOP-PRO-2024/00678. .
+
+17 = Fixados com validade a partir de 01/12/2023, os proventos de inatividade do servidor MARIO JOSÉ DE OLI-VEIRA, Guarda Municipal, 850.879-8/01, aposentado através da PORTARIA “P” IG Nº 175, DE 28 DE NO-VEMBRO DE 2023, conforme o processo n.º GM-PRO-2023/02975.
+

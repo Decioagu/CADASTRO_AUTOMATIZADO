@@ -4,9 +4,11 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.action_chains import ActionChains
 from pathlib import Path
+from datetime import date
 from time import sleep
 import requests
-from datetime import date
+import os
+
 
 hoje = (date.today().strftime('%d/%m/%Y')) # campo de inserção de data (dd/mm/aaaa)
 
@@ -19,7 +21,7 @@ def download_pfd(data = str(hoje)):
     nova_pasta = PASTA_RAIZ / 'PDF' # caminho nova_pasta.
     nova_pasta.mkdir(exist_ok=True) # exist_ok=True para não da erro se existir pasta (criar nova pasta)
 
-    PASTA_NOVA = PASTA_RAIZ / nova_pasta # caminho nova_pasta.
+    PASTA_NOVA = nova_pasta # caminho nova_pasta.
 
     # 2. Definir a pasta de download padrão antes de iniciar a automação.
     options = webdriver.ChromeOptions() # definir navegador Chrome (Google)
@@ -71,7 +73,23 @@ def download_pfd(data = str(hoje)):
     ActionChains(driver).move_to_element(link).click().perform()
 
     # 7. Esperar o download terminar:
-    sleep(20)
+    tempo_maximo_download = 30 # 30 segundos
+    while True:
+        ok = False
+        sleep(1) # tempo do ciclo
+        # percorrer lista de arquivo "PASTA_NOVA"
+        for arquivo_pdf in os.listdir(PASTA_NOVA):
+            # se extensão do arquivo for ".crdownload" continuar download
+            if arquivo_pdf.endswith(".crdownload"):
+                print('Fazendo download...')
+                ok = False
+                tempo_maximo_download-=1
+                break
+            else:
+                ok = True
+        if ok or tempo_maximo_download == 0:
+            print('Download finalizado...')
+            break
 
     # 8. Fechar o navegador:
     driver.quit()
