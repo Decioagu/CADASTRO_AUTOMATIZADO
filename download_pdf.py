@@ -73,9 +73,11 @@ def download_pfd(data = str(hoje)):
     ActionChains(driver).move_to_element(link).click().perform()
 
     # 7. Esperar o download terminar:
-    tempo_maximo_download = 30 # 30 segundos
+    tempo_maximo_download = 30 # "tempo_maximo_download" em segundos
+    arquivo_em_download = ''
     while True:
         ok = False
+
         sleep(1) # tempo do ciclo
         # percorrer lista de arquivo "PASTA_NOVA"
         for arquivo_pdf in os.listdir(PASTA_NOVA):
@@ -84,11 +86,19 @@ def download_pfd(data = str(hoje)):
                 print('Fazendo download...')
                 ok = False
                 tempo_maximo_download-=1
+                arquivo_em_download = arquivo_pdf
                 break
             else:
                 ok = True
+        # se downlode finalizado ou "tempo_maximo_download" acabar
         if ok or tempo_maximo_download == 0:
-            print('Download finalizado...')
+            # excluir arquivo download incompleto
+            try:
+                os.unlink(PASTA_NOVA / arquivo_em_download)
+                print('Arquivo download incompleto excluído...')
+            except OSError as e:
+                print('Download finalizado...')
+
             break
 
     # 8. Fechar o navegador:

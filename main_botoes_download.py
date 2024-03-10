@@ -104,8 +104,8 @@ class BotoesDownloadGrid(QGridLayout, QLabel, Qt):
             if teste:
                 Thread(target=self.processando_status_bar).start() # executar em paralelo
                 Thread(target=self.executar_pasta).start() # executar em paralelo
-        else:
-            self.atualizar_status_bar() # mensagem barra de status
+            else:
+                Thread(target=self.atualizar_status_bar).start() # executar em paralelo
 
     @Slot()
     def executar_pasta(self):
