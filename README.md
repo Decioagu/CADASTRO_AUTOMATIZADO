@@ -18,7 +18,7 @@
 - Extra:
     - No roda pé do APP será exibido as etapas do processo ou estado do aplicativo;
     - No APP existe dos botões extras chamados EXECUTAR e EXCLUIR:
-    - Botão EXECUTAR: o programa executar doto os processos de cadastro dos arquivos existentes na pasta PDF local, em um único relatórios. Ex: caso tenham três Diários Oficiais na pasta PDF, os três arquivos serão copilados, extraído os dados em um único cadastro, conforme os moldes descrito acima, pulando a etapa de extração dos arquivos na internet.
+    - Botão EXECUTAR: o programa executa dotos os processos de cadastro dos arquivos existentes na pasta PDF local, em um único relatórios. Ex: caso tenham três Diários Oficiais na pasta PDF, os três arquivos serão copilados, extraído os dados em um único cadastro, conforme os moldes descrito acima, pulando a etapa de extração dos arquivos na internet.
     - Botão EXCLUIR: O APP irá excluir as pastas locais PDF e CADASTRO com os respectivos arquivos dentro, porem é necessário confirmar a exclusão, pois não será possível recuperação dos arquivos excluídos.
 
 - Principais tecnologias:
