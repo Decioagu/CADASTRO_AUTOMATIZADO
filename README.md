@@ -1,7 +1,3 @@
-<<<<<<< Updated upstream
-# AUTOMATIZAÇÃO DE CADASTRO 
- Automatização de pesquisa na WEB
-=======
 # AUTOMATIZAÇÃO DE CADASTRO
  
 **Automatização de pesquisa na WEB**
