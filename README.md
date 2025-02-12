@@ -9,7 +9,7 @@
         - Abrirá uma janela de APP;
     - Após a abertura do APP, selecione uma data valida do calendário posterior ao dia atual (hoje) já digitada no display do APP;
     - Click no botão __RJ__;
-    - Aguarde a execução do programa, se a data selecionada existir o Diário Oficial o programa ira extrair do site o arquivo em PDF e realizará download do arquivo em uma pasta local chama PDF.
+    - Aguarde a execução do programa, se a data selecionada existir no Diário Oficial o programa ira extrair do site o arquivo em PDF e realizará download do arquivo em uma pasta local chama PDF.
     - O programa criará uma pasta temporária chamada DPF_EM_TXT onde converte o PDF em arquivo texto para analise de processo;
     - Em seguida, criar uma terceira pasta chamada CADASTRO onde irá armazenar dois arquivo um arquivo de texto com resumo dos parágrafos extraído do arquivo PDF Diário Oficial e um arquivo em Excel, contendo uma planilha com as colunas: NOME, SITUAÇÃO ATUAL, PROFISSÃO, MATRÍCULA, APOSENTADORIA, NÚMERO DO PROCESSO.
 
