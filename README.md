@@ -17,7 +17,7 @@
     - O programa criará uma pasta temporária chamada DPF_EM_TXT onde converte o PDF em arquivo texto para analise de processo;
     - Em seguida, criar uma terceira pasta chamada CADASTRO onde irá armazenar dois arquivo um arquivo de texto com resumo dos parágrafos extraído do arquivo PDF Diário Oficial e um arquivo em Excel, contendo uma planilha com as colunas: NOME, SITUAÇÃO ATUAL, PROFISSÃO, MATRÍCULA, APOSENTADORIA, NÚMERO DO PROCESSO.
 
-![alt text](APP.png)
+                                                 ![alt text](APP.png)
 
 - Extra:
     - No roda pé do APP será exibido as etapas do processo ou estado do aplicativo;
