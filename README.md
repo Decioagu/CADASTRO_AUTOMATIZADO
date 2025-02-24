@@ -22,4 +22,10 @@
     - Botão EXCLUIR: O APP irá excluir as pastas locais PDF e CADASTRO com os respectivos arquivos dentro, porem é necessário confirmar a exclusão, pois não será possível recuperação dos arquivos excluídos.
 
 - Principais tecnologias:
->>>>>>> Stashed changes
+    - Expressões regulares em Python são usadas para buscar, corresponder e manipular strings de maneira eficiente.
+    - PySide6 é um framework para desenvolvimento de interfaces gráficas (GUI) em Python
+    - Selenium é um framework para automação de navegadores, amplamente utilizado para testes web e web scraping.
+    - Requests é uma biblioteca popular do Python usada para fazer requisições HTTP de maneira simples e intuitiva.
+    - O módulo shutil em Python é usado para operações de alto nível com arquivos e diretórios, como copiar, mover, renomear e remover arquivos ou diretórios inteiros.
+    - O comando import fitz é usado para importar o PyMuPDF, uma biblioteca poderosa para manipulação de arquivos PDF e XPS no Python.
+    - openpyxl é uma biblioteca Python que permite: ✅ Criar arquivos do Excel 
